@@ -550,6 +550,10 @@ section.map-section {
     color: #0B1A308A;
 }
 
+.carousel-caption a:hover span {
+    color: #000;
+}
+
 /* footer start here reponsive */
 @media (max-width:567px) {
     .web-footer {

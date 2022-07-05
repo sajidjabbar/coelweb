@@ -51,7 +51,7 @@
                                 <a href="pricing.php"> Pricing</a>
                             </li>
                             <li>
-                                <a href=""> shop</a>
+                                <a href="shop.php"> shop</a>
                             </li>
                             <li>
                                 <a href="blog.php"> blog</a>
