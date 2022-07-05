@@ -1,0 +1,378 @@
+/* banner css */
+.for-the-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0px;
+    text-align: center;
+    background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
+    background-color: transparent;
+    opacity: 0.5;
+}
+
+h1 {
+    font-size: 64px;
+    color: #0b1a30;
+    font-family: "lora-normal";
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    left: 15%;
+    top: 42%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-caption.d-none.d-md-block span {
+    padding-left: 12px;
+}
+
+.carousel-caption.d-none.d-md-block a {
+    color: #0b1a3080;
+    font-size: 20px;
+
+}
+
+.carousel-caption.d-none.d-md-block i {
+    color: #0B1A3080;
+    font-size: 18px;
+    padding-left: 12px;
+}
+
+section.about-book .text-on-right {
+    height: 100%;
+    padding-bottom: 30px;
+}
+
+section.about-book {
+    padding-top: 115px;
+    background: #f9fafd;
+}
+
+section.about-book .for-text h5 {
+    color: #c6d2e6;
+    font-size: 16px;
+}
+
+section.about-book .for-text h2 {
+    color: #0b1a30;
+    font-size: 48px;
+    font-family: "lora-normal";
+    margin-bottom: 29px;
+    margin-top: 18px;
+}
+
+section.about-book .for-text h3 {
+    color: #0b1a30;
+    font-size: 35px;
+    font-family: "lora-normal";
+    margin-bottom: 29px;
+    margin-top: 18px;
+}
+
+section.about-book .for-text p {    
+    font-size: 16px;
+}
+
+section.about-book .for-text .mb-6 {
+    margin-bottom: 62px;
+}
+
+section.about-book .for-text a {
+    font-size: 17px;
+    background-color: #ddc233;
+    padding: 16px 32px 16px 32px;
+    text-transform: capitalize;
+    color: #0b1a30;
+    border-radius: 6px;
+    font-weight: 700;
+    border: 0px;
+}
+
+section.Ordering-sec {
+    margin: 80px 0px;
+}
+.ordaring-headind {
+    text-align: center;
+}
+.ordaring-headind h4 {
+    font-size: 36px;
+    font-family: "Lora";
+    font-weight: 500;
+    color: black;
+    margin-bottom: 40px;
+}
+.ordaring-headind p{
+    font-size: 16px;
+    font-family: "inter";
+    font-weight: 400;
+    color: black;
+    margin-bottom: 60px;
+
+}
+.pra-heading h1 {
+    font-family: "lora";
+}
+.pra-heading h1 {
+    font-family: "Lora";
+    font-size: 64px;
+    font-weight: 500;
+}
+.img-wrapper .book-img figure img {
+    width: 97%;
+    height: 50vh ! important;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.img-wrapper {
+    position: relative;
+}
+
+.absolute-heading {
+    position: absolute;
+    top:0px;
+    left: 0px;
+    background-color: #0B1A3080;
+    height: 100%;
+    width: 97%;
+    border-radius: 21px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading-contect a{
+    font-family: "inter";
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.slick-list.draggable {
+    height: 300px;
+}
+img.img-fluid.slick-slide.slick-cloned.slick-active {
+    margin: 0px -20px;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    color: black !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.trading-heading{
+    font-family: "Lora";
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+section.Orders-sec {
+    background: #EDF2FA;
+}
+p.para-trading {
+    margin-top: 0px;
+    margin-bottom: 60px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "inter";
+}
+.slider-fiqure img{
+    margin: 0 20px;
+}
+.slick-dots li {
+    width: 8px;
+   
+}
+.slick-dotted.slick-slider {
+    margin-bottom: 90px;
+}
+.btn {
+    margin-top: 20px;
+}
+.btn button {
+    background: #ddc233;
+    padding: 16px 30px;
+    border: none;
+    border-radius: 6px;
+    font-size: 12px;
+    font-family: "inter";
+    font-weight: 700;
+}
+.postage-heading{
+    font-family: "Lora";
+    font-size: 16px;
+    font-weight: 400;
+}
+.slider-fiqure1 img{
+    margin: 0 50px;
+}
+.text-heading {
+    text-align: center;
+}
+.text-heading h5 {
+    color: #c6d2e6;
+    font-size: 16px;  
+    font-family: "inter";
+    font-weight: 500;
+    margin-bottom: 10px; 
+}
+.text-heading h2 {
+    font-size: 48px;  
+    font-family: "Lora";
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.text-heading p {
+    font-size: 16px;  
+    font-family: "inter";
+    font-weight: 400;
+    margin-bottom: 10px; 
+    padding: 0 60px;
+}
+
+    .shadowed-box {
+        border-radius: 16px 16px 16px 16px;
+        box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+        padding: 30px px 28px;
+        border-radius: 25px;
+        transition: 0.6s all;
+        overflow: hidden;
+        background-image: radial-gradient(at center center, #ffffff00 65%, #ddc233 100%);
+    }
+
+.shadowed-box h5{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Lora";
+    margin-top: 38px;
+}
+.shadowed-box h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "inter";
+}
+.shadowed-box h3 span{
+    margin-top: 40px;
+    font-size: 44px;
+    font-weight: 500;
+    font-family: "Lora";
+}
+.list-item {
+    margin-top: 50px;
+}
+.list-item ul{
+    padding-left: 70px;
+}
+.list-item ul li{
+    list-style: none;
+    margin: 20px 0px;
+}
+.list-item ul li:hover{
+color: #ddc233 !important;
+}
+.list-item ul li i{
+    margin-right: 15px;
+}
+
+.card-button {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card-button button{
+    background: transparent;
+    padding: 15px 34px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: "inter";
+    font-weight: 600;
+    border: 1px solid black;
+    margin-top: 10px;
+    cursor: pointer !important;
+}
+.card-button button:hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+    transition: 0.5s;
+}
+.card-button button a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    text-transform: uppercase;
+}
+#sec2 {
+    background-color: #DFDCDE !important;
+}
+section.Pricing-sec {
+    margin-bottom: 100px;
+}
+.shadowed-box1 {
+    border-radius: 16px 16px 16px 16px;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+    padding: 30px px 28px;
+    border-radius: 25px;
+    transition: 0.6s all;
+    overflow: hidden;
+    background-color: #dfdcde73;
+}
+.shadowed-box1 h5 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Lora";
+    margin-top: 38px;
+}
+.shadowed-box1 h3 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "inter";
+}
+.shadowed-box1 h3 span {
+    margin-top: 40px;
+    font-size: 44px;
+    font-weight: 500;
+    font-family: "Lora";
+}
+.card-button1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card-button1 button {
+    background: transparent;
+    padding: 15px 34px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: "inter";
+    font-weight: 600;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer !important;
+    background-color: #0b1a30;
+    text-transform: uppercase;
+}
+.card-button1 button a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #ffffff;
+}
+.card-button1 button:hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+    transition: 0.5s;
+}
+

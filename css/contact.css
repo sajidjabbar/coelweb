@@ -1,0 +1,235 @@
+@font-face {
+  font-family: "lora_r";
+  src: url(../fonts/Lora-Regular.ttf);
+}
+
+@font-face {
+  font-family: "lora_b";
+  src: url(../fonts/Lora-Bold.ttf);
+}
+
+@font-face {
+  font-family: "inter_m";
+  src: url(../fonts/Inter-Medium.ttf);
+}
+
+@font-face {
+  font-family: "inter_r";
+  src: url(../fonts/Inter-Regular.ttf);
+}
+
+/* .about_banner .img_box img {
+  height: 360px;
+  width: 100%;
+  object-fit: cover;
+  filter: grayscale(1);
+} */
+.contact_banner .img_box {
+  background-color: #EDF2FA;
+  background-image: radial-gradient(at bottom left, #FEC85440 11%, #FFFFFF00 27%), url(../img/hero-contact.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  /* opacity: 0.5; */
+  padding: 235px 0px 137px 0px;
+}
+
+.background_overlay {
+  background-color: transparent;
+  opacity: 0.5;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  height: 558px;
+  width: 100%;
+  background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
+  top: 89px;
+  left: 0;
+  position: absolute;
+}
+
+.banner_breadcrumps span {
+  font-family: "inter_m";
+  z-index: 1;
+  color: #0B1A3080;
+}
+
+.banner_breadcrumps a {
+  font-family: "inter_m";
+  z-index: 1;
+  color: #0B1A3080;
+}
+
+.banner_breadcrumps span:hover {
+  color: #000;
+}
+
+.contact_us {
+  padding: 3rem 0;
+}
+
+.contact_us h1 {
+  font-family: "Lora_r", sans-serif;
+  margin-bottom: 2rem;
+}
+
+.banner_breadcrumps {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+
+.banner_breadcrumps i {
+  font-size: 17px;
+  font-weight: 800;
+  z-index: 1;
+  color: #0B1A3080;
+}
+
+.banner_breadcrumps a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.banner_breadcrumps i.fa.fa-home:hover {
+  color: #000;
+  z-index: 1;
+}
+
+.banner_breadcrumps i.fa.fa-angle-right:hover {
+  color: #000;
+  z-index: 1;
+}
+
+.banner_heading h1 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  color: #000;
+  font-size: 60px;
+  font-family: "lora_r";
+}
+
+.social_logo {
+  background: #DDC233;
+  WIDTH: 30px;
+  border-radius: 50%;
+  height: 30px;
+  /* padding-top: 2px; */
+  /* padding-left: 4px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social_icon {
+  display: flex;
+  /* justify-content: center; */
+  gap: 10px;
+}
+
+.top_value p {
+  color: #0B1A3080;
+  font-size: 18px;
+  font-family: "inter_m";
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+/* Contact Css Start Here */
+.contact_banner {
+  background: #aec934;
+}
+
+.contact_sec {
+  padding: 30px 0 80px;
+}
+
+.contact_sec .heading {
+  padding-bottom: 40px;
+}
+
+.contact_sec .heading h3 {
+  color: #222a41;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.contact_sec .form-group .form-control {
+  border: 0;
+  border-bottom: 1px solid #aeb7c1;
+  border-radius: 0;
+  font-size: 16px;
+  font-family: "Poppins";
+  color: #6d7783;
+  padding: 15px 15px;
+}
+
+.contact_sec .form-group .form-control::placeholder {
+  color: #6d7783;
+}
+
+.contact_sec .form-group textarea {
+  height: 150px;
+  resize: none;
+}
+
+.contact_sec .button-group .btn {
+  background-color: #aec934;
+  padding: 10px 60px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.6s;
+  border-radius: 5px;
+  font-family: "Poppins";
+  cursor: pointer;
+}
+
+.contact_sec .button-group .btn:hover {
+  background: #7d88be;
+}
+
+/* Contact Css End Here */
+
+/* Contact Information Css Start Here */
+.contact_info {
+  padding: 40px 0;
+  background: #f5f5f5;
+}
+
+.contact_info .img_box img {
+  width: 80px;
+  transition: 0.6s;
+}
+
+.contact_info .info_box:hover .img_box img {
+  transform: rotate(45deg);
+}
+
+.contact_info .info_box {
+  display: flex;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.contact_info .info_box .detailDv {
+  padding-left: 15px;
+}
+
+.contact_info .info_box .detailDv h3.title {
+  font-weight: 500;
+  color: #202020;
+  text-transform: uppercase;
+}
+
+.contact_info .info_box .detailDv a {
+  color: #7d7d7d;
+  text-decoration: none;
+}
+
+.contact_info .info_box .detailDv p {
+  color: #7d7d7d;
+  margin-bottom: 0;
+}
+
+/* Contact Information Css End Here */

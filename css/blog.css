@@ -1,0 +1,149 @@
+.for-the-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0px;
+    text-align: center;
+    background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
+    background-color: transparent;
+    opacity: 0.5;
+}
+
+h1 {
+    font-size: 64px;
+    color: #0b1a30;
+    font-family: "lora-normal";
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;   
+    left: 15%;
+    top: 42%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-caption.d-none.d-md-block span {
+    padding-left: 12px;
+}
+
+.carousel-caption.d-none.d-md-block a {
+    color: #0b1a3080;
+    font-size: 20px;
+
+}
+
+.carousel-caption.d-none.d-md-block i {
+    color: #0B1A3080;
+    font-size: 18px;
+    padding-left: 12px;
+}
+
+section.about-book .text-on-right {
+    height: 100%;
+    padding-bottom: 30px;
+}
+
+section.about-book {
+    padding-top: 115px;
+    background: #f9fafd;
+}
+
+section.about-book .for-text h5 {
+    color: #c6d2e6;
+    font-size: 16px;
+}
+
+section.about-book .for-text h2 {
+    color: #0b1a30;
+    font-size: 48px;
+    font-family: "lora-normal";
+    margin-bottom: 29px;
+    margin-top: 18px;
+}
+
+section.about-book .for-text h3 {
+    color: #0b1a30;
+    font-size: 35px;
+    font-family: "lora-normal";
+    margin-bottom: 29px;
+    margin-top: 18px;
+}
+
+section.about-book .for-text p {
+    
+    font-size: 16px;
+}
+
+section.about-book .for-text .mb-6 {
+    margin-bottom: 62px;
+}
+
+section.about-book .for-text a {
+    font-size: 17px;
+    background-color: #ddc233;
+    padding: 16px 32px 16px 32px;
+    text-transform: capitalize;
+    color: #0b1a30;
+    border-radius: 6px;
+    font-weight: 700;
+    border: 0px;
+}
+.text-heading {
+    text-align: center;
+}
+.text-heading h5 {
+    color: #c6d2e6;
+    font-size: 16px;
+    font-family: "inter";
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.text-heading h2 {
+    font-size: 48px;
+    font-family: "Lora";
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.text-heading p {
+    font-size: 16px;
+    font-family: "inter";
+    font-weight: 400;
+    margin-bottom: 10px;
+    padding: 0 60px;
+}
+img.card-img-top {
+    width: 100%;
+    height: 178px;
+    object-fit: cover;
+}
+section.our-blog-sec {
+    margin: 70px 0px;
+}   
+
+.card-body h4 {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "inter";
+    padding-left: 20px;
+    padding-top: 9px;
+    padding-bottom: 40px;
+}
+.card {
+    width: 110%;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+    border: none !important;
+}
+
+h5.card-title {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Lora";
+}
