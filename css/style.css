@@ -23,7 +23,7 @@
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #000;
+    background: #DDC233;
 }
 
 #preloader:before {
@@ -38,6 +38,31 @@
     height: 60px;
     -webkit-animation: animate-preloader 1s linear infinite;
     animation: animate-preloader 1s linear infinite;
+}
+
+@keyframes bounce {
+
+    0%,
+    100%,
+    20%,
+    50%,
+    80% {
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0)
+    }
+
+    40% {
+        -webkit-transform: translateY(-30px);
+        -ms-transform: translateY(-30px);
+        transform: translateY(-30px)
+    }
+
+    60% {
+        -webkit-transform: translateY(-15px);
+        -ms-transform: translateY(-15px);
+        transform: translateY(-15px)
+    }
 }
 
 @-webkit-keyframes animate-preloader {
@@ -74,6 +99,10 @@ body {
     font-family: "lora";
 }
 
+.active {
+    color: #DDC233 !important;
+}
+
 /* header start here  */
 .upper-banner {
     background-color: #DDC233;
@@ -81,7 +110,7 @@ body {
 }
 
 .upper-banner svg {
-    width: 25px;
+    width: 20px;
 }
 
 .offers {
@@ -92,15 +121,24 @@ body {
 
 .offer-btn {
     margin-left: 20px;
-    padding: 6px;
+    padding: 3px 10px;
     border: 1px;
     background-color: white;
-    border-radius: 8px;
+    border-radius: 4px;
+}
+
+.offer-btn:hover {
+    transform: translateY(-10px);
+    cursor: pointer;
+    transition: 0.5s;
 }
 
 .offers span {
     color: #ffffff;
     margin-left: 10px;
+    font-family: "inter";
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .offer-btn a {
@@ -108,6 +146,12 @@ body {
     font-family: "Inter-SemiBold";
     text-transform: uppercase;
     font-size: 12px;
+}
+
+.about-thisweb p {
+    font-weight: 500;
+    font-family: "inter";
+    font-size: 18px;
 }
 
 .web-nav {
@@ -119,20 +163,25 @@ body {
 .web-nav li a {
     color: #0b1a30;
     font-size: 17px;
-    font-family: "Inter-SemiBold";
+    font-family: "Inter";
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: capitalize;
 }
 
 .web-nav li a:hover {
     color: #ddc233;
     text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav-web ul {
+    margin-top: 20px;
 }
 
 .web-nav li {
     display: inline;
-    padding: 10px 22px;
+    padding: 11px 16px;
 }
 
 .nav-web {
@@ -145,12 +194,19 @@ body {
 .nav-icons {
     display: flex;
     align-items: center;
-    height: 84%;
-
+    height: 100%;
 }
 
 .search-icon {
-    margin-right: 40px;
+    margin-right: 30px;
+}
+
+.cart-icon i.fa.fa-shopping-cart {
+    font-size: 19px;
+}
+
+.cart-icon i.fa.fa-shopping-cart:hover {
+    color: #818a91;
 
 }
 
@@ -163,10 +219,13 @@ body {
     border: 1px;
     background-color: white;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .cart-icon:hover {
     background-color: transparent;
+    transition: 0.3s;
+
 }
 
 @media (max-width:1024px) {
@@ -296,13 +355,19 @@ li.nav-link a {
 }
 
 section.map-section {
-    background-image: url('../img/home-map.png');
+    background-image: url('../img/home-map.png') !important;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
     padding-top: 100px;
+    overflow: hidden;
 }
+
+.img-cardbox1 {
+    position: absolute;
+}
+
 
 .web-header-img img {
     opacity: 0.6;
@@ -346,6 +411,11 @@ section.map-section {
     font-family: "Inter-SemiBold";
 }
 
+.about-thisweb a:hover {
+    transform: translate(-10px);
+    transition: 0.3s;
+}
+
 .about-thisweb {
     text-align: center;
 }
@@ -359,12 +429,45 @@ section.map-section {
 .img-cardbox {
     margin-top: 40px;
     z-index: 333;
-}
-
-.img-cardbox1 img {
-    width: 87%;
+    margin-left: 29px;
+    width: 100%;
     margin-top: 93px;
     z-index: 333;
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    transition: all 0.5s;
+}
+
+.img-cardbox:hover {
+    cursor: pointer;
+    animation-name: bounce;
+    -moz-animation-name: bounce;
+}
+
+.img-cardbox1 {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    transition: all 0.5s;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.img-cardbox1:hover {
+    cursor: pointer;
+    animation-name: bounce;
+    -moz-animation-name: bounce;
 }
 
 .for-the-text {
@@ -403,6 +506,12 @@ section.map-section {
 
 .shipping span {
     margin-left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "inter";
+    opacity: 0.5;
+    margin-left: 20px;
+    margin-bottom: 4px;
 }
 
 .shipping i.fas {
@@ -434,17 +543,20 @@ section.map-section {
 }
 
 .detail-heading h2 {
-    font-family: "Lora-Italic";
-    font-weight: 600;
+    font-family: "Lora";
+    font-weight: 500;
+    font-size: 36px;
 }
 
 .detail-sec p {
     line-height: 2;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "inter";
 }
 
-.detail-sec h4 {
-    line-height: 2;
-    color: #ddc233;
+.detail-btn {
+    margin-top: 30px;
 }
 
 .detail-btn a {
@@ -452,7 +564,24 @@ section.map-section {
     background-color: #ddc233;
     color: #0b1a30;
     text-transform: uppercase;
-    font-family: "Inter-SemiBold";
+    font-family: "Inter";
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.detail-heading h5 {
+    font-family: "Lora";
+    font-weight: 700;
+    font-size: 17px;
+}
+
+
+.detail-sec h4 {
+    line-height: 2;
+    color: #ddc233;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Lora";
 }
 
 .detail-content {
@@ -484,10 +613,23 @@ section.map-section {
 
 .about-this-img p {
     color: #0b1a3080;
+    font-family: "inter";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.icons-heading h5 {
+    font-family: "inter";
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .its-menu-heading h5 {
     color: #0b1a30;
+    color: #0b1a30;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "inter";
 }
 
 .about-this-menu a {
@@ -495,6 +637,9 @@ section.map-section {
     color: #0b1a3080;
     text-transform: capitalize;
     line-height: 2;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "inter";
 }
 
 .home-heading {
@@ -514,6 +659,7 @@ section.map-section {
 
 .social-icons {
     display: flex;
+    margin-left: -10px;
 }
 
 .social-icon-facebook {
@@ -535,11 +681,17 @@ section.map-section {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #0B1A308A;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .copy-right {
-    color: #0B1A308A;
+    margin-top: 12px;
+}
+
+.copy-right span {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "inter";
 }
 
 .footer-links {
@@ -547,7 +699,11 @@ section.map-section {
 }
 
 .footer-links a {
-    color: #0B1A308A;
+    font-size: 16px;
+    font-family: "inter";
+    font-weight: 400;
+    color: #0b1a30;
+    text-decoration: none;
 }
 
 .carousel-caption a:hover span {

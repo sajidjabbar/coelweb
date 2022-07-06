@@ -12,9 +12,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="website-heading">
-                            <h1 class="animate__animated animate__fadeInDown animate__delay-1s">Welcome to </h1>
+                            <h1 class="animate__animated animate__fadeInUp animate__delay-1s">Welcome to </h1>
                             <div class="col-md-3">
-                                <div class="animate__animated animate__fadeInDown animate__delay-1s">
+                                <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                     <img src="img/logo.png" alt="" class="img-fluid">
                                 </div>
                             </div>
@@ -26,7 +26,7 @@
                     <div class="col-md-12">
                         <div class="content-web">
                             <div class="col-md-6">
-                                <div class="animate__animated animate__fadeInDown animate__delay-1s">
+                                <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                     <div class="about-thisweb">
 
                                         <p>Home of Prosopographica et Genealogica, imprint of Occasional Publications UPR,
@@ -44,25 +44,22 @@
                 </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-1"></div>
-                        <div class="col-md-3">
-                            <div class="animate__animated animate__fadeInDown animate__delay-1s">
+                        <div class="col-md-4">
+                            <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                 <div class="img-cardbox1">
                                     <img src="img/book1.jpg" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-1"></div>
-                        <div class="col-md-3">
-                            <div class="animate__animated animate__fadeInDown animate__delay-3s">
+                        <div class="col-md-4">
+                            <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox">
                                     <img src="img/book2.jpg" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-1"></div>
-                        <div class="col-md-3">
-                            <div class="animate__animated animate__fadeInDown animate__delay-4s">
+                        <div class="col-md-4">
+                            <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox1">
                                     <img src="img/book3.jpg" alt="" class="img-fluid">
                                 </div>

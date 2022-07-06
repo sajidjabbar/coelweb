@@ -1,5 +1,5 @@
 <!-- App Include Here -->
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
 <!-- Stylesheet -->
@@ -39,7 +39,7 @@
             <div class="col-md-6 align-self-center">
                 <div class="content_wrapper">
                     <div class="heading_wrapper">
-                        <p class="grey_para">ABOUT US</p>
+                        <h5 class="grey_para">ABOUT US</h5>
                         <h2 class="title">About Book</h2>
                     </div>
                     <p>
@@ -63,9 +63,6 @@
                     </div>
                     <p>
                         A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                        Molestie aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt
-                        eget cras nisl est aliquam ut blandit nibh vulputate lectus ullamcorper. <br><br>
-
                         Molestie aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt
                         eget cras nisl est aliquam ut blandit nibh vulputate lectus ullamcorper.
                     </p>
@@ -122,7 +119,7 @@
             <section class="team_member_sec">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="team_member">
+                        <div class="team_member  wow animate__animated animate__fadeInUp animate__delay-2s	1s ">
                             <img src="img/team1.jpg" class="img-fluid" alt="">
                             <h3>Brook Marshall</h3>
                             <p>
@@ -146,7 +143,7 @@
 
                     </div>
                     <div class="col-md-4">
-                        <div class="team_member">
+                        <div class="team_member  wow animate__animated animate__fadeInUp animate__delay-2s	1s">
                             <img src="img/team2.jpg" class="img-fluid" alt="">
                             <h3>Glen Saunders</h3>
                             <p>
@@ -169,7 +166,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="team_member">
+                        <div class="team_member  wow animate__animated animate__fadeInUp animate__delay-2s	1s">
                             <img src="img/team3.jpg" class="img-fluid" alt="">
                             <h3>Gabe Hopkins</h3>
                             <p>
@@ -195,58 +192,64 @@
             </section>
         </div>
     </div>
-    <section class="whatpeosay_sec">
-        <h2>What People Says</h2>
+    <section class="whatpeosay_sec ">
+        <h2 class="wow animate__animated animate__fadeInLeft animate__delay-1s	1s">What People Says</h2>
         <div class="container">
-            <div class="whatsaycarousel">
-                <div class="wsay">
-                    <div class="greybg">
-                        <p>
-                            A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                            Molestie
-                            aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
-                            cras
-                            nisl
-                            est.
-                        </p>
-                        <img src="img/psay3.jpg" class="img-fluid" alt="">
-                        <b>Mell Harvey</b>
-                        <p class="mb-0">Founder BookChimp</p>
-                    </div>
-                </div>
-                <div class="wsay">
-                    <div class="greybg">
-                        <p>
-                            A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                            Molestie
-                            aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
-                            cras
-                            nisl
-                            est.
-                        </p>
-                        <img src="img/psay2.jpg" class="img-fluid" alt="">
-                        <b>Mell Harvey</b>
-                        <p class="mb-0">Founder BookChimp</p>
-                    </div>
+            <div class="row slick-slider22">
+                <div class="col-lg-8 mx-auto">
+                    <div class="slickslider1 wow animate__animated animate__backInUp animate__slow 2s">
+                        <div class="whatsaycarousel">
+                            <div class="wsay">
+                                <div class="greybg">
+                                    <p>
+                                        A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
+                                        Molestie
+                                        aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
+                                        cras
+                                        nisl
+                                        est.
+                                    </p>
+                                    <img src="img/psay3.jpg" class="img-fluid" alt="">
+                                    <b>Mell Harvey</b>
+                                    <p class="mb-0">Founder BookChimp</p>
+                                </div>
+                            </div>
+                            <div class="wsay">
+                                <div class="greybg">
+                                    <p>
+                                        A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
+                                        Molestie
+                                        aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
+                                        cras
+                                        nisl
+                                        est.
+                                    </p>
+                                    <img src="img/psay2.jpg" class="img-fluid" alt="">
+                                    <b>Mell Harvey</b>
+                                    <p class="mb-0">Founder BookChimp</p>
+                                </div>
 
-                </div>
-                <div class="wsay">
-                    <div class="greybg">
-                        <p>
-                            A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                            Molestie
-                            aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
-                            cras
-                            nisl
-                            est.
-                        </p>
-                        <img src="img/psay1.jpg" class="img-fluid" alt="">
-                        <b>Mell Harvey</b>
-                        <p class="mb-0">Founder BookChimp</p>
+                            </div>
+                            <div class="wsay">
+                                <div class="greybg">
+                                    <p>
+                                        A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
+                                        Molestie
+                                        aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt eget
+                                        cras
+                                        nisl
+                                        est.
+                                    </p>
+                                    <img src="img/psay1.jpg" class="img-fluid" alt="">
+                                    <b>Mell Harvey</b>
+                                    <p class="mb-0">Founder BookChimp</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-
                 </div>
             </div>
+        </div>
         </div>
     </section>
 </section>
@@ -254,5 +257,5 @@
 
 
 <!-- Footer Include Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->

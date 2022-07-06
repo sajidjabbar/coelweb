@@ -1,25 +1,5 @@
-@font-face {
-  font-family: "lora_r";
-  src: url(../fonts/Lora-Regular.ttf);
-}
-
-@font-face {
-  font-family: "lora_b";
-  src: url(../fonts/Lora-Bold.ttf);
-}
-
-@font-face {
-  font-family: "inter_m";
-  src: url(../fonts/Inter-Medium.ttf);
-}
-
 /* About Css Start Here */
-/* .about_banner .img_box img {
-  height: 360px;
-  width: 100%;
-  object-fit: cover;
-  filter: grayscale(1);
-} */
+
 .about_banner .img_box {
   background-color: #EDF2FA;
   background-image: radial-gradient(at bottom left, #FEC85440 11%, #FFFFFF00 27%), url(../img/hero-about.jpg);
@@ -35,7 +15,7 @@
   background-color: transparent;
   opacity: 0.5;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-  height: 512px;
+  height: 102%;
   width: 100%;
   background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
   top: 89px;
@@ -76,11 +56,18 @@
 .threebtn i {
   font-size: 24px;
   color: #DDC233;
+  margin-right: 20px;
 }
 
 .threebtn:hover i {
   z-index: 1;
   color: #0B1A3080;
+}
+
+.meet_team p {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "inter";
 }
 
 .threebtn {
@@ -97,8 +84,9 @@
 .threebtn p {
   margin-bottom: 0;
   color: #0B1A3080;
-  font-family: "inter_m";
+  font-family: "inter";
   font-size: 18px;
+  font-weight: 500;
 }
 
 .banner_breadcrumps a:hover {
@@ -131,7 +119,8 @@
   position: relative;
   color: #000;
   font-size: 60px;
-  font-family: "lora_r";
+  font-family: "lora";
+  font-weight: 400;
 }
 
 p.grey_para {
@@ -153,6 +142,7 @@ p.grey_para {
   padding: 16px 32px 16px 32px;
   font-weight: 700;
   text-transform: uppercase;
+  margin-top: 40px;
 }
 
 .about_sec .content_wrapper button.btn:hover {
@@ -166,10 +156,25 @@ p.grey_para {
   font-size: 48px;
 }
 
-.about_sec p {
-  color: #6d7783;
-  font-size: 18px;
+.about_sec h5 {
+  color: #c6d2e6;
+  font-size: 16px;
   line-height: 28px;
+  font-weight: 400;
+  font-family: "inter";
+}
+
+.about_sec p {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: "inter";
+}
+
+.about_sec .heading_wrapper h3 {
+  font-size: 35px;
+  font-weight: 500;
+  font-family: "Lora";
 }
 
 .meet_team {
@@ -177,8 +182,17 @@ p.grey_para {
 }
 
 .meet_team h1 {
-  font-family: "lora_r";
+  font-family: "lora";
   margin-bottom: 2rem;
+  font-size: 48px;
+}
+
+.team_member p {
+  font-family: "inter";
+  margin-bottom: 2rem;
+  font-size: 16px;
+  font-weight: 400;
+  color: #0b1a3080;
 }
 
 p.meet_team_paras {
@@ -252,32 +266,34 @@ section.team_member_sec {
 
 section.whatpeosay_sec h2 {
   text-align: center;
-
-  margin-bottom: 2rem;
-}
-
-.whatsaycarousel {
-  position: relative;
-  height: 400px;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: "lora";
+  color: #0b1a30;
+  margin-bottom: 80px;
 }
 
 section.whatpeosay_sec {
   margin-top: 4rem;
+  margin-bottom: 110px;
 }
 
 .wsay {
-  width: 600px !important;
   background: #f9fafd;
-  margin: 0 246px;
+  margin: 0 66px;
   padding: 2rem;
-  border: 1px solid #C6D2E6;
-  border-style: dashed;
   border-radius: 10px;
   padding-bottom: 4rem;
 }
 
 .whatsaycarousel .slick-dots {
-  bottom: 50px
+  bottom: 20px
+}
+
+.slickslider1 {
+  border: 1px solid #C6D2E6;
+  border-style: dashed;
+  border-radius: 10px;
 }
 
 .whatsaycarousel .slick-dots li.slick-active button:before {
@@ -300,6 +316,12 @@ section.whatpeosay_sec {
   justify-content: center;
   flex-direction: column;
   background: #fff;
+}
+
+.greybg p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "lora";
 }
 
 /* .about_sec .img_box {

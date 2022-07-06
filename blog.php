@@ -50,18 +50,20 @@
         </div>
         <div class="row">
             <div class="col-lg-3 mt-2">
-                <div class="card-blog">
-                    <div class="card">
-                        <img class="card-img-top" src="./img/refd.png" class="img-fluid">
-                        <div class="card-body">
-                            <h5 class="card-title">Lorem Ipsum3
-                            </h5>
-                            <h4>November 23, 2021 No Comments
-                            </h4>
+                <a href="blog-detail.php">
+                    <div class="card-blog">
+                        <div class="card">
+                            <img class="card-img-top" src="./img/refd.png" class="img-fluid">
+                            <div class="card-body">
+                                <h5 class="card-title">Lorem Ipsum3
+                                </h5>
+                                <h4>November 23, 2021 No Comments
+                                </h4>
 
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
             <div class="col-lg-3"></div>
             <div class="col-lg-3"></div>

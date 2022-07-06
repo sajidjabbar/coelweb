@@ -35,29 +35,29 @@
             <div class="row">
                 <div class="col-md-3 col-6">
                     <div class="nav-imgbox">
-                        <img src="img/logo.png" alt="" class="img-fluid">
+                        <a href="index.php"><img src="img/logo.png" alt="" class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-md-7 col-2">
                     <div class="nav-web">
                         <ul>
                             <li>
-                                <a href="index.php"> home</a>
+                                <a class="menu" href="index.php"> home</a>
                             </li>
                             <li>
-                                <a href="about.php"> About</a>
+                                <a class="menu" href="about.php"> About</a>
                             </li>
                             <li>
-                                <a href="pricing.php"> Pricing</a>
+                                <a class="menu" href="pricing.php"> Pricing</a>
                             </li>
                             <li>
-                                <a href="shop.php"> shop</a>
+                                <a class="menu" href="shop.php"> shop</a>
                             </li>
                             <li>
-                                <a href="blog.php"> blog</a>
+                                <a class="menu" href="blog.php"> blog</a>
                             </li>
                             <li>
-                                <a href="contact.php"> contact</a>
+                                <a class="menu" href="contact.php"> contact</a>
                             </li>
                         </ul>
                     </div>

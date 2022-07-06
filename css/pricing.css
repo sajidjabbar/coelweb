@@ -76,7 +76,7 @@ section.about-book .for-text h3 {
     margin-top: 18px;
 }
 
-section.about-book .for-text p {    
+section.about-book .for-text p {
     font-size: 16px;
 }
 
@@ -98,9 +98,11 @@ section.about-book .for-text a {
 section.Ordering-sec {
     margin: 80px 0px;
 }
+
 .ordaring-headind {
     text-align: center;
 }
+
 .ordaring-headind h4 {
     font-size: 36px;
     font-family: "Lora";
@@ -108,7 +110,8 @@ section.Ordering-sec {
     color: black;
     margin-bottom: 40px;
 }
-.ordaring-headind p{
+
+.ordaring-headind p {
     font-size: 16px;
     font-family: "inter";
     font-weight: 400;
@@ -116,27 +119,31 @@ section.Ordering-sec {
     margin-bottom: 60px;
 
 }
+
 .pra-heading h1 {
     font-family: "lora";
 }
+
 .pra-heading h1 {
     font-family: "Lora";
     font-size: 64px;
     font-weight: 500;
 }
+
 .img-wrapper .book-img figure img {
     width: 97%;
-    height: 50vh ! important;
+    height: 170px ! important;
     border-radius: 20px;
     object-fit: cover;
 }
+
 .img-wrapper {
     position: relative;
 }
 
 .absolute-heading {
     position: absolute;
-    top:0px;
+    top: 0px;
     left: 0px;
     background-color: #0B1A3080;
     height: 100%;
@@ -147,7 +154,8 @@ section.Ordering-sec {
     align-items: center;
     justify-content: center;
 }
-.heading-contect a{
+
+.heading-contect a {
     font-family: "inter";
     font-size: 16px;
     font-weight: 500;
@@ -159,10 +167,13 @@ section.Ordering-sec {
 .slick-list.draggable {
     height: 300px;
 }
+
 img.img-fluid.slick-slide.slick-cloned.slick-active {
     margin: 0px -20px;
 }
-.slick-prev:before, .slick-next:before {
+
+.slick-prev:before,
+.slick-next:before {
     font-family: 'slick';
     font-size: 20px;
     line-height: 1;
@@ -170,15 +181,18 @@ img.img-fluid.slick-slide.slick-cloned.slick-active {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.trading-heading{
+
+.trading-heading {
     font-family: "Lora";
     font-size: 36px;
     font-weight: 500;
     margin-top: 50px;
 }
+
 section.Orders-sec {
     background: #EDF2FA;
 }
+
 p.para-trading {
     margin-top: 0px;
     margin-bottom: 60px;
@@ -186,19 +200,24 @@ p.para-trading {
     font-weight: 400;
     font-family: "inter";
 }
-.slider-fiqure img{
+
+.slider-fiqure img {
     margin: 0 20px;
 }
+
 .slick-dots li {
     width: 8px;
-   
+
 }
+
 .slick-dotted.slick-slider {
     margin-bottom: 90px;
 }
+
 .btn {
     margin-top: 20px;
 }
+
 .btn button {
     background: #ddc233;
     padding: 16px 30px;
@@ -208,82 +227,95 @@ p.para-trading {
     font-family: "inter";
     font-weight: 700;
 }
-.postage-heading{
+
+.postage-heading {
     font-family: "Lora";
     font-size: 16px;
     font-weight: 400;
 }
-.slider-fiqure1 img{
+
+.slider-fiqure1 img {
     margin: 0 50px;
 }
+
 .text-heading {
     text-align: center;
 }
+
 .text-heading h5 {
     color: #c6d2e6;
-    font-size: 16px;  
+    font-size: 16px;
     font-family: "inter";
     font-weight: 500;
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
 }
+
 .text-heading h2 {
-    font-size: 48px;  
+    font-size: 48px;
     font-family: "Lora";
     font-weight: 500;
     margin-bottom: 30px;
 }
+
 .text-heading p {
-    font-size: 16px;  
+    font-size: 16px;
     font-family: "inter";
     font-weight: 400;
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     padding: 0 60px;
 }
 
-    .shadowed-box {
-        border-radius: 16px 16px 16px 16px;
-        box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
-        padding: 30px px 28px;
-        border-radius: 25px;
-        transition: 0.6s all;
-        overflow: hidden;
-        background-image: radial-gradient(at center center, #ffffff00 65%, #ddc233 100%);
-    }
+.shadowed-box {
+    border-radius: 16px 16px 16px 16px;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+    padding: 30px px 28px;
+    border-radius: 25px;
+    transition: 0.6s all;
+    overflow: hidden;
+    background-image: radial-gradient(at center center, #ffffff00 65%, #ddc233 100%);
+}
 
-.shadowed-box h5{
+.shadowed-box h5 {
     text-align: center;
     font-size: 24px;
     font-weight: 500;
     font-family: "Lora";
     margin-top: 38px;
 }
-.shadowed-box h3{
+
+.shadowed-box h3 {
     text-align: center;
     margin-top: 40px;
     font-size: 16px;
     font-weight: 400;
     font-family: "inter";
 }
-.shadowed-box h3 span{
+
+.shadowed-box h3 span {
     margin-top: 40px;
     font-size: 44px;
     font-weight: 500;
     font-family: "Lora";
 }
+
 .list-item {
     margin-top: 50px;
 }
-.list-item ul{
+
+.list-item ul {
     padding-left: 70px;
 }
-.list-item ul li{
+
+.list-item ul li {
     list-style: none;
     margin: 20px 0px;
 }
-.list-item ul li:hover{
-color: #ddc233 !important;
+
+.list-item ul li:hover {
+    color: #ddc233 !important;
 }
-.list-item ul li i{
+
+.list-item ul li i {
     margin-right: 15px;
 }
 
@@ -291,7 +323,8 @@ color: #ddc233 !important;
     text-align: center;
     margin-bottom: 30px;
 }
-.card-button button{
+
+.card-button button {
     background: transparent;
     padding: 15px 34px;
     border-radius: 6px;
@@ -302,23 +335,28 @@ color: #ddc233 !important;
     margin-top: 10px;
     cursor: pointer !important;
 }
-.card-button button:hover{
+
+.card-button button:hover {
     transform: translateY(-10px);
     cursor: pointer;
     transition: 0.5s;
 }
-.card-button button a{
+
+.card-button button a {
     text-decoration: none;
     cursor: pointer;
     color: black;
     text-transform: uppercase;
 }
+
 #sec2 {
     background-color: #DFDCDE !important;
 }
+
 section.Pricing-sec {
     margin-bottom: 100px;
 }
+
 .shadowed-box1 {
     border-radius: 16px 16px 16px 16px;
     box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
@@ -328,6 +366,7 @@ section.Pricing-sec {
     overflow: hidden;
     background-color: #dfdcde73;
 }
+
 .shadowed-box1 h5 {
     text-align: center;
     font-size: 24px;
@@ -335,6 +374,7 @@ section.Pricing-sec {
     font-family: "Lora";
     margin-top: 38px;
 }
+
 .shadowed-box1 h3 {
     text-align: center;
     margin-top: 40px;
@@ -342,16 +382,19 @@ section.Pricing-sec {
     font-weight: 400;
     font-family: "inter";
 }
+
 .shadowed-box1 h3 span {
     margin-top: 40px;
     font-size: 44px;
     font-weight: 500;
     font-family: "Lora";
 }
+
 .card-button1 {
     text-align: center;
     margin-bottom: 30px;
 }
+
 .card-button1 button {
     background: transparent;
     padding: 15px 34px;
@@ -365,14 +408,15 @@ section.Pricing-sec {
     background-color: #0b1a30;
     text-transform: uppercase;
 }
+
 .card-button1 button a {
     text-decoration: none;
     cursor: pointer;
     color: #ffffff;
 }
-.card-button1 button:hover{
+
+.card-button1 button:hover {
     transform: translateY(-10px);
     cursor: pointer;
     transition: 0.5s;
 }
-

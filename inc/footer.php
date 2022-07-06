@@ -71,9 +71,9 @@
                     <span>© Copyright 2022</span>
                 </div>
                 <div class="footer-links">
-                    <a href="Terms-of-use.php"> Terms of Use</a>
+                    <a href="Terms-of-use.php"> Terms of Use -</a>
                     <a href="privacy-policy.php">
-                        Privacy Policy</a>
+                        Privacy Policy -</a>
                     <a href="cookie-policy.php"> Cookie Policy</a>
                 </div>
             </div>
