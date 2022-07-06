@@ -52,9 +52,9 @@
                         <h5>Quick Help</h5>
                     </div>
                     <div class="about-this-menu">
-                        <a href="" class="home-heading">home</a>
-                        <a href="">about</a>
-                        <a href="">Pricing</a>
+                        <a href="database.php" class="">Database</a>
+                        <a href="links.php">Links</a>
+                        <a href="download-articles.php">Download Articles</a>
                         <a href="publications.php">Publications</a>
                         <a href="genealogica.php">Prosopographica et Genealogica</a>
                         <a href="">contact</a>
