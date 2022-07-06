@@ -95,62 +95,66 @@ section.about-book .for-text a {
     border: 0px;
 }
 
-.text-heading {
-    text-align: center;
+section.blog-detail {
+    margin-top: 70px;
 }
 
-.text-heading h5 {
-    color: #c6d2e6;
-    font-size: 16px;
-    font-family: "inter";
+.blog-detail-text h2 {
+    font-family: "lora";
     font-weight: 500;
-    margin-bottom: 10px;
+    font-size: 61px;
+    margin-bottom: 40px;
 }
 
-.text-heading h2 {
-    font-size: 48px;
-    font-family: "Lora";
-    font-weight: 500;
-    margin-bottom: 30px;
-}
-
-.text-heading p {
-    font-size: 16px;
+.blog-detail-text p {
     font-family: "inter";
     font-weight: 400;
-    margin-bottom: 10px;
-    padding: 0 60px;
+    font-size: 18px;
+    margin-bottom: 20px;
 }
 
-img.card-img-top {
-    width: 100%;
-    height: 178px;
-    object-fit: cover;
+.parablogs {
+    margin-top: 100px;
 }
 
-section.our-blog-sec {
-    margin: 70px 0px;
+.form-group textarea#exampleFormControlTextarea1 {
+    height: 40vh;
 }
 
-.card-body h4 {
-    font-size: 15px;
-    font-weight: 500;
-    font-family: "inter";
-    padding-left: 20px;
-    padding-top: 9px;
-    padding-bottom: 40px;
+.form-group input#exampleFormControlInput1 {
+    padding: 20px 0px;
 }
 
-.card {
-    width: 110%;
-    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
-    border: none !important;
-}
-
-h5.card-title {
-    padding-left: 20px;
-    padding-top: 20px;
+.form-group label {
     font-size: 24px;
+    color: #0b1a30;
     font-weight: 500;
-    font-family: "Lora";
+    font-family: "lora";
+}
+
+.form-check input#gridCheck {
+    margin: 10px 0px;
+}
+
+section.blog-detail {
+    margin-bottom: 180px;
+}
+
+button.btn1 {
+    padding: 15px 22px;
+    border: 1px solid red;
+    background: #ddc233;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: "inter";
+    text-transform: uppercase;
+    color: #c6d2e6;
+}
+
+button.btn1:hover {
+    background-color: white;
+    color: #ddc233;
+    transition: 0.5s;
+    cursor: pointer;
 }
