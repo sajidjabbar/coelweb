@@ -211,7 +211,7 @@ body {
 }
 
 .nav-imgbox img {
-    width: 84%;
+    max-width: 240px;
 }
 
 .cart-icon {

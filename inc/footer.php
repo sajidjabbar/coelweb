@@ -2,7 +2,7 @@
     <div class="web-footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-5">
+                <div class="col-md-6 pr-5">
                     <div class="about-footer">
                         <div class="foter-img">
                             <img src="img/logo.png" alt="" class="img-fluid">
@@ -42,7 +42,7 @@
                         <a href="index.php" class="home-heading">home</a>
                         <a href="about.php">about</a>
                         <a href="pricing.php">Pricing</a>
-                        <a href="">shop</a>
+                        <a href="shop.php">shop</a>
                         <a href="blog.php">blog</a>
                         <a href="contact.php">contact</a>
                     </div>
@@ -52,12 +52,18 @@
                         <h5>Quick Help</h5>
                     </div>
                     <div class="about-this-menu">
-                        <a href="database.php" class="">Database</a>
+                        <!-- <a href="database.php" class="">Database</a>
                         <a href="links.php">Links</a>
                         <a href="download-articles.php">Download Articles</a>
                         <a href="publications.php">Publications</a>
                         <a href="genealogica.php">Prosopographica et Genealogica</a>
-                        <a href="">contact</a>
+                        <a href="contact.php">contact</a> -->
+                        <a href="index.php" class="home-heading">home</a>
+                        <a href="about.php">about</a>
+                        <a href="pricing.php">Pricing</a>
+                        <a href="shop.php">shop</a>
+                        <a href="blog.php">blog</a>
+                        <a href="contact.php">contact</a>
                     </div>
                 </div>
                 <div class="col-md-3">

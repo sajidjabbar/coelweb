@@ -33,13 +33,13 @@
     <div class="web-nav">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-6">
+                <div class="col-md-4 pl-0 col-6">
                     <div class="nav-imgbox">
                         <a href="index.php"><img src="img/logo.png" alt="" class="img-fluid"></a>
                     </div>
                 </div>
-                <div class="col-md-7 col-2">
-                    <div class="nav-web">
+                <div class="col-md-8 pl-0 col-2 d-flex">
+                    <div class="nav-web pr-2">
                         <ul>
                             <li>
                                 <a class="menu" href="index.php"> home</a>
@@ -62,9 +62,9 @@
                         </ul>
                     </div>
 
-                </div>
-                <div class="col-md-2 col-4">
-                    <div class="nav-icons">
+                <!-- </div>
+                <div class="col-md-1 col-4"> -->
+                    <div class="nav-icons pl-5">
                         <div class="search-icon">
                             <i class="fa fa-search" aria-hidden="true"></i>
 

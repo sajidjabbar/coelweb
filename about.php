@@ -36,37 +36,32 @@
                 </div>
 
             </div>
-            <div class="col-md-6 align-self-center">
+            <div class="col-md-6 ">
                 <div class="content_wrapper">
                     <div class="heading_wrapper">
                         <h5 class="grey_para">ABOUT US</h5>
-                        <h2 class="title">About Book</h2>
+                        <h2 class="title">About Katharine Keats-Rohan</h2>
                     </div>
                     <p>
-                        A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                        Molestie aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt
-                        eget cras nisl est aliquam ut blandit nibh vulputate lectus ullamcorper. <br><br>
-
-                        Molestie aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt
-                        eget cras nisl est aliquam ut blandit nibh vulputate lectus ullamcorper.
+                        Katharine Keats-Rohan is a medievalist who has published widely over the past twenty years. Her earliest work was in intellectual history. The work of the twelfth-century bishop and thinker, John of Salisbury, was the primary focus of her own research, but she has also worked on Peter Abelard with Professor David Luscombe at Sheffield University. She has also undertaken a major inquiry into the Continental Origins of English Landholders 1066-1166, seeking the origins of the men who conquered England in 1066 or settled here thereafter.
                     </p>
-                    <button class="btn">OUR BLOG</button>
+                    <!-- <button class="btn">OUR BLOG</button> -->
                 </div>
             </div>
         </div>
-        <div class="row align-items-end mt-5">
+        <div class="row  mt-5">
 
             <div class="col-md-6 align-self-center">
                 <div class="content_wrapper">
-                    <div class="heading_wrapper">
+                    <!-- <div class="heading_wrapper">
                         <h3>“ A lectus ac pulvinar tincidunt accumsan ullamcorper vulputate tincidunt tincidunt “</h3>
-                    </div>
+                    </div> -->
                     <p>
-                        A lectus ac pulvinar tincidunt accumsan. Ullamcorper dolor at lectus ac, sed facilisis hac.
-                        Molestie aliquam ut blandit nibh vulputate lectus in sit. Egestas in dolor dui purus tincidunt
-                        eget cras nisl est aliquam ut blandit nibh vulputate lectus ullamcorper.
+                        This work built upon her research interests in north-west France, which include studies of Brittany and Maine and the community of the abbey of Mont-Saint-Michel. Interests closer to home include the medieval borough of <a href="">Wallingford</a>, where she is an active member (on both wings!) of The Wallingford Historical and Archaeological Society (TWHAS). She is closely associated with prosopography as a historical method, directing the Unit for Prosopographical Research at Linacre College, Oxford, since 1993. An online tutorial for those embarking on prosopography was written for the History Faculty at Oxford and is available at <a href="">http://prosopography.modhist.ox.ac.uk</a>
+                        <br>
+                        Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established Prosopographica et Genealogica as an imprint of the Unit. Also a founding member in 2003 of a joint Oxford-Trier group, Netwerk Interferenzonomastik (NIO) (Network for Research on Interference and Interculturalization in Onomastics), based at the University of Trier. She became a Fellow of the Royal Historical Society in 2002. Currently she is working with Dr Caroline
                     </p>
-                    <button class="btn">Shop Now</button>
+                    <!-- <button class="btn">Shop Now</button> -->
                 </div>
             </div>
             <div class="col-md-6">
@@ -74,6 +69,21 @@
                     <figure><img src="img/about-sect2.jpg" class="img-fluid"></figure>
                 </div>
 
+            </div>
+            <div class="col-md-12">
+                <div class="content_wrapper">
+                    Bowden and others on the <a href="">'Who were the Nuns?'</a> project at Queen Mary, University of London.
+                    <br>
+                    Current research projects include:
+                    <br>
+                    - edition and commentary on the necrologies and early history of Mont-Saint-Michel
+                    <br>
+                    - a collaborative edition of the Thorney Abbey Liber Vitae
+                    <br>
+                    - continuing research into medieval Wallingford
+                    <br>
+                    View list of <a href="">publications</a> by K.S.B. Keats-Rohan
+                </div>
             </div>
         </div>
     </div>
