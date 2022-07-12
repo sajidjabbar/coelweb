@@ -31,14 +31,14 @@
         </div>
     </div>
     <div class="web-nav">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 pl-0 col-6">
+                <div class=" pr-5 col-2">
                     <div class="nav-imgbox">
                         <a href="index.php"><img src="img/logo.png" alt="" class="img-fluid"></a>
                     </div>
                 </div>
-                <div class="col-md-8 pl-0 col-2 d-flex">
+                <div class=" pr-0 col-10 d-flex justify-content-end pr-5">
                     <div class="nav-web pr-2">
                         <ul>
                             <li>
@@ -54,17 +54,20 @@
                                 <a class="menu" href="shop.php"> shop</a>
                             </li>
                             <li>
+                                <a class="menu" href="publications.php">Publications</a>
+                            </li>
+                            <li>
                                 <a class="menu" href="blog.php"> blog</a>
+                            </li>
+                            <li>
+                                <a class="menu" href="database.php"> Database</a>
                             </li>
                             <li>
                                 <a class="menu" href="contact.php"> contact</a>
                             </li>
                         </ul>
                     </div>
-
-                <!-- </div>
-                <div class="col-md-1 col-4"> -->
-                    <div class="nav-icons pl-5">
+                    <div class="nav-icons pl-2">
                         <div class="search-icon">
                             <i class="fa fa-search" aria-hidden="true"></i>
 
@@ -72,7 +75,7 @@
                         <div class="cart-icon">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                         </div>
-                        <div class="canvas-icon">
+                        <div class="canvas-icon pl-2">
                             <i class="fa fa-bars"></i>
                         </div>
                     </div>

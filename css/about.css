@@ -4,23 +4,22 @@
   background-color: #EDF2FA;
   background-image: radial-gradient(at bottom left, #FEC85440 11%, #FFFFFF00 27%), url(../img/hero-about.jpg);
   background-position: center center;
+  position: relative;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: transparent;
-  /* opacity: 0.5; */
   padding: 235px 0px 137px 0px;
 }
-
 .background_overlay {
   background-color: transparent;
   opacity: 0.5;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-  height: 102%;
+  height: 81%;
   width: 100%;
   background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
   top: 89px;
-  left: 0;
   position: absolute;
+  left: 0;
 }
 
 .banner_breadcrumps span {
@@ -212,6 +211,7 @@ p.meet_team_paras {
 section.meet_team_sec {
   padding-top: 6rem;
   background: #f9fafd;
+
 }
 
 .team_member {

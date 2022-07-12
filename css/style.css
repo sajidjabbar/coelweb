@@ -162,7 +162,7 @@ body {
 
 .web-nav li a {
     color: #0b1a30;
-    font-size: 17px;
+    font-size: 16px;
     font-family: "Inter";
     text-decoration: none;
     font-weight: 800;
@@ -181,7 +181,7 @@ body {
 
 .web-nav li {
     display: inline;
-    padding: 11px 16px;
+    padding: 11px 7px;
 }
 
 .nav-web {
@@ -195,6 +195,7 @@ body {
     display: flex;
     align-items: center;
     height: 100%;
+    /* max-width: 9%; */
 }
 
 .search-icon {
@@ -638,8 +639,14 @@ section.map-section {
     text-transform: capitalize;
     line-height: 2;
     font-size: 16px;
-    font-weight: 500;
     font-family: "inter";
+}
+
+.about-this-menu a:hover {
+    text-decoration: none;
+    opacity: 1;
+    color: #000000;
+    transition: 0.6s all;
 }
 
 .home-heading {
@@ -724,19 +731,39 @@ section.map-section {
 }
 
 /* footer end here reponsive */
+
+@media (max-width: 991px){
+    .nav-web {
+        display: none;
+    }
+    .canvas-icon{
+        display: initial;
+    }
+    .canvas-icon i {
+        font-size: 24px;
+    }
+}
 @media (max-width:567px) {
     .detail-img img {
         text-align: center;
         width: 100%;
     }
-
+    .web-nav{
+        padding: 8px 0px;
+    }
+    .nav-imgbox img{
+        width: 70px;
+    }
+    .nav-imgbox {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
     .img-cardbox {
         text-align: center;
     }
 
-    .nav-web {
-        display: none;
-    }
+    
 
     .website-heading {
         display: flex;

@@ -39,12 +39,11 @@
                         <h5>Menu</h5>
                     </div>
                     <div class="about-this-menu">
-                        <a href="index.php" class="home-heading">home</a>
                         <a href="about.php">about</a>
+                        <a href="genealogica.php">Prosopographica et Genealogica</a>
                         <a href="pricing.php">Pricing</a>
                         <a href="shop.php">shop</a>
-                        <a href="blog.php">blog</a>
-                        <a href="contact.php">contact</a>
+                        <a href="publications.php">Publications</a>
                     </div>
                 </div>
                 <div class="col-md-2">
@@ -52,21 +51,15 @@
                         <h5>Quick Help</h5>
                     </div>
                     <div class="about-this-menu">
-                        <!-- <a href="database.php" class="">Database</a>
-                        <a href="links.php">Links</a>
-                        <a href="download-articles.php">Download Articles</a>
-                        <a href="publications.php">Publications</a>
-                        <a href="genealogica.php">Prosopographica et Genealogica</a>
-                        <a href="contact.php">contact</a> -->
-                        <a href="index.php" class="home-heading">home</a>
-                        <a href="about.php">about</a>
-                        <a href="pricing.php">Pricing</a>
-                        <a href="shop.php">shop</a>
                         <a href="blog.php">blog</a>
-                        <a href="contact.php">contact</a>
+                        <a href="download-articles.php">Downloadable Articles</a>
+                        <a href="database.php">Database</a>
+                        <a href="links.php">Links</a>
+                        <a href="contact.php">Contact</a>
+                        <a href="blog.php">blog</a>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="its-menu-heading">
                         <h5>Category</h5>
                     </div>

@@ -57,8 +57,9 @@
                         <h3>“ A lectus ac pulvinar tincidunt accumsan ullamcorper vulputate tincidunt tincidunt “</h3>
                     </div> -->
                     <p>
-                        This work built upon her research interests in north-west France, which include studies of Brittany and Maine and the community of the abbey of Mont-Saint-Michel. Interests closer to home include the medieval borough of <a href="">Wallingford</a>, where she is an active member (on both wings!) of The Wallingford Historical and Archaeological Society (TWHAS). She is closely associated with prosopography as a historical method, directing the Unit for Prosopographical Research at Linacre College, Oxford, since 1993. An online tutorial for those embarking on prosopography was written for the History Faculty at Oxford and is available at <a href="">http://prosopography.modhist.ox.ac.uk</a>
-                        <br>
+                        This work built upon her research interests in north-west France, which include studies of Brittany and Maine and the community of the abbey of Mont-Saint-Michel. Interests closer to home include the medieval borough of <a href="">Wallingford</a>, where she is an active member (on both wings!) of The Wallingford Historical and Archaeological Society (TWHAS). She is closely associated with prosopography as a historical method, directing the Unit for Prosopographical Research at Linacre College, Oxford, since 1993. An online tutorial for those embarking on prosopography was written for the History Faculty at Oxford and is available at <a href="">http://prosopography.modhist.ox.ac.uk</a>.
+                    </p>
+                    <p class="mb-0">
                         Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established Prosopographica et Genealogica as an imprint of the Unit. Also a founding member in 2003 of a joint Oxford-Trier group, Netwerk Interferenzonomastik (NIO) (Network for Research on Interference and Interculturalization in Onomastics), based at the University of Trier. She became a Fellow of the Royal Historical Society in 2002. Currently she is working with Dr Caroline
                     </p>
                     <!-- <button class="btn">Shop Now</button> -->
