@@ -1116,3 +1116,13 @@ p.green_para2 {
 .shop_sec{
     margin-bottom: 50px;
 }
+.product-sec {
+    height: 97%;
+    position: relative;
+}
+.addtocartbtn {
+    position: absolute;
+    bottom: 11px;
+    display: block;
+    width: 86%;
+}

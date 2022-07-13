@@ -13,7 +13,7 @@
 
         </div>
         <div class="banner_heading text-center">
-            <h1>The COEL Database</h1>
+            <h1>Database</h1>
         </div>
         <div class="banner_breadcrumps">
             <i class="fa fa-home" aria-hidden="true"></i>
@@ -27,7 +27,9 @@
 <!-- Banner Sec End Here -->
 <section class="for-images">
     <div class="container">
-        <div class="row">
+        <h1 class="mb-5 text-center">The COEL Database</h1>
+        <h2 class="text-center mb-5">The Continental Origins of English Landowners, 1066-1166</h2>
+        <div class="row mt-3">
             <div class="col-md-9 mx-auto">
                 <div class="row">
                     <div class="col-md-4 mb-5">
@@ -72,13 +74,9 @@
                     and interrogating a wealth of detail, as do visual aids such as dynamic family trees.
                 </p>
                 <p>
-                    This major research project had four principle goals: to establish the succession to Domesday fees,
-                    to establish the provenance (Norman or other, including English) of the first fee-holder, and to
-                    provide a prosopographical register of all persons occurring in English administrative documents
-                    written in the century after the Norman Conquest. The full Latin texts of over 4000 documents are
-                    included in the database and integrally linked to analysis about over the 9000 persons, and their
-                    families, who occur in them. Query and search facilites make easy work of finding, cross-referencing
-                    and interrogating a wealth of detail, as do visual aids such as dynamic family trees.
+                    The project has resulted in the publication of three essential reference books: K. S. B. Keats-Rohan
+                    and David E. Thornton (compilers.), Domesday Names: An Index of Latin Personal and Place Names in
+                    Domesday Book (Woodbridge: Boydell Press, 1997, reprinted 2007) ISBN: 0851154298.
                 </p>
                 <p>
                     K S. B. Keats-Rohan, Domesday People: A Prosopography of Persons Occurring in English Document:

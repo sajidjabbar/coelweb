@@ -28,10 +28,9 @@
     <!-- slickslider -->
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Poppins:wght@200&display=swap" rel="stylesheet">
     <!--  Custom CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/style.css">
     <!--  Custom CSS-->
-    <!--  style CSS-->
-    <link rel="stylesheet" href="css/style.css">
     <!--  style CSS-->
 
 </head>

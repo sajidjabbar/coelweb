@@ -115,3 +115,6 @@ li{
 .info p{
     font-family: "lora";
 }
+.info.this span {
+    display: block;
+}

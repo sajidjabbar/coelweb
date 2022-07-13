@@ -13,7 +13,7 @@
 
         </div>
         <div class="banner_heading text-center">
-            <h1>Links</h1>
+            <h1>Downloadable Articles</h1>
         </div>
         <div class="banner_breadcrumps">
             <i class="fa fa-home" aria-hidden="true"></i>

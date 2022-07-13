@@ -13,6 +13,12 @@
 <!-- slick slider js -->
 <!-- wow js -->
 <script src="js/wow.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script>
+    $(document).ready(function() {
+    $('.js-example-basic-single').select2();
+});
+</script>
 <!-- wow js -->
 <script>
     new WOW().init();
@@ -27,6 +33,7 @@
             $("#preloader").fadeOut(1000);
         });
     })
+
     $('document').ready(function() {
         $('.nav-icons .canvas-icon i').click(function() {
             $("#header .mobile-header").addClass('show');

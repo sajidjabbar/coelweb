@@ -40,7 +40,7 @@
                     </div>
                     <div class="about-this-menu">
                         <a href="about.php">about</a>
-                        <a href="genealogica.php">Prosopographica et Genealogica</a>
+                        <a href="genealogica.php" style="line-height: 18px; padding: 6px 0px;">Prosopographica et Genealogica</a>
                         <a href="pricing.php">Pricing</a>
                         <a href="shop.php">shop</a>
                         <a href="publications.php">Publications</a>
@@ -52,7 +52,7 @@
                     </div>
                     <div class="about-this-menu">
                         <a href="blog.php">blog</a>
-                        <a href="download-articles.php">Downloadable Articles</a>
+                        <a href="download-articles.php" style="line-height: 18px; padding: 6px 0px;">Downloadable Articles</a>
                         <a href="database.php">Database</a>
                         <a href="links.php">Links</a>
                         <a href="contact.php">Contact</a>

@@ -123,3 +123,35 @@ section.Prosopographica-et-Genealogica {
 .heading-prossopro {
     text-align: center;
 }
+ul li{
+    list-style-type: none;
+}
+.visa-wrapper button.btn {
+    display: none;
+}
+a.accordian_btn {
+    display: block;
+    width: 95%;
+    /* height: 45px; */
+    background-color: #ffc;
+    text-align: center;
+    padding: 8px 0px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+a.accordian_btn {
+    display: block;
+    width: 95%;
+    /* height: 45px; */
+    background-color: #ffc;
+    text-align: center;
+    padding: 8px 0px;
+}
+
+.collapse.show .card.card-body {
+    padding: 12px;
+}
+.collapse{
+    width: 95%;
+}

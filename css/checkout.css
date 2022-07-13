@@ -72,7 +72,7 @@ section.checkout_top {
 
 
 .for-normal-form-input {
-    /* height: 51px !important; */
+    height: 51px !important;
     border-radius: 0px;
     border: 1px solid #C3CAD9;
     color: #183B56;
