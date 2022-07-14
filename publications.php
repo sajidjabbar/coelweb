@@ -56,40 +56,40 @@
             </div>
             <div class="info this">
                 <h4>Norman Conquest</h4>
-                <span><a href="">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book, compiled by K.S.B. Keats-Rohan
-                    and D. Thornton (Woodbridge, 1997).</span>
-                <span><a href="">Domesday People:</a>A Prosopography of Persons Occurring in English Documents 1066-1166 Volume I, Domesday Book (Woodbridge , 1999).</span>
-                <span><a href="">Domesday Descendants</a>A Prosopography of Persons Occurring in English Documents 1066- 1166 Volume II Pipe Rolls to Cartae Baronum (Woodbridge, 2002).</span>
+                <p class="ml-0"><a href="">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book, compiled by K.S.B. Keats-Rohan
+                    and D. Thornton (Woodbridge, 1997).</p>
+                <p class="ml-0"><a href="">Domesday People:</a>A Prosopography of Persons Occurring in English Documents 1066-1166 Volume I, Domesday Book (Woodbridge , 1999).</p>
+                <p class="ml-0"><a href="">Domesday Descendants</a>A Prosopography of Persons Occurring in English Documents 1066- 1166 Volume II Pipe Rolls to Cartae Baronum (Woodbridge, 2002).</p>
             </div>
             <div class="info">
                 <h4>A substantially revised and extended combined edition of the these two volumes is in progress.</h4>
                 <p>'William the Conqueror and the Breton contingent in the non-Norman Conquest 1066-1086', Anglo-Norman Studies, xiii (1991), 157-72.</p>
                 <p>'Le problème de la suzerainété et la lutte pour le pouvoir: la rivalité bretonne et l'état Anglo-normand 1066-1154', Mémoires de la
                     Société d'Histoire et d'Archéologie de Bretagne, lxviii (1991), 45-69</p>
-                <span><a href="">'The Bretons and Normans of England 1066-1154: the family, the fief, and the feudal monarchy',</a>
+                <p><a href="">'The Bretons and Normans of England 1066-1154: the family, the fief, and the feudal monarchy',</a>
                     Nottingham Mediaeval Studies 36 (1992), 42-78 (first read to a seminar at the Institute of Historical Research).
-                </span>
+                </p>
                 <p>'The prosopography of post-Conquest England : four case studies', Medieval Prosopography 14.1 (1993), 1-52.</p>
                 <p>'Robert of Torigny's Genealogies Revisited', Nottingham Med. Stud. 37 (1993), 21-7.</p>
                 <p>'The Continental Origins of English Landholders 1066-1220 Project', Medieval Prosopography 14.2 (1993), 21-33.</p>
                 <p>'Roger de Montbegon and his family', Transactions of the Historical Society of Lancashire and Cheshire, 144 (1994), 181-5.</p>
                 <p>'COEL and the Computer: Towards a prosopographical key to Anglo-Norman documents 1066-1166', written jointly with D.E.
                     Thornton, Medieval Prosopography 17.1 (1996).</p>
-                <span>'Antecessor noster: The Parentage of Countess Lucy Made Plain' <a href="">Prosopon, </a>2, May 1995.</span>
-                <span><br><a href="http://www.coelweb.co.uk/FamFIEF.pdf"> 'Domesday Book and the Malets: </a>Patrimony and the private histories of public lives', Nottingham Medieval Studies xli (1997) 13-56.</span>
-                <br><span>'Belvoir: The heirs of Robert and Berenger de Tosny',<a href="">Prosopon</a>9, July 1998.</span>
+                <p>'Antecessor noster: The Parentage of Countess Lucy Made Plain' <a href="">Prosopon, </a>2, May 1995.</p>
+                <p><a href="http://www.coelweb.co.uk/FamFIEF.pdf"> 'Domesday Book and the Malets: </a>Patrimony and the private histories of public lives', Nottingham Medieval Studies xli (1997) 13-56.</p>
+                <p>'Belvoir: The heirs of Robert and Berenger de Tosny',<a href="">Prosopon</a>9, July 1998.</p>
                 <p>‘Historical text archives and prosopography: the COEL Database System’, History and Computing 10 (1998), 57-72.</p>
                 <p>‘Portrait of a people: Norman barons revisited’, in Domesday Book, ed. E. Hallam and D. Bates (2001), 121ff.</p>
                 <p>‘Le rôle des élites dans la colonisation de l’Angleterre (vers 1066-1135)’ in Normandie et L’Angleterre : colloque de Cerisy-la-Salle, septembre 2001, ed. P. Bouet et V. Gazeau.(Caen , 2003), 39-60.</p>
             </div>
             <div class="info">
                 <h4>Medieval France</h4>
-                <span><a href="">Family Trees and the Roots of Politics:</a>British and French prosopography from the tenth to the twelfth centuries, editor K.S.B. Keats-Rohan (Woodbridge , 1997).</span>
+                <p><a href="">Family Trees and the Roots of Politics:</a>British and French prosopography from the tenth to the twelfth centuries, editor K.S.B. Keats-Rohan (Woodbridge , 1997).</p>
                 <p>'Le problème de la suzerainété et la lutte pour le pouvoir: la rivalité bretonne et l'état Anglo-normand 1066-1154', Mémoires de la Société d'Histoire et d'Archéologie de Bretagne, lxviii (1991), 45-69.</p>
                 <p>'Two studies in North French Prosopography 1) Ivo fitz Fulcoin, the Counts of Maine, the lords of Bellême and the foundation of L'Abbayette c.996 2) Wigan the Marshal, alias Guigan Algason and Other Bretons
                     in Orderic Vitalis's Ecclesiastical History', Journal of Medieval History, 20 (1994), 3-37.</p>
                 <p>'Politique et parentèle: les comtes, vicomtes et évêques du Maine c. 950-1050', Francia 26.1 (1996), 13-30.</p>
-                <span><a href="http://www.coelweb.co.uk/BRETSHAB.pdf">'Les Bretons et la politique de la colonisation d'Angleterre (c.1042-1135), </a>Mémoires de la Société d'Histoire et d'Archéologie de Bretagne, 73 (1996) 181-215.</span>
+                <p><a href="http://www.coelweb.co.uk/BRETSHAB.pdf">'Les Bretons et la politique de la colonisation d'Angleterre (c.1042-1135), </a>Mémoires de la Société d'Histoire et d'Archéologie de Bretagne, 73 (1996) 181-215.</p>
                 <p>'"Un vassal sans histoire"? Count Hugh II (c.955-992) and the origins of Angevin overlordship in Maine ', in Keats-Rohan ed., Family Trees and the Roots of Politics (1997), 189-210.</p>
                 <p>'Les Bilihildis du Maine: Problèmes et possibilités d'une étude de l'onomastique et de la parenté de la France du nord-ouest', Onomastique et parenté I: actes de la table-ronde de Saint-
                     Jean-d'Angély 21-25 mars 1996, ed. K.S.B. Keats-Rohan and Christian Settipani (Oxford, 2000).</p>
@@ -128,16 +128,16 @@
                     <a href="">pwatkins@pwatkinspublishing.fsnet.co.uk</a>
                 </p>
                 <p>'Crime et châtiment à la manière du XIe siècle?: note sur une charte bretonne de l'abbaye du Mont-Saint-Michel', Mémoires de la Société d'Histoire et d'Archéologie de Bretagne, 72 (1995) 25-30.</p>
-                <span><a href="http://www.coelweb.co.uk/MSM2.pdf">'Bibliothèque municipale d'Avranches, ms 210, the Cartulary of Mont-Saint-Michel',</a>Anglo-Norman Studies xxi (1999), 95-112.</span>
+                <p><a href="http://www.coelweb.co.uk/MSM2.pdf">'Bibliothèque municipale d'Avranches, ms 210, the Cartulary of Mont-Saint-Michel',</a>Anglo-Norman Studies xxi (1999), 95-112.</p>
                 <p>'Une charte de l'Abbé Mayeul de Cluny et la Réforme de l'abbaye de Mont-Saint-Michel', in La Normandie autour de l'an mil, ed. J.-P. Chaline (Société de l'Histoire de Normandie, 2000), 159-69.</p>
                 <p>'L'histoire secrète d'un sanctuaire célèbre: la reformation du Mont-Saint-Michel d'après l'analyse de son cartulaire
                     et de ses nécrologes', in Culte et pèlerinages à saint Michel en Occident. Les trois Monts dédiés à l'archange:
                     Colloque de Cerisy-la-Salle,
                     septembre 2000, ed.P. Bouet, G. Otranto, A. Vauchez (Collections de l’École Française de Rome, 2003), 139-159.</p>
-                <span><a href="http://www.coelweb.co.uk/Necrologies.pdf">'Testimonies of the Living Dead: </a>The Martyrology-Necrology and Necrology in the Chapter
+                <p><a href="http://www.coelweb.co.uk/Necrologies.pdf">'Testimonies of the Living Dead: </a>The Martyrology-Necrology and Necrology in the Chapter
                     Book of Mont-Saint-Michel (Avranches, Bibliothèque municipale, MS 214', in The Durham Liber
                     Vitae and its Context, ed. D. Rollason, A. J. Pipe, Margaret Harvey, Lynda Rollason (Woodbridge, 2004),
-                    pp.165-90.</span>
+                    pp.165-90.</p>
                 <p>An edition of the monastery’s necrologies has been prepared for future publication, with commentary.</p>
             </div>
             <div class="info">
@@ -164,9 +164,9 @@
                         </div>
                     </div>
                 </div>
-                <span class="block-this">'The devolution of the Honor of Wallingford 1066-1154', Oxoniensia,
+                <p class="block-this">'The devolution of the Honor of Wallingford 1066-1154', Oxoniensia,
                     liv (1989), 311-18 Now completely replaced by a new study, <a href="http://www.coelweb.co.uk/Keats-RohanGenesis.pdf">The Genesis of the Honour of Wallingford',</a>
-                    K.S.B. Keats-Rohan and D.R. Roffe, eds, The Origins of Wallingford, BAR British Report 464 (Archaeopress, 2009).</span>
+                    K.S.B. Keats-Rohan and D.R. Roffe, eds, The Origins of Wallingford, BAR British Report 464 (Archaeopress, 2009).</p>
                 <p class="mt-2"> 'The making of Henry of Oxford: Englishmen in a Norman World', ibid., 287-310 (some details corrected in Domesday People above).</p>
             </div>
 
