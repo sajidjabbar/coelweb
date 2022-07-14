@@ -74,6 +74,7 @@
                         </div>
                         <div class="cart-icon">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                            <span>1</span>
                         </div>
                         <div class="canvas-icon pl-2">
                             <i class="fa fa-bars"></i>

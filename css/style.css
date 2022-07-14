@@ -103,6 +103,7 @@ body {
     color: #DDC233 !important;
 }
 
+
 /* header start here  */
 .upper-banner {
     background-color: #DDC233;
@@ -221,6 +222,20 @@ body {
     background-color: white;
     border-radius: 8px;
     cursor: pointer;
+    position: relative;
+}
+.cart-icon span {
+    display: block;
+    position: absolute;
+    top: 3px;
+    font-size: 11px;
+    right: 6px;
+    font-family: 'Lora-Italic';
+    background: #d9534f;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 50%;
+    padding: 0px 6px;
 }
 
 .cart-icon:hover {
