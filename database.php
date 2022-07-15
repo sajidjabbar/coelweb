@@ -12,7 +12,7 @@
         <div class="background_overlay">
 
         </div>
-        <div class="banner_heading text-center">
+        <div class="banner_heading">
             <h1>Database</h1>
         </div>
         <div class="banner_breadcrumps">
@@ -144,7 +144,7 @@
                 </p>
                 <h4>Mac Users</h4>
                 <p>Mac users can run the database by using <a href="">Virtual PC for Mac.</a></p>
-                <h4 class="text-center">Purchasing</h4>
+                <h4 >Purchasing</h4>
                 <p>
                     Click here to request an <a href="">Order Form</a>
                 </p>

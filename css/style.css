@@ -103,7 +103,15 @@ body {
     color: #DDC233 !important;
 }
 
-
+.banner_heading h1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: #000;
+    font-size: 60px;
+    font-family: "lora";
+    font-weight: 500;
+  }
 /* header start here  */
 .upper-banner {
     background-color: #DDC233;
@@ -153,6 +161,7 @@ body {
     font-weight: 500;
     font-family: "inter";
     font-size: 18px;
+    color: #000000;
 }
 
 .web-nav {

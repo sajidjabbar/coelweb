@@ -308,21 +308,29 @@
                                     </div>
                                     <div class="form-row">
                                         <div class="form-group col-md-12">
-                                            <label for="inputEmail4">Street address *</label>
+                                            <label for="inputEmail4">Street address</label>
                                             <input type="text" class="form-control for-normal-form-input" placeholder="Postcode / ZIP *Postcode / ZIP *" id="inputEmail4">
                                             <input type=" text" class="form-control for-normal-form-input mt-3" placeholder="Apartment, suite, unit, etc. (optional)" id="inputEmail4">
 
                                         </div>
                                     </div>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-12">
+                                            <label for="inputEmail4">Town / City *</label>
+                                            <input type="text" class="form-control for-normal-form-input" placeholder="Postcode / ZIP *Postcode / ZIP *" id="inputEmail4">
+                                          
+
+                                        </div>
+                                    </div>
                                     <div class=" form-row">
                                         <div class="form-group col-md-12">
-                                            <label for="inputEmail4">Postcode / ZIP *</label>
+                                            <label for="inputEmail4">State *</label>
                                             <input type="text" class="form-control for-normal-form-input" id="inputEmail4">
                                         </div>
                                     </div>
                                     <div class=" form-row">
                                         <div class="form-group col-md-12">
-                                            <label for="inputEmail4">Town / City *</label>
+                                            <label for="inputEmail4">ZIP Code *</label>
                                             <input type="text" class="form-control for-normal-form-input" id="inputEmail4">
                                         </div>
                                     </div>
@@ -347,7 +355,7 @@
                 <div class="form-row">
                     <div class="form-group col-md-12 mt-4">
                         <div class="heading  my-5">
-                            <h1>Billing details</h1>
+                            <h1>Additional information</h1>
                         </div>
                         <label for="inputEmail4">Order notes (optional)</label>
                         <textarea type="text" class="form-control for-normal-form-input" placeholder="Notes about your order, e.g. special notes for delivery." id="inputEmail4"></textarea>

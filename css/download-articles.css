@@ -12,7 +12,14 @@
     font-family: "inter_m";
     src: url(../fonts/Inter-Medium.ttf);
 }
-
+.banner_heading h1 {
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-size: 60px !important;
+    font-family: "lora";
+    font-weight: 500 !important;
+  }
 /* About Css Start Here */
 /* .about_banner .img_box img {
     height: 360px;
@@ -91,7 +98,7 @@ h2{
 
 section.links-section .top-text p{
     font-family: "inter_m";
-    font-size: 17px;
+    font-size: 14px;
 }
 
 section.links-section .link-boxes {
@@ -101,8 +108,17 @@ section.links-section .link-boxes {
     text-align: left;
     min-height: 541px;
 }
+section.links-section .link-boxes2 {
+    padding: 40px 32px 30px 32px;
+    background: #fde2e2;
+    border-radius: 10px;
+    text-align: left;
+    min-height: 391px;
+}
 section.links-section .link-boxes h4{
     margin-bottom: 22px;
+    font-size: 20px;
+    font-family: "Inter-SemiBold";
 }
 section.links-section .link-boxes .text{
     margin-top: 30px;
@@ -110,4 +126,59 @@ section.links-section .link-boxes .text{
 section.links-section .link-boxes .text h3{
     text-align: center;
     margin-bottom: 23px;
+    font-size: 22px;
+    font-family: "Inter-SemiBold";
+}
+section.links-section .link-boxes2 {
+    padding: 40px 32px 30px 32px;
+    background: #fde2e2;
+    border-radius: 10px;
+    text-align:center;
+    min-height: 391px;
+}
+section.links-section .link-boxes2 h4{
+    margin-bottom: 22px;
+    font-family: "Inter-SemiBold";
+
+}
+section.links-section .link-boxes2 .text{
+    margin-top: 30px;
+}
+section.links-section .link-boxes2 .text h3{
+    text-align: center;
+    margin-bottom: 23px;
+    font-size: 23px;
+    font-family: "Inter-SemiBold";
+}
+.text p{
+    font-family: "inter_m";
+    font-size: 14px;
+}
+section.links-section .link-boxes3 {
+    padding: 25px 12px 16px 12px;
+    background: #fde2e2;
+    border-radius: 10px;
+    text-align: center;
+    min-height: 368px;
+}
+section.links-section .link-boxes3 h4{
+    margin-bottom: 22px;
+    font-family: "Inter-SemiBold";
+    font-size: 18px;
+
+}
+section.links-section .link-boxes3 .text{
+    margin-top: 30px;
+}
+section.links-section .link-boxes3 .text h3{
+    text-align: center;
+    margin-bottom: 23px;
+    font-size: 23px;
+    font-family: "Inter-SemiBold";
+}
+.detail-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }

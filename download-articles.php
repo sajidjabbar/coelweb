@@ -18,7 +18,7 @@
         <div class="carousel-inner ">
             <div class="carousel-item active">
                 <img src="img/hero-blog.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block banner_heading">
                     <h1 class="wow animate__animated animate__fadeInUp animate__slow 2s">Downloadable Articles
                     </h1>
                     <p><a href=""><i class="fa fa-home"></i><span>Home</span></a>
@@ -67,7 +67,7 @@
                 </div>
             </div>
             <div class="col-md-6 mt-4">
-                <div class="link-boxes">
+                <div class="link-boxes2 ">
                     <h4>The Bretons and Normans of England 1066-1154: the family, the fief and the feudal monarchy</h4>
                     <a href="">FamFIEF.pdf</a>
                     <div class="text">
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="col-md-6 mt-4">
-                <div class="link-boxes">
+                <div class="link-boxes3">
                     <h4>Testimonies of the Living Dead: The Martyrology-Necrology and the Necrology in the Chapter-Book
                         of Mont-Saint-Michel (Avranches, Bibliothèque municipale, MS 214)</h4>
                     <a href="">Necrologies.pdf</a>
@@ -172,7 +172,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 mt-4">
+            <div class="col-md-12 text-center">
+          
+                <div class="detail-box">
+                <div class="col-md-6">
                 <div class="link-boxes">
                     <h4>The Genesis of the Honour of Wallingford</h4>
                     <a href="">The Genesis of the Honour of Wallingford</a>
@@ -190,6 +193,8 @@
                             valley.
 
                         </p>
+                    </div>
+                </div>
                     </div>
                 </div>
             </div>

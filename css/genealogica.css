@@ -28,7 +28,15 @@ h1 {
     color: #fff;
     text-align: center;
 }
-
+.banner_heading h1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: #000;
+    font-size: 60px;
+    font-family: "lora";
+    font-weight: 400;
+  }
 .carousel-caption.d-none.d-md-block span {
     padding-left: 12px;
 }
