@@ -9,7 +9,7 @@
 <section class="checkout_top">
     <div class="container">
         <div class="start_here">
-            <div class="main_heading">
+            <div class="banner_heading">
                 <h1>Checkout</h1>
             </div>
             <div class="for_coupan mt-3">

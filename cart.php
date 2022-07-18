@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-11 mx-auto">
-                <div class="main_heading">
+                <div class="banner_heading">
                     <h1>Cart</h1>
                 </div>
                 

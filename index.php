@@ -11,7 +11,7 @@
             <div class="header-content">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="website-heading">
+                        <div class="website-heading ">
                             <h1 class="animate__animated animate__fadeInUp animate__delay-1s">Welcome to </h1>
                             <div class="col-md-3">
                                 <div class="animate__animated animate__fadeInUp animate__delay-1s">

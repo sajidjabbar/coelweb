@@ -15,7 +15,7 @@
         <div class="banner_heading">
             <h1>Database</h1>
         </div>
-        <div class="banner_breadcrumps">
+        <div class="banner_breadcrumps banner_heading">
             <i class="fa fa-home" aria-hidden="true"></i>
             <a href="index.php"><span>Home</span></a>
             <i class="fa fa-angle-right"></i>

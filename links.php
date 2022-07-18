@@ -16,7 +16,7 @@
         <div class="carousel-inner ">
             <div class="carousel-item active">
                 <img src="img/hero-blog.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block banner_heading">
                     <h1 class="wow animate__animated animate__fadeInUp animate__slow 2s">Links
                     </h1>
                     <p><a href=""><i class="fa fa-home"></i><span>Home</span></a>

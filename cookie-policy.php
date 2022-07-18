@@ -14,7 +14,7 @@
             <div class="carousel-item active">
                 <div class="img-in">
                     <!-- <img src="img/terms-img.jpg" class="d-block w-100" alt="..."> -->
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption d-none d-md-block banner_heading">
                         <h1>Cookie Policy</h1>
                         <p><a href=""><i class="fa fa-home"></i><span>Home</span></a>
                             <span><i class="fa fa-angle-right"></i></span><span><a href="">

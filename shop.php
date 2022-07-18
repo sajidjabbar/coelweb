@@ -18,7 +18,7 @@
         <div class="banner_heading">
             <h1>Shop</h1>
         </div>
-        <div class="banner_breadcrumps">
+        <div class="banner_breadcrumps ">
             <i class="fa fa-home" aria-hidden="true"></i>
             <a href="index.php"><span>Home</span></a>
             <i class="fa fa-angle-right"></i>
