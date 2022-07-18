@@ -414,7 +414,7 @@
             <div class="final_place_order">
                 <p>Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our privacy policy.</p>
                 <div class="place_order_btn">
-                    <button>Place order</button>
+                   <a href="thankyou.php"> <button>Place order</button></a>
                 </div>
             </div>
         </div>

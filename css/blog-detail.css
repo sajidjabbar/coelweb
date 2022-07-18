@@ -141,20 +141,21 @@ section.blog-detail {
 }
 
 button.btn1 {
-    padding: 15px 22px;
-    border: 1px solid red;
-    background: #ddc233;
-    border-radius: 4px;
-    font-weight: 700;
-    font-size: 14px;
-    font-family: "inter";
-    text-transform: uppercase;
-    color: #ffffff;
+        padding: 13px 20px;
+        background-color: #ddc233;
+        color: #0b1a30;
+        border: transparent;
+        text-transform: uppercase;
+        font-family: "Inter";
+        font-weight: 600;
+        text-decoration: none;
+
 }
 
 button.btn1:hover {
     background-color: white;
     color: #ddc233;
+    border: 1px solid #ddc233;
     transition: 0.5s;
     cursor: pointer;
 }
