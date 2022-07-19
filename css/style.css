@@ -434,8 +434,22 @@ section.map-section {
     background-color: #ddc233;
     color: #0b1a30;
     font-family: "Inter-SemiBold";
+    text-transform: capitalize;
 }
-
+.carousel-caption.d-none.d-md-block a {
+    color: #0b1a3080;
+    font-size: 20px;
+    font-family: "inter_m";
+    text-transform: capitalize;
+    z-index: 1;
+}
+.banner_breadcrumps span {
+    color: #0b1a3080;
+      font-size: 20px;
+      z-index: 1;
+    font-family: "inter_m";
+    text-transform: capitalize;
+  }
 .about-thisweb a:hover {
     transform: translate(-10px);
     transition: 0.3s;

@@ -93,8 +93,8 @@
 }
 
 .banner_breadcrumps span {
-  z-index: 1;
-  color: #0B1A3080;
+  color: #0b1a3080;
+    font-size: 20px;
   font-family: "inter_m";
 }
 

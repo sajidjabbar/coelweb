@@ -1,3 +1,7 @@
+body{
+    background-color: #c6d2e62e;
+}
+
 .for-the-text {
     position: absolute;
     width: 100%;
@@ -100,7 +104,7 @@ section.about-book .for-text a {
 }
 
 .text-heading h5 {
-    color: #c6d2e6;
+    color: #0b1a30;
     font-size: 16px;
     font-family: "inter";
     font-weight: 500;

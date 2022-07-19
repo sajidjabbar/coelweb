@@ -44,9 +44,10 @@
 }
 
 .banner_breadcrumps span {
-    color: #000;
-    font-family: "inter";
-}
+    color: #0b1a3080;
+      font-size: 20px;
+    font-family: "inter_m";
+  }
 
 .banner_breadcrumps a:hover {
     color: #000;

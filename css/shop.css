@@ -1150,9 +1150,9 @@ p.green_para2 {
     left: 0;
     height: 6px;
     border-radius: 10px;
-    background-color: #ddc233;
+    background-color: #5e5c52;
     margin: 0 7px;
-  }
+}
   
   [slider] > div > [inverse-right] {
     position: absolute;
