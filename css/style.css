@@ -97,6 +97,7 @@
 
 body {
     font-family: "lora";
+    background-color: #edf2fa4f;
 }
 
 .active {
@@ -111,7 +112,8 @@ body {
     font-size: 60px;
     font-family: "lora";
     font-weight: 500;
-  }
+}
+
 /* header start here  */
 .upper-banner {
     background-color: #DDC233;
@@ -160,14 +162,13 @@ body {
 .about-thisweb p {
     font-weight: 500;
     font-family: "inter";
-    font-size: 18px;
+    font-size: 17px;
     color: #000000;
 }
 
 .web-nav {
 
     background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 42%, #dbc23b9e 100%);
 }
 
 .web-nav li a {
@@ -199,6 +200,9 @@ body {
     align-items: center;
     height: 100%;
     justify-content: right;
+    /* background: rgb(255, 255, 255);
+        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 47%, #dbc23b9e 100%); */
+
 }
 
 .nav-icons {
@@ -206,6 +210,8 @@ body {
     align-items: center;
     height: 100%;
     /* max-width: 9%; */
+    /* background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 47%, #dbc23b9e 100%); */
 }
 
 .search-icon {
@@ -233,6 +239,7 @@ body {
     cursor: pointer;
     position: relative;
 }
+
 .cart-icon span {
     display: block;
     position: absolute;
@@ -387,6 +394,20 @@ section.map-section {
     position: relative;
     padding-top: 100px;
     overflow: hidden;
+
+    background-image: radial-gradient(at top right, #DDC233 0%, #EDF2FA 41%);
+    /* opacity: 0.5; */
+    transition: all 0.3s ease-in-out;
+
+}
+
+.map-section .for-overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: #f9f9f961;
 }
 
 .img-cardbox1 {
@@ -436,6 +457,7 @@ section.map-section {
     font-family: "Inter-SemiBold";
     text-transform: capitalize;
 }
+
 .carousel-caption.d-none.d-md-block a {
     color: #0b1a3080;
     font-size: 20px;
@@ -443,13 +465,15 @@ section.map-section {
     text-transform: capitalize;
     z-index: 1;
 }
+
 .banner_breadcrumps span {
     color: #0b1a3080;
-      font-size: 20px;
-      z-index: 1;
+    font-size: 20px;
+    z-index: 1;
     font-family: "inter_m";
     text-transform: capitalize;
-  }
+}
+
 .about-thisweb a:hover {
     transform: translate(-10px);
     transition: 0.3s;
@@ -560,7 +584,7 @@ section.map-section {
 }
 
 .shipping .fas:hover {
-    color: #000000;
+    color: #0b1a30;
     /* text-decoration: none; */
 }
 
@@ -770,38 +794,45 @@ section.map-section {
 
 /* footer end here reponsive */
 
-@media (max-width: 991px){
+@media (max-width: 991px) {
     .nav-web {
         display: none;
     }
-    .canvas-icon{
+
+    .canvas-icon {
         display: initial;
     }
+
     .canvas-icon i {
         font-size: 24px;
     }
 }
+
 @media (max-width:567px) {
     .detail-img img {
         text-align: center;
         width: 100%;
     }
-    .web-nav{
+
+    .web-nav {
         padding: 8px 0px;
     }
-    .nav-imgbox img{
+
+    .nav-imgbox img {
         width: 70px;
     }
+
     .nav-imgbox {
         display: flex;
         align-items: center;
         height: 100%;
     }
+
     .img-cardbox {
         text-align: center;
     }
 
-    
+
 
     .website-heading {
         display: flex;
@@ -826,5 +857,31 @@ section.map-section {
 }
 
 
+.shade {
+    background-color: transparent;
+    background-image: radial-gradient(at top right, #ddc233 0%, #edf2fa 35%);
+    opacity: 0.5;
+    height: 80px;
+    width: 100%;
+    top: 44px;
+    left: 0;
+    position: absolute;
+    z-index: 99;
+}
 
-/*footer end here  */
+.web-nav .nav-web.pr-2 {
+    z-index: 999;
+}
+
+.web-nav .nav-imgbox {
+    z-index: 99;
+    position: relative;
+}
+
+.web-nav .nav-icons {
+    position: relative;
+    z-index: 99;
+}
+
+
+

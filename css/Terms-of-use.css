@@ -11,10 +11,10 @@
 }
 
 h1 {
-    font-size: 64px;
-    color: #0b1a30;
+    color: #000;
+    font-size: 60px;
     font-family: "lora";
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .carousel-caption {

@@ -277,4 +277,7 @@
 // }
 
 // customElements.define('price-range', PriceRange);
+
+
+
 </script>

@@ -1,6 +1,5 @@
-
 <header>
-    
+
     <div class="upper-banner">
         <div class="container">
 
@@ -33,7 +32,9 @@
         </div>
     </div>
     <div class="web-nav">
-        <div class="container-fluid">
+        <div class="shade"></div>
+        <div class="background-overlay"></div>
+        <div class="container">
             <div class="row">
                 <div class=" pr-5 col-2">
                     <div class="nav-imgbox">
@@ -77,6 +78,8 @@
                         <div class="cart-icon">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                             <span>1</span>
+
+                            
                         </div>
                         <div class="canvas-icon pl-2">
                             <i class="fa fa-bars"></i>
@@ -86,6 +89,7 @@
                 </div>
             </div>
         </div>
+
     </div>
 </header>
 <header id="header">

@@ -3,6 +3,9 @@
 <!--  Start Here -->
 <!-- map-section start here -->
 <section class="map-section">
+<div class="for-overlay">
+
+</div>
     <div class="container">
         <div class="web-header">
             <!-- <div class="web-header-img">
@@ -42,6 +45,7 @@
                 </div>
                 <div class="for-the-text">
                 </div>
+          
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">

@@ -95,7 +95,10 @@ section.database-text {
 .database-text h5 {
     margin-top: 32px;
     margin-bottom: 13px;
-    font-family: "lora_b";
+        font-size: 21px;
+        font-family: "lora";
+        font-weight: 700;
+
 }
 
 /* .database-text p{

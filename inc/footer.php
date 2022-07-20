@@ -40,7 +40,7 @@
                     </div>
                     <div class="about-this-menu">
                         <a href="about.php">about</a>
-                        <a href="genealogica.php" style="line-height: 18px; padding: 6px 0px;">Prosopographica et Genealogica</a>
+                        <a href="prosopographica-et-genealogica.php" style="line-height: 18px; padding: 6px 0px;">Prosopographica et Genealogica</a>
                         <a href="pricing.php">Pricing</a>
                         <a href="shop.php">shop</a>
                         <a href="publications.php">Publications</a>
