@@ -136,6 +136,7 @@ p.grey_para {
 }
 section.threebtn_sec {
   background: #f9fafd;
+  padding-bottom: 82px;
 }
 .about_sec .content_wrapper button.btn {
   background: #DDC233;

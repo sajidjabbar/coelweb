@@ -79,7 +79,7 @@
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                             <span>1</span>
 
-                            
+
                         </div>
                         <div class="canvas-icon pl-2">
                             <i class="fa fa-bars"></i>
@@ -134,3 +134,25 @@
         </ul>
     </div>
 </header>
+<div class="cart_box">
+    <div class="for_item">
+        <figure>
+            <img src="../img/product10.jpg" alt="">
+        </figure>
+        <div class="text">
+            <p>Comtes, Vicomtes et noblesse au Nord de l'Aquitaine aux Xe - XIesiécles: Etudes prosopographiques, historiques et constitutionnelles sure le Poitou, l'Aunis et la Saintonge</p>
+            <div class="price_etc">
+                <p>1 × £30.00</p>
+                <p><i class="fa fa-close"></i></p>
+            </div>
+        </div>
+    </div>
+    <div class="subtotal">
+        <h3>Subtotal</h3>
+        <h6>1 × £30.00</h6>
+    </div>
+    <div class="cart_btn">
+        <a href="" class="cart_btn">VIEW CART</a>
+        <a href="" class="cart_btn">CHECKOUT</a>
+    </div>
+</div>

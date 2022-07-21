@@ -117,7 +117,7 @@
 </section>
 <!-- shipping button end here -->
 <!-- meet our team section start here -->
-<section class="meet_team_sec">
+<!-- <section class="meet_team_sec">
     <div class="container">
         <div class="meet_our_team">
             <div class="meet_team">
@@ -263,7 +263,7 @@
         </div>
         </div>
     </section>
-</section>
+</section> -->
 <!-- meet our team section end here -->
 
 

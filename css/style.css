@@ -407,7 +407,8 @@ section.map-section {
     left: 0px;
     right: 0px;
     bottom: 0px;
-    background: #f9f9f961;
+    background: #f9f9f98c;
+    /* background: #f9f9f961; */
 }
 
 .img-cardbox1 {
@@ -494,7 +495,8 @@ section.map-section {
     z-index: 333;
     margin-left: 29px;
     width: 100%;
-    margin-top: 93px;
+    /* margin-top: 93px; */
+    margin-top: 120px;
     z-index: 333;
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
@@ -885,3 +887,15 @@ section.map-section {
 
 
 
+
+.cart_box {
+    display: block;
+    position: fixed;
+    width: 24%;
+    height: 100%;
+    right: 0px;
+    background: #FFF;
+    top: 0px;
+    z-index: 999;
+    padding: 0px 37px;
+}

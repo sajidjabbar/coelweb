@@ -65,7 +65,7 @@
                             </li>
 
                         </ul>
-                        <div slider id="slider-distance">
+                        <!-- <div slider id="slider-distance">
                             <div>
                                 <div inverse-left style="width:70%;"></div>
                                 <div inverse-right style="width:70%;"></div>
@@ -96,8 +96,8 @@
   children[5].style.right=(100-value)+'%';
   children[9].style.left=value+'%';children[13].style.left=value+'%';
   children[13].childNodes[1].innerHTML=this.value;" />
-                        </div>
-                        <div class="detail-price">
+                        </div> -->
+                        <!-- <div class="detail-price">
                             <div class="detain-btn">
                                 <a href="">
                                     <button type="button" class="btn btn-primary ofer-btn">Filter</button>
@@ -106,7 +106,7 @@
                             <div class="this-price">
                                 <p>Price: £20 — £75</p>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="filter_Dv variation-attr">
 
                             <div class="filter_all">

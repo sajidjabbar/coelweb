@@ -36,7 +36,7 @@
                         <p>Email</p>
                     </div>
                 </div>
-                <div class="col-md-2 align-self-center">
+                <!-- <div class="col-md-2 align-self-center">
                     <div class="top_value">
                         <p>
                             Phone
@@ -47,8 +47,8 @@
                     <div class="top_value">
                         <p>Follow Us</p>
                     </div>
-                </div>
-                <div class="col"></div>
+                </div> -->
+                <!-- <div class="col"></div> -->
             </div>
             <div class="row mb-5">
                 <div class="col-md-2">
@@ -56,7 +56,7 @@
                         <p>Your Email Here</p>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <!-- <div class="col-md-2">
                     <p>Your Phone Here</p>
                 </div>
                 <div class="col-md-2">
@@ -74,9 +74,9 @@
                             <i class="fab fa-youtube"></i>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-10">
                     <div>
                         <iframe
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-md-2"></div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

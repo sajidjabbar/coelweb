@@ -21,7 +21,7 @@
                                     <i class="fa fa-facebook" aria-hidden="true"></i>
                                     <!-- <i class="fa-brands fa-facebook-f"></i> -->
                                 </div>
-                                <div class="social-icon">
+                                <!-- <div class="social-icon">
                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                 </div>
                                 <div class="social-icon">
@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="social-icon">
                                     <i class="fa fa-youtube-play"></i>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                         <h5>Menu</h5>
                     </div>
                     <div class="about-this-menu">
-                        <a href="about.php">about</a>
+                        <a href="about.php">about us</a>
                         <a href="prosopographica-et-genealogica.php" style="line-height: 18px; padding: 6px 0px;">Prosopographica et Genealogica</a>
                         <a href="pricing.php">Pricing</a>
                         <a href="shop.php">shop</a>

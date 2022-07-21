@@ -180,7 +180,7 @@
         </div>
     </div>
 </section>
-<section class="Pricing-sec">
+<!-- <section class="Pricing-sec">
     <div class="container">
         <div class="packages-start">
             <div class="row">
@@ -265,7 +265,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 
 <?php include 'inc/footer.php'; ?>

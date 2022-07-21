@@ -51,21 +51,24 @@
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                 <div class="img-cardbox1">
-                                    <img src="img/book1.jpg" alt="" class="img-fluid">
+                                <img src="img/product1.jpg" alt="" class="img-fluid">
+                                    <!-- <img src="img/book1.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox">
-                                    <img src="img/book2.jpg" alt="" class="img-fluid">
+                                <img src="img/product2.jpg" alt="" class="img-fluid">
+                                    <!-- <img src="img/book2.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox1">
-                                    <img src="img/book3.jpg" alt="" class="img-fluid">
+                                <img src="img/product3.jpg" alt="" class="img-fluid">
+                                    <!-- <img src="img/book3.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>
                         </div>
@@ -87,7 +90,7 @@
                     <div class="animate__animated animate__backInDown animate__delay-3s ">
                         <div class="shipping">
                             <a href=""> <i class="fas fa-shipping-fast"></i></a>
-                            <span>Free Worldwide Shipping</span>
+                            <span>Shipping Worldwide Available</span>
                         </div>
                     </div>
                 </div>
