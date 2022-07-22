@@ -215,7 +215,7 @@
                         <div class="card-button">
                             <button><a href="">select plan</a></button>
                         </div>
-                        <!-- <div class="shadowbox-techn"></div> -->
+                        <!-- <div class="shadowbox-techn"></div> 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-4 px-2">
@@ -236,7 +236,7 @@
                         <div class="card-button1">
                             <button><a href="">select plan</a></button>
                         </div>
-                        <!-- <div class="shadowbox-techn"></div> -->
+                         <div class="shadowbox-techn"></div> 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-4 px-2">
@@ -257,7 +257,7 @@
                         <div class="card-button">
                             <button><a href="">select plan</a></button>
                         </div>
-                        <!-- <div class="shadowbox-techn"></div> -->
+                        <!-- <div class="shadowbox-techn"></div> 
                     </div>
                 </div>
 
@@ -265,7 +265,7 @@
 
         </div>
     </div>
-</section> -->
+ </section> -->
 
 
 <?php include 'inc/footer.php'; ?>
