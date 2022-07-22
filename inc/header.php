@@ -34,15 +34,15 @@
     <div class="web-nav">
         <div class="shade"></div>
         <div class="background-overlay"></div>
-        <div class="container">
+        <div class="container-fluid ">
             <div class="row">
-                <div class=" pr-5 col-2">
+                <div class="col-md-2">
                     <div class="nav-imgbox">
                         <a href="index.php"><img src="img/logo.png" alt="" class="img-fluid"></a>
                     </div>
                 </div>
-                <div class=" pr-0 col-10 d-flex justify-content-end pr-5">
-                    <div class="nav-web pr-2">
+                <div class="col-md-10 d-flex justify-content-center">
+                    <div class="nav-web">
                         <ul>
                             <li>
                                 <a class="menu" href="index.php"> home</a>
@@ -66,11 +66,14 @@
                                 <a class="menu" href="database.php"> Database</a>
                             </li>
                             <li>
+                            <a href="prosopographica-et-genealogica.php">Prosopographica et Genealogica</a>
+                            </li>
+                            <li>
                                 <a class="menu" href="contact.php"> contact</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="nav-icons pl-2">
+                    <div class="nav-icons ">
                         <div class="search-icon">
                             <i class="fa fa-search" aria-hidden="true"></i>
 
@@ -81,7 +84,7 @@
 
 
                         </div>
-                        <div class="canvas-icon pl-2">
+                        <div class="canvas-icon ">
                             <i class="fa fa-bars"></i>
                         </div>
                     </div>
@@ -105,6 +108,7 @@
             <li class="nav-link"><a class="text-black" href="gifts.php">Pricing</a></li>
             <li class="nav-link"><a class="text-black" href="candels.php"> shop</a></li>
             <li class="nav-link"><a class="text-black" href="#">blog</a></li>
+            <li class="nav-link"> <a href="prosopographica-et-genealogica.php" >Prosopographica et Genealogica</a></li>
             <li class="nav-link"><a class="text-black" href="#">contact</a></li>
             <div class="col-md-2">
                 <div class="nav-icons">

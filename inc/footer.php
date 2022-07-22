@@ -51,7 +51,6 @@
                         <h5>Quick Help</h5>
                     </div>
                     <div class="about-this-menu">
-                        <a href="blog.php">blog</a>
                         <a href="download-articles.php" style="line-height: 18px; padding: 6px 0px;">Downloadable Articles</a>
                         <a href="database.php">Database</a>
                         <a href="links.php">Links</a>
