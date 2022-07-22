@@ -12,7 +12,20 @@
     font-family: "Inter-Regular";
     src: url(../fonts/static/Inter-Regular.ttf);
 }
+@font-face {
+    font-family: "lora_r";
+    src: url(../fonts/static/Lora-Regular.ttf);
+}
 
+@font-face {
+    font-family: "lora_b";
+    src: url(../fonts/static/Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: "inter_m";
+    src: url(../fonts/static/Inter-Medium.ttf);
+}
 /* Prelaoder */
 
 #preloader {
@@ -139,7 +152,7 @@ body {
 }
 
 .offer-btn:hover {
-    transform: translateY(-10px);
+    transform: translateY(-7px);
     cursor: pointer;
     transition: 0.5s;
 }
@@ -216,6 +229,7 @@ body {
 
 .search-icon {
     margin-right: 30px;
+    margin-left: 15px;
 }
 
 .cart-icon i.fa.fa-shopping-cart {
@@ -451,7 +465,7 @@ section.map-section {
     font-weight: 700;
 }
 
-.about-thisweb a {
+.content-web  a{
     padding: 13px 20px;
     background-color: #ddc233;
     color: #0b1a30;
@@ -461,7 +475,7 @@ section.map-section {
 
 .carousel-caption.d-none.d-md-block a {
     color: #0b1a3080;
-    font-size: 20px;
+    font-size: 22px;
     font-family: "inter_m";
     text-transform: capitalize;
     z-index: 1;
@@ -469,7 +483,7 @@ section.map-section {
 
 .banner_breadcrumps span {
     color: #0b1a3080;
-    font-size: 20px;
+    font-size: 22px !important;
     z-index: 1;
     font-family: "inter_m";
     text-transform: capitalize;
@@ -482,6 +496,7 @@ section.map-section {
 
 .about-thisweb {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .content-web {
@@ -871,7 +886,7 @@ section.map-section {
     z-index: 99;
 }
 
-.web-nav .nav-web.pr-2 {
+.web-nav .nav-web {
     z-index: 999;
 }
 

@@ -3,9 +3,9 @@
 <!--  Start Here -->
 <!-- map-section start here -->
 <section class="map-section">
-<div class="for-overlay">
+    <div class="for-overlay">
 
-</div>
+    </div>
     <div class="container">
         <div class="web-header">
             <!-- <div class="web-header-img">
@@ -31,12 +31,13 @@
                             <div class="col-md-6">
                                 <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                     <div class="about-thisweb">
+                                        <p> You have reached the home page of the COEL Database (Continental Origins of English Landholders 1066-1166) and the Prosopographica et Genealogica (Occasional Publications UPR) imprint.
+                                            Please enter for further information and purchase details about these publications.</p>
+                                          <p>  Both involve the work of K.S.B. (Katharine) Keats-Rohan in Prosopography, which includes an online tutorial and other materials, accessible through the Links page.</p>
 
-                                        <p>Home of Prosopographica et Genealogica, imprint of Occasional Publications UPR,
-                                            General Editors Katharine Keats-Rohan and Christian Settipani</p>
-                                        <a href="">shop now</a>
 
                                     </div>
+                                    <a href="">shop now</a>
                                 </div>
                             </div>
                         </div>
@@ -45,13 +46,13 @@
                 </div>
                 <div class="for-the-text">
                 </div>
-          
+
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                 <div class="img-cardbox1">
-                                <img src="img/product1.jpg" alt="" class="img-fluid">
+                                    <img src="img/product1.jpg" alt="" class="img-fluid">
                                     <!-- <img src="img/book1.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>
@@ -59,7 +60,7 @@
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox">
-                                <img src="img/product2.jpg" alt="" class="img-fluid">
+                                    <img src="img/product2.jpg" alt="" class="img-fluid">
                                     <!-- <img src="img/book2.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>
@@ -67,7 +68,7 @@
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-4s">
                                 <div class="img-cardbox1">
-                                <img src="img/product3.jpg" alt="" class="img-fluid">
+                                    <img src="img/product3.jpg" alt="" class="img-fluid">
                                     <!-- <img src="img/book3.jpg" alt="" class="img-fluid"> -->
                                 </div>
                             </div>

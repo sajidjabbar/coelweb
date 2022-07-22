@@ -144,7 +144,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product1.jpg" alt="">
                                 </a>
                             </div>
@@ -169,7 +169,7 @@
                     </div>
                     <div class="col-lg-4 p-0">
                         <div class="product-sec">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product2.jpg" alt="">
                                 </a>
                             </div>
@@ -194,7 +194,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product3.jpg" alt="">
                                 </a>
                             </div>
@@ -219,7 +219,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-two">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product4.jpg" alt="">
                                 </a>
                             </div>
@@ -243,7 +243,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product5.jpg" alt="">
                                 </a>
                             </div>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product6.jpg" alt="">
                                 </a>
                             </div>
@@ -293,7 +293,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product7.jpg" alt="">
                                 </a>
                             </div>
@@ -318,7 +318,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product8.jpg" alt="">
                                 </a>
                             </div>
@@ -344,7 +344,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-on">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/product9.jpg" alt="">
                                 </a>
                             </div>
@@ -369,7 +369,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/shop-10.jpg" alt="">
                                 </a>
                             </div>
@@ -393,7 +393,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec ">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/shop-11.jpg" alt="">
                                 </a>
                             </div>
@@ -417,7 +417,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="product-sec product-one">
-                            <div class="product-img"><a href="cart.php">
+                            <div class="product-img"><a href="product-detail.php">
                                     <img class="img-fluid" src="img/shop-12.jpg" alt="">
                                 </a>
                             </div>

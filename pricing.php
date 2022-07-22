@@ -39,10 +39,7 @@
             <div class="col-lg-12">
                 <div class="ordaring-headind">
                     <h4 class="wow animate__animated animate__fadeInUp animate__slow 2s">Ordering</h4>
-                    <p class="wow animate__animated animate__fadeInUp animate__slow 2s"> If you wish to order any
-                        publication simply choose the title you wish from the Prosopographica
-                        et Genealogica page and click the ‘Buy Now’ button. This will take you to a secure Pay Pal page
-                        where you can pay via debit card, credit card or Pay Pal itself if you have an account.</p>
+                    <p class="wow animate__animated animate__fadeInUp animate__slow 2s"> If you are interested in ordering any publications it is now possible to do so online. Simply choose the title you wish from the Prosopographica et Genealogica page and click the 'Buy Now' button. This will take you to a secure Pay Pal page where you can pay via debit card, credit card or Pay Pal itself if you have an account.</p>
                 </div>
             </div>
         </div>

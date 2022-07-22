@@ -109,7 +109,7 @@
                 </button>
 
                 <!-- Modal -->
-                <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -143,13 +143,13 @@
             <div class="info">
                 <h4>Wallingford</h4>
 
-                <button type="button" class="btn btn-primary camera" data-toggle="modal" data-target="#exampleModal">
+                <button type="button" class="btn btn-primary camera" data-toggle="modal" data-target="#exampleModal1">
                     <i class="fa fa-camera" aria-hidden="true"></i>
                     <span>(click for image)</span>
                 </button>
 
                 <!-- Modal -->
-                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
