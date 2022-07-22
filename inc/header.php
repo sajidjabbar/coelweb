@@ -134,7 +134,7 @@
         </ul>
     </div>
 </header>
-<div class="cart_box">
+<!-- <div class="cart_box">
     <div class="for_item">
         <figure>
             <img src="../img/product10.jpg" alt="">
@@ -155,4 +155,4 @@
         <a href="" class="cart_btn">VIEW CART</a>
         <a href="" class="cart_btn">CHECKOUT</a>
     </div>
-</div>
+</div> -->
