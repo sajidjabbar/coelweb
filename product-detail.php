@@ -111,7 +111,7 @@
                                 <span>In stock</span>
                             </div>
                             <div class="button-cart">
-                                <a href=""> <button class="btn">
+                                <a href="cart.php"> <button class="btn">
 
                                         Add to cart
                                     </button></a>

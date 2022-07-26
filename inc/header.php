@@ -66,7 +66,7 @@
                                 <a class="menu" href="database.php"> Database</a>
                             </li>
                             <li>
-                            <a href="prosopographica-et-genealogica.php">Prosopographica et Genealogica</a>
+                                <a href="prosopographica-et-genealogica.php">Prosopographica et Genealogica</a>
                             </li>
                             <li>
                                 <a class="menu" href="contact.php"> contact</a>
@@ -78,7 +78,7 @@
                             <i class="fa fa-search" aria-hidden="true"></i>
 
                         </div>
-                        <div class="cart-icon">
+                        <div class="cart-icons">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                             <span>1</span>
 
@@ -108,13 +108,12 @@
             <li class="nav-link"><a class="text-black" href="gifts.php">Pricing</a></li>
             <li class="nav-link"><a class="text-black" href="candels.php"> shop</a></li>
             <li class="nav-link"><a class="text-black" href="#">blog</a></li>
-            <li class="nav-link"> <a href="prosopographica-et-genealogica.php" >Prosopographica et Genealogica</a></li>
+            <li class="nav-link"> <a href="prosopographica-et-genealogica.php">Prosopographica et Genealogica</a></li>
             <li class="nav-link"><a class="text-black" href="#">contact</a></li>
             <div class="col-md-2">
                 <div class="nav-icons">
                     <div class="search-icon">
                         <i class="fa fa-search" aria-hidden="true"></i>
-
                     </div>
                     <div class="cart-icon">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
@@ -122,41 +121,40 @@
                 </div>
 
             </div>
-            <!-- <li class="nav-link"><a class="text-black" href="accessories.php">Health & Wellness</a></li>
-            <li class="nav-link"><a class="text-black" href="accessories.php">Perfumes</a></li>
-            <li class="nav-link"><a class="text-black" href="accessories.php">Men</a></li>
-            <a href="wishlist.php"><img class="img-fluid" src="img/heart.png" alt=""> WISHLIST</a>
-            <a href="login.php"><i class="fa fa-user-o" aria-hidden="true"></i> Login</a>
-            <a href="productcart.php"><img class="img-fluid" src="img/bag.png" alt=""></a> -->
-            <!-- <li>
-                <div class="button-group mt-3">
-                    <a href="signin.php"><img width="18px" src="img/user.png" alt=""></a>
-                    <a href="bookmark.php" class="mx-2"><img width="18px" src="img/ribbon.png" alt=""></a>
-                    <a href="productcart.php"><img width="18px" src="img/shopping-bag.png" alt=""></a>
-                </div>
-            </li> -->
         </ul>
     </div>
 </header>
-<!-- <div class="cart_box">
-    <div class="for_item">
-        <figure>
-            <img src="../img/product10.jpg" alt="">
-        </figure>
-        <div class="text">
-            <p>Comtes, Vicomtes et noblesse au Nord de l'Aquitaine aux Xe - XIesiécles: Etudes prosopographiques, historiques et constitutionnelles sure le Poitou, l'Aunis et la Saintonge</p>
-            <div class="price_etc">
-                <p>1 × £30.00</p>
-                <p><i class="fa fa-close"></i></p>
+
+
+
+<div id="headers">
+    <div class="mobile-headers  navbar-dark" id="bargi">
+        <div class="cancels ">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+            </svg>
+        </div>
+        <div class="cart_box">
+            <div class="for_item">
+                <figure>
+                    <img src="img/product10.jpg" alt="">
+                </figure>
+                <div class="text">
+                    <p>Comtes, Vicomtes et noblesse au Nord de l'Aquitaine aux Xe - XIesiécles: Etudes prosopographiques, historiques et constitutionnelles sure le Poitou, l'Aunis et la Saintonge</p>
+                    <div class="price_etc">
+                        <p>1 × £30.00</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="subtotal">
+                <h3>Subtotal</h3>
+                <h6>1 × £30.00</h6>
+            </div>
+            <div class="detail-btn">
+                <a href="cart.php">VIEW CART</a>
+                <a href="checkout.php">CHECKOUT</a>
             </div>
         </div>
     </div>
-    <div class="subtotal">
-        <h3>Subtotal</h3>
-        <h6>1 × £30.00</h6>
-    </div>
-    <div class="cart_btn">
-        <a href="" class="cart_btn">VIEW CART</a>
-        <a href="" class="cart_btn">CHECKOUT</a>
-    </div>
-</div> -->
+</div>

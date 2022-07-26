@@ -37,7 +37,7 @@
 
 
                                     </div>
-                                    <a href="">shop now</a>
+                                    <a href="shop.php">shop now</a>
                                 </div>
                             </div>
                         </div>
