@@ -16,41 +16,57 @@ h1 {
     font-family: "lora-normal";
 }
 
-.carousel-caption {
+.about_banner .img_box {
+    background-color: #EDF2FA;
+    background-image: radial-gradient(at bottom left, #FEC85440 11%, #FFFFFF00 27%), url(../img/hero-blog.jpg);
+    background-position: center center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+    padding: 235px 0px 137px 0px;
+  }
+  .background_overlay {
+    background-color: transparent;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 81%;
+    width: 100%;
+    background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
+    top: 89px;
     position: absolute;
-    right: 15%;
-   
-    left: 15%;
-    top: 42%;
-    z-index: 10;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    color: #fff;
-    text-align: center;
-}
-.banner_heading h1 {
+    left: 0;
+  }
+  
+  .banner_breadcrumps span {
+    color: #000;
+    font-family: "inter";
+  }
+  
+  .banner_breadcrumps a:hover {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .banner_breadcrumps a {
+    font-family: "inter_m";
+    z-index: 1;
+    color: #0B1A3080;
+  }
+  
+  .banner_breadcrumps {
     display: flex;
     justify-content: center;
-    position: relative;
-    color: #000;
-    font-size: 60px;
-    font-family: "lora";
-    font-weight: 400;
+    gap: 20px;
+    align-items: center;
   }
-.carousel-caption.d-none.d-md-block span {
-    padding-left: 12px;
-}
-
-.carousel-caption.d-none.d-md-block a {
-    color: #0b1a3080;
-    font-size: 22px;
-}
-.carousel-caption.d-none.d-md-block i {
+  
+  .banner_breadcrumps i {
+    font-size: 17px;
+    font-weight: 800;
+    z-index: 1;
     color: #0B1A3080;
-    font-size: 18px;
-    padding-left: 12px;
-}
-
+  }
 
 section.about-book .text-on-right {
     height: 100%;

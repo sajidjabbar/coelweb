@@ -24,16 +24,20 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-web">
                             <div class="col-md-6">
                                 <div class="animate__animated animate__fadeInUp animate__delay-1s">
                                     <div class="about-thisweb">
-                                        <p> You have reached the home page of the COEL Database (Continental Origins of English Landholders 1066-1166) and the Prosopographica et Genealogica (Occasional Publications UPR) imprint.
-                                            Please enter for further information and purchase details about these publications.</p>
-                                          <p>  Both involve the work of K.S.B. (Katharine) Keats-Rohan in Prosopography, which includes an online tutorial and other materials, accessible through the Links page.</p>
+                                        <p> You have reached the home page of the COEL Database (Continental Origins of
+                                            English Landholders 1066-1166) and the Prosopographica et Genealogica
+                                            (Occasional Publications UPR) imprint.
+                                            Please enter for further information and purchase details about these
+                                            publications.</p>
+                                        <p> Both involve the work of K.S.B. (Katharine) Keats-Rohan in Prosopography,
+                                            which includes an online tutorial and other materials, accessible through
+                                            the Links page.</p>
 
 
                                     </div>
@@ -46,8 +50,7 @@
                 </div>
                 <div class="for-the-text">
                 </div>
-
-                <div class="container">
+                <div class="container books-img">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="animate__animated animate__fadeInUp animate__delay-1s">
@@ -75,7 +78,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

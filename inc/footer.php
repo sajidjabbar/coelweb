@@ -2,7 +2,7 @@
     <div class="web-footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 pr-5">
+                <div class="col-md-6 ">
                     <div class="about-footer">
                         <div class="foter-img">
                             <img src="img/logo.png" alt="" class="img-fluid">

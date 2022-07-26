@@ -2,7 +2,24 @@
 <link rel="stylesheet" href="css/blog-detail.css">
 
 <!--  Heading pricing Start Here -->
-<section class="other-pages-banner">
+<section class="about_banner">
+    <div class="img_box">
+        <div class="background_overlay">
+
+        </div>
+        <div class="banner_heading">
+            <h1>Blog</h1>
+        </div>
+        <div class="banner_breadcrumps">
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="index.php"><span>Home</span></a>
+            <i class="fa fa-angle-right"></i>
+            <span>Blog</span>
+        </div>
+        <!-- <figure><img src="img/hero-about.jpg" alt="" class="img-fluid"></figure> -->
+    </div>
+</section>
+<!-- <section class="other-pages-banner">
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -22,25 +39,24 @@
                 </div>
             </div>
         </div>
-        <!-- <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </button> -->
     </div>
-</section>
+</section> -->
 <section class="blog-detail">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="blog-detail-text">
                     <h2>Lorem Ipsum3</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper
+                        mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
+                        tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus
+                        leo.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper
+                        mattis, pulvinar dapibus leo.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper
+                        mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
+                        tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
                     <p class="parablogs">Your email address will not be published. Required fields are marked *</p>
 
                 </div>

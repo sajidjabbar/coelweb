@@ -10,37 +10,25 @@
 <!-- Banner Sec Start Here -->
 <!-- Banner Sec End Here -->
 <!--  Heading pricing Start Here -->
-<section class="other-pages-banner">
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        </ol>
-        <div class="carousel-inner ">
-            <div class="carousel-item active">
-                <img src="img/hero-blog.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block banner_heading">
-                    <h1 class="wow animate__animated animate__fadeInUp animate__slow 2s">Downloadable Articles
-                    </h1>
-                    <p><a href=""><i class="fa fa-home"></i><span>Home</span></a>
-                        <span><i class="fa fa-angle-right"></i></span><span><a href="">
-                        Downloadable Articles
-                            </a></span>
-                    </p>
-                </div>
-                <div class="for-the-text">
-                </div>
-            </div>
+
+<section class="about_banner">
+    <div class="img_box">
+        <div class="background_overlay">
+
         </div>
-        <!-- <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </button> -->
+        <div class="banner_heading">
+            <h1>Downloadable Articles</h1>
+        </div>
+        <div class="banner_breadcrumps">
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="index.php"><span>Home</span></a>
+            <i class="fa fa-angle-right"></i>
+            <span>Downloadable Articles</span>
+        </div>
+
     </div>
 </section>
+
 <!-- links start here -->
 <section class="links-section">
     <div class="container">
@@ -173,28 +161,35 @@
                 </div>
             </div>
             <div class="col-md-12 text-center">
-          
-                <div class="detail-box">
-                <div class="col-md-6">
-                <div class="link-boxes">
-                    <h4>The Genesis of the Honour of Wallingford</h4>
-                    <a href="">The Genesis of the Honour of Wallingford</a>
-                    <div class="text">
-                        <h3>Details</h3>
-                        <p>
-                            From a twelfth-century perspective, the honour of Wallingford appears to be a typical Norman
-                            institution.<br>
-                            However, a re-examination of its constituent parts indicates that through marriage it was
-                            largely derived from the lands of Wigod of Wallingford and his family. Wigod appears to
-                            have been one of Edward the Confessor’s stallers and the estates that he held were what was
-                            effectively a pre-conquest ‘castlery’ with distant origins in a period before the formation
-                            of the county of Berkshire. Throughout its history the honour was to remain under the tight
-                            control of the crown, reflecting its strategic role in the defence of the middle Thames
-                            valley.
 
-                        </p>
-                    </div>
-                </div>
+                <div class="detail-box">
+                    <div class="col-md-6">
+                        <div class="link-boxes">
+                            <h4>The Genesis of the Honour of Wallingford</h4>
+                            <a href="">The Genesis of the Honour of Wallingford</a>
+                            <div class="text">
+                                <h3>Details</h3>
+                                <p>
+                                    From a twelfth-century perspective, the honour of Wallingford appears to be a
+                                    typical Norman
+                                    institution.<br>
+                                    However, a re-examination of its constituent parts indicates that through marriage
+                                    it was
+                                    largely derived from the lands of Wigod of Wallingford and his family. Wigod appears
+                                    to
+                                    have been one of Edward the Confessor’s stallers and the estates that he held were
+                                    what was
+                                    effectively a pre-conquest ‘castlery’ with distant origins in a period before the
+                                    formation
+                                    of the county of Berkshire. Throughout its history the honour was to remain under
+                                    the tight
+                                    control of the crown, reflecting its strategic role in the defence of the middle
+                                    Thames
+                                    valley.
+
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

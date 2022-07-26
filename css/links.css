@@ -173,3 +173,8 @@ section.links-section .link-boxes .text h3 {
     text-align: center;
     margin-bottom: 23px;
 }
+@media (max-width:765px) {
+    .link-boxes a {
+        font-size: 13px;
+    }
+}

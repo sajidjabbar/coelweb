@@ -2,35 +2,25 @@
 <link rel="stylesheet" href="css/pricing.css">
 
 <!--  Heading pricing Start Here -->
-<section class="other-pages-banner">
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        </ol>
-        <div class="carousel-inner ">
-            <div class="carousel-item active">
-                <img src="img/hero-pricing.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block banner_heading">
-                    <h1 class="wow animate__animated animate__fadeInUp animate__slow 2s">Pricing</h1>
-                    <p><a href=""><i class="fa fa-home"></i><span>Home</span></a>
-                        <span><i class="fa fa-angle-right"></i></span><span><a href="">
-                                Pricing</a></span>
-                    </p>
-                </div>
-                <div class="for-the-text">
-                </div>
-            </div>
+
+<section class="about_banner">
+    <div class="img_box">
+        <div class="background_overlay">
+
         </div>
-        <!-- <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </button> -->
+        <div class="banner_heading">
+            <h1>Pricing</h1>
+        </div>
+        <div class="banner_breadcrumps">
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="index.php"><span>Home</span></a>
+            <i class="fa fa-angle-right"></i>
+            <span>Pricing</span>
+        </div>
+
     </div>
 </section>
+
 <!-- End Here -->
 <!-- Ordering start here -->
 <section class="Ordering-sec">
@@ -39,7 +29,11 @@
             <div class="col-lg-12">
                 <div class="ordaring-headind">
                     <h4 class="wow animate__animated animate__fadeInUp animate__slow 2s">Ordering</h4>
-                    <p class="wow animate__animated animate__fadeInUp animate__slow 2s"> If you are interested in ordering any publications it is now possible to do so online. Simply choose the title you wish from the Prosopographica et Genealogica page and click the 'Buy Now' button. This will take you to a secure Pay Pal page where you can pay via debit card, credit card or Pay Pal itself if you have an account.</p>
+                    <p class="wow animate__animated animate__fadeInUp animate__slow 2s"> If you are interested in
+                        ordering any publications it is now possible to do so online. Simply choose the title you wish
+                        from the Prosopographica et Genealogica page and click the 'Buy Now' button. This will take you
+                        to a secure Pay Pal page where you can pay via debit card, credit card or Pay Pal itself if you
+                        have an account.</p>
                 </div>
             </div>
         </div>

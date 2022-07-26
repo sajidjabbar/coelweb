@@ -124,7 +124,7 @@ body {
     justify-content: center;
     position: relative;
     color: #000;
-    font-size: 60px;
+    font-size: 42px;
     font-family: "lora";
     font-weight: 500;
 }
@@ -300,8 +300,9 @@ body {
     position: fixed;
     background: #ffffffc2;
     top: 0;
-    z-index: 9;
+    z-index: 156;
     right: 0;
+    overflow-x: scroll;
     padding: 30px 10px 0px 10px;
     transition: 0.7s;
     transform: translateX(100%);
@@ -321,6 +322,7 @@ li.nav-link a {
     padding: 0;
     list-style: none;
 }
+
 
 #header .mobile-header .cancel {
     background: #000000;
@@ -370,6 +372,20 @@ li.nav-link a {
     }
 }
 
+@media (max-width:800px) {
+    div#bargi {
+        width: 40% !important;
+    }
+
+    .header-icon-wrapper {
+        justify-content: end !important;
+        padding-right: 38px;
+    }
+    .cart-icons {
+        margin: 0 19px;
+    }
+}
+
 @media (max-width: 575px) {
     #header .mobile-header {
         width: 35%;
@@ -390,8 +406,75 @@ li.nav-link a {
     }
 
     .search-icon {
-        margin-right: 22px !important;
+        margin-right: 12px !important;
     }
+
+    .web-nav .col-10.d-flex {
+        justify-content: end !important;
+    }
+
+    section.map-section {
+        padding-top: 40px;
+    }
+
+    .web-nav .col-10.d-flex .cart-icons {
+        margin-right: 13px;
+    }
+
+    .offer-btn {
+        padding: 0px 8px;
+        width: 120px !important;
+        border: 1px;
+        line-height: 1;
+        height: 20px;
+        background-color: white;
+        border-radius: 4px;
+    }
+
+    .offers span {
+        color: #ffffff;
+        font-family: "inter";
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .upper-banner svg {
+        width: 29px;
+    }
+
+    .offer-btn a {
+        font-size: 6px;
+    }
+
+    .shipping span {
+        font-size: 9px;
+        margin-left: 0;
+        margin-bottom: 4px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .shipping span {
+        font-size: 9px !important;
+    }
+
+    .detail-heading h2 {
+        font-size: 27px;
+    }
+
+    .detail-sec h4 {
+        font-size: 20px;
+    }
+
+    .detail-sec p {
+        font-size: 11px;
+    }
+
+    .threebtn {
+        margin-top: 10px;
+    }
+
 }
 
 /* Mobile Header  */
@@ -809,6 +892,18 @@ section.map-section {
         justify-content: center;
         display: flex;
     }
+
+    .books-img {
+        display: none;
+    }
+
+    .footer-links a {
+        font-size: 10px;
+    }
+
+    .copy-right span {
+        font-size: 11px;
+    }
 }
 
 /* footer end here reponsive */
@@ -828,6 +923,10 @@ section.map-section {
 }
 
 @media (max-width:567px) {
+    .shade {
+        background-image: none !important;
+    }
+
     .detail-img img {
         text-align: center;
         width: 100%;
@@ -872,6 +971,45 @@ section.map-section {
         width: 100%;
         background-color: transparent;
         background-image: radial-gradient(at bottom left, #ddc233ad 0%, #DFDCDE 43%);
+    }
+
+    section.map-section .container.books-img {
+        display: block;
+        margin-top: 20px;
+    }
+
+    section.map-section .container.books-img .img-cardbox {
+        margin: 0;
+        z-index: unset;
+    }
+
+    section.map-section .container.books-img .img-cardbox1 {
+        margin: 0;
+        position: unset;
+    }
+
+    section.map-section .container.books-img img {
+        margin-top: 10px;
+    }
+
+    section.map-section h1 {
+        font-size: 30px;
+    }
+
+    section.map-section {
+        padding-top: 40px !important;
+        overflow: unset;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-map.png') !important;
+    }
+
+    section.map-section .website-heading img {
+        width: 50%;
+        margin: 0px auto;
+        display: table;
+    }
+
+    section.map-section .about-thisweb p {
+        font-size: 13px;
     }
 }
 
@@ -984,6 +1122,7 @@ div#headers {
     background: aqua;
     width: 290px px;
 }
+
 .cart-icons {
     padding: 10px 15px;
     border: 1px;
@@ -1011,4 +1150,9 @@ div#headers {
     background-color: transparent;
     transition: 0.3s;
 
+}
+@media (max-width: 580px) {
+    div#bargi {
+        width: 100% !important;
+    }
 }
