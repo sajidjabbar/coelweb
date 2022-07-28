@@ -37,7 +37,17 @@ h1 {
     position: absolute;
     left: 0;
   }
-  
+  .background_overlay2 {
+    background-color: transparent;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(at top right, #1F5ED8 10%, #EDF2FA 100%);
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
   
 section.about-book .text-on-right {
     height: 100%;
@@ -147,4 +157,18 @@ a.accordian_btn {
 }
 .collapse{
     width: 95%;
+}
+@media (max-width: 580px) {
+    .banner_breadcrumps span {
+        color: #0b1a3080;
+        font-size: 15px !important;
+    }
+    .banner_heading h1 {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        color: #000;
+        font-size: 31px;
+        font-family: "lora_r";
+    }
 }

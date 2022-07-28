@@ -36,6 +36,7 @@
     background-color: transparent;
     /* opacity: 0.5; */
     padding: 235px 0px 137px 0px;
+    position: relative;
 }
 
 .background_overlay {
@@ -49,36 +50,18 @@
     left: 0;
     position: absolute;
 }
+.background_overlay2 {
+    background-color: transparent;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(at top right, #1F5ED8 10%, #EDF2FA 100%);
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
 
-.banner_breadcrumps span {
-    color: #000;
-    font-family: "inter";
-}
-
-.banner_breadcrumps a:hover {
-    color: #000;
-    text-decoration: none;
-}
-
-.banner_breadcrumps a {
-    font-family: "inter_m";
-    z-index: 1;
-    color: #0B1A3080;
-}
-
-.banner_breadcrumps {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    align-items: center;
-}
-
-.banner_breadcrumps i {
-    font-size: 17px;
-    font-weight: 800;
-    z-index: 1;
-    color: #0B1A3080;
-}
 figure{
     margin-bottom: 0px;
 }

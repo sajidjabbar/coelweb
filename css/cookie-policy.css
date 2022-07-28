@@ -34,7 +34,17 @@
     left: 0;
   }
   
-
+  .background_overlay2 {
+    background-color: transparent;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(at top right, #1F5ED8 10%, #EDF2FA 100%);
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
 .page-info{
     margin-top: 70px;
     

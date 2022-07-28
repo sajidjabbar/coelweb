@@ -4,22 +4,36 @@
   background-color: #EDF2FA;
   background-image: radial-gradient(at bottom left, #FEC85440 11%, #FFFFFF00 27%), url(../img/hero-about.jpg);
   background-position: center center;
-  position: relative;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: transparent;
+  /* opacity: 0.5; */
   padding: 235px 0px 137px 0px;
+  position: relative;
 }
+
 .background_overlay {
   background-color: transparent;
   opacity: 0.5;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-  height: 81%;
+  height: 100%;
   width: 100%;
   background-image: radial-gradient(at bottom center, #FEC854 20%, #FFFFFF00 64%);
-  top: 89px;
-  position: absolute;
+  top: 0px;
   left: 0;
+  position: absolute;
+}
+
+.background_overlay2 {
+  background-color: transparent;
+  opacity: 0.5;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  height: 100%;
+  width: 100%;
+  background-image: radial-gradient(at top right, #1F5ED8 10%, #EDF2FA 100%);
+  top: 0;
+  left: 0;
+  position: absolute;
 }
 
 

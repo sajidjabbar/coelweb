@@ -26,7 +26,6 @@
             <i class="fa fa-angle-right"></i>
             <span>Database</span>
         </div>
-        <!-- <figure><img src="img/hero-about.jpg" alt="" class="img-fluid"></figure> -->
     </div>
 </section>
 <!-- Banner Sec End Here -->

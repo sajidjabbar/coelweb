@@ -31,14 +31,19 @@
     left: 0;
   }
   
-  
+  .background_overlay2 {
+    background-color: transparent;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(at top right, #1F5ED8 10%, #EDF2FA 100%);
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
 
   
-h1 {
-    font-size: 64px;
-    color: #0b1a30;
-    font-family: "lora";
-}
 
 .carousel-caption {
     position: absolute;
@@ -183,3 +188,14 @@ button.btn1:hover {
     transition: 0.5s;
     cursor: pointer;
 }
+    @media (max-width: 580px) {
+        .blog-detail-text h2 {
+            font-size: 32px;
+        }
+        .blog-detail-text p {
+            font-size: 11px;
+        }
+        .form-group label {
+            font-size: 16px;
+        }
+    }
