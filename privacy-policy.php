@@ -4,24 +4,29 @@
 <!-- Css Link Here  -->
 <link rel="stylesheet" href="css/Terms-of-use.css">
 <!-- Css Link End Here Here  -->
+
+
 <section class="about_banner">
     <div class="img_box">
+        <div class="background_overlay2">
+
+        </div>
         <div class="background_overlay">
 
         </div>
+
         <div class="banner_heading">
             <h1>Privacy Policy</h1>
         </div>
-        <div class="banner_breadcrumps">
+        <div class="banner_breadcrumps ">
             <i class="fa fa-home" aria-hidden="true"></i>
             <a href="index.php"><span>Home</span></a>
             <i class="fa fa-angle-right"></i>
             <span>Privacy Policy</span>
         </div>
-
+        <!-- <figure><img src="img/hero-about.jpg" alt="" class="img-fluid"></figure> -->
     </div>
 </section>
-
 <section class="page-info-sec-policy">
     <div class="container">
         <div class="page-info">

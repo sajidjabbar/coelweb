@@ -61,7 +61,7 @@
     font-family: "inter";
 } */
 
-.banner_breadcrumps a:hover {
+/* .banner_breadcrumps a:hover {
     color: #000;
     text-decoration: none;
 }
@@ -127,7 +127,7 @@
     color: #000;
     font-size: 60px;
     font-family: "lora_r";
-}
+} */
 
 .range_slider .wrapper {
     position: relative;

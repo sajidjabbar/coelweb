@@ -118,7 +118,7 @@ body {
 .active {
     color: #DDC233 !important;
 }
-
+@media (max-width:580px) {
 .banner_heading h1 {
     display: flex;
     justify-content: center;
@@ -128,7 +128,74 @@ body {
     font-family: "lora";
     font-weight: 500;
 }
+}
+.banner_breadcrumps a:hover {
+    color: #000;
+    text-decoration: none;
+}
 
+.banner_breadcrumps a {
+    font-family: "Inter-Regular";
+    z-index: 1;
+    color: #0B1A3080;
+}
+
+.banner_breadcrumps {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.banner_breadcrumps i {
+    font-size: 17px;
+    font-weight: 800;
+    z-index: 1;
+    color: #0B1A3080;
+}
+
+.threebtn i {
+    font-size: 24px;
+    color: #DDC233;
+}
+
+.threebtn:hover i {
+    z-index: 1;
+    color: #0B1A3080;
+}
+
+.banner_breadcrumps a:hover {
+    color: #000;
+}
+
+.banner_breadcrumps span {
+    color: #0b1a3080;
+    font-size: 22px;
+  font-family: "inter_m" !important;
+}
+
+.banner_breadcrumps span:hover {
+    color: #000;
+}
+
+.banner_breadcrumps i.fa.fa-home:hover {
+    color: #000;
+    z-index: 1;
+}
+
+.banner_breadcrumps i.fa.fa-angle-right:hover {
+    color: #000;
+    z-index: 1;
+}
+
+.banner_heading h1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: #000;
+    font-size: 60px;
+    font-family: "lora_r";
+}
 /* header start here  */
 .upper-banner {
     background-color: #DDC233;

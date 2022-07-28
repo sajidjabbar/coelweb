@@ -7,19 +7,24 @@
 <!-- Stylesheet -->
 
 <!-- Banner Sec Start Here -->
+
 <section class="about_banner">
     <div class="img_box">
+        <div class="background_overlay2">
+
+        </div>
         <div class="background_overlay">
 
         </div>
+
         <div class="banner_heading">
             <h1>Database</h1>
         </div>
-        <div class="banner_breadcrumps banner_heading">
+        <div class="banner_breadcrumps ">
             <i class="fa fa-home" aria-hidden="true"></i>
             <a href="index.php"><span>Home</span></a>
             <i class="fa fa-angle-right"></i>
-            <span>database</span>
+            <span>Database</span>
         </div>
         <!-- <figure><img src="img/hero-about.jpg" alt="" class="img-fluid"></figure> -->
     </div>
@@ -144,7 +149,7 @@
                 </p>
                 <h4>Mac Users</h4>
                 <p>Mac users can run the database by using <a href="">Virtual PC for Mac.</a></p>
-                <h4 >Purchasing</h4>
+                <h4>Purchasing</h4>
                 <p>
                     Click here to request an <a href="">Order Form</a>
                 </p>
