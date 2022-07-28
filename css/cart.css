@@ -136,3 +136,12 @@ a.checkout_btn{
     font-family: "lora";
     color: #000;
 }
+@media (max-width:580px) {
+    .cart-table{
+        width: 340px;
+        overflow-x: scroll;
+    }
+    .car-tabt{
+        width: 100%;
+    }
+}

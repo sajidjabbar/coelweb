@@ -14,27 +14,31 @@
                 <div class="banner_heading">
                     <h1>Cart</h1>
                 </div>
-                
-                <table class="table mt-3">
-                    <thead>
-                        <th class="small_row"></th>
-                        <th class="small_row"></th>
-                        <th class="Product">Product</th>
-                        <th class="Price">Price</th>
-                        <th class="Quantity">Quantity</th>
-                        <th class="Subtotal">Subtotal</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><a href="" class="remove">x</a></td>
-                            <td><img src="img/product11.jpg" alt=""></td>
-                            <td class="heavy_font">Comtes, Vicomtes et noblesse au Nord de l'Aquitaine aux Xe - XIesiécles: Etudes prosopographiques, historiques et constitutionnelles sure le Poitou, l'Aunis et la Saintonge</td>
-                            <td>£30.00</td>
-                            <td class="text-center"><input type="number" class="quantity" value="1"></td>
-                            <td>£30.00</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="cart-table">
+                    <table class="table mt-3 car-tabt">
+                        <thead>
+                            <th class="small_row"></th>
+                            <th class="small_row"></th>
+                            <th class="Product">Product</th>
+                            <th class="Price">Price</th>
+                            <th class="Quantity">Quantity</th>
+                            <th class="Subtotal">Subtotal</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><a href="" class="remove">x</a></td>
+                                <td><img src="img/product11.jpg" alt=""></td>
+                                <td class="heavy_font">Comtes, Vicomtes et noblesse au Nord de l'Aquitaine aux Xe -
+                                    XIesiécles: Etudes prosopographiques, historiques et constitutionnelles sure le
+                                    Poitou,
+                                    l'Aunis et la Saintonge</td>
+                                <td>£30.00</td>
+                                <td class="text-center"><input type="number" class="quantity" value="1"></td>
+                                <td>£30.00</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <div class="table_footer">
                     <div class="for_form">
                         <input type="text" placeholder="Coupon code">
