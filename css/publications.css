@@ -95,7 +95,7 @@ li{
     border-color: black;
 }
 .info p{
-    font-family: "lora";
+    font-family: "inter";
 }
 .info.this span {
     display: block;
