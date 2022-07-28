@@ -355,7 +355,9 @@ body {
         padding: 69px 30px;
     }
 }
-
+p{
+    font-family: "inter";
+}
 /* Mobile Header  */
 .canvas-icon {
     display: none;
