@@ -56,78 +56,6 @@
     position: absolute;
 }
 
-/* .banner_breadcrumps span {
-    color: #000;
-    font-family: "inter";
-} */
-
-/* .banner_breadcrumps a:hover {
-    color: #000;
-    text-decoration: none;
-}
-
-.banner_breadcrumps a {
-    font-family: "Inter-Regular";
-    z-index: 1;
-    color: #0B1A3080;
-}
-
-.banner_breadcrumps {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    align-items: center;
-}
-
-.banner_breadcrumps i {
-    font-size: 17px;
-    font-weight: 800;
-    z-index: 1;
-    color: #0B1A3080;
-}
-
-.threebtn i {
-    font-size: 24px;
-    color: #DDC233;
-}
-
-.threebtn:hover i {
-    z-index: 1;
-    color: #0B1A3080;
-}
-
-.banner_breadcrumps a:hover {
-    color: #000;
-}
-
-.banner_breadcrumps span {
-    color: #0b1a3080;
-    font-size: 22px;
-  font-family: "inter_m" !important;
-}
-
-.banner_breadcrumps span:hover {
-    color: #000;
-}
-
-.banner_breadcrumps i.fa.fa-home:hover {
-    color: #000;
-    z-index: 1;
-}
-
-.banner_breadcrumps i.fa.fa-angle-right:hover {
-    color: #000;
-    z-index: 1;
-}
-
-.banner_heading h1 {
-    display: flex;
-    justify-content: center;
-    position: relative;
-    color: #000;
-    font-size: 60px;
-    font-family: "lora_r";
-} */
 
 .range_slider .wrapper {
     position: relative;
@@ -1388,4 +1316,55 @@ p.green_para2 {
     color: #0b1a30;
     background-color:  #fff;
     border-color: #ddc233;
+}
+.category-card {
+    background: transparent;
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.category-header {
+    background: transparent;
+    padding: 3px 0;
+}
+.category-heading{
+    color: #6D6D6D;
+}
+.category{
+    font-weight: 400;
+    color: #6D6D6D;
+    border-radius: 0;
+    position: relative;
+    width: 100%;
+    text-align: left;
+}
+.category:hover{
+    color: #6D6D6D;
+    text-decoration: none;
+}
+.category-info a {
+    display: block;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+}
+.category:focus {
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.category-card:focus-visible {
+    outline: none;
+}
+.category i.fa.fa-angle-down {
+    right: 0;
+    position: absolute;
+}
+button.btn.btn-link.category.collapsed i::before {
+    content: "\f107";
+}
+
+button.btn.btn-link.category i::before {
+    content: "\f106";
 }

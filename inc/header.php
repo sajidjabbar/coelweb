@@ -30,7 +30,7 @@
                         <circle fill="#FFCC4D" cx="29.5" cy="12.5" r="1.5" />
                         <circle fill="#FFCC4D" cx="7.5" cy="23.5" r="1.5" />
                     </svg>
-                    <span> Get free shipping every day by subscribing to our newsletter</span>
+                    <span> Get free shipping every day by subscribing to our A lectus ac</span>
                     <div class="offer-btn">
                         <a href="">subscribe now</a>
                     </div>

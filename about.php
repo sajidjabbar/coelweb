@@ -48,12 +48,8 @@
                         <h2 class="title">About Katharine Keats-Rohan</h2>
                     </div>
                     <p>
-                        Katharine Keats-Rohan is a medievalist who has published widely over the past twenty years. Her
-                        earliest work was in intellectual history. The work of the twelfth-century bishop and thinker,
-                        John of Salisbury, was the primary focus of her own research, but she has also worked on Peter
-                        Abelard with Professor David Luscombe at Sheffield University. She has also undertaken a major
-                        inquiry into the Continental Origins of English Landholders 1066-1166, seeking the origins of
-                        the men who conquered England in 1066 or settled here thereafter.
+                        Katharine Keats-Rohan is a medievalist who has published widely over the past thirty years. Her earliest work was in intellectual history. The work of the twelfth-century bishop and thinker, John of Salisbury, was the primary focus of her own research, but she has also worked on Peter Abelard with Professor David Luscombe at Sheffield University. She has also undertaken a major inquiry into the Continental Origins of English Landholders 1066-1166,
+                        seeking the origins of the men who conquered England in 1066 or settled here thereafter.
                     </p>
                     <!-- <button class="btn">OUR BLOG</button> -->
                 </div>
@@ -67,22 +63,17 @@
                         <h3>“ A lectus ac pulvinar tincidunt accumsan ullamcorper vulputate tincidunt tincidunt “</h3>
                     </div> -->
                     <p>
-                        This work built upon her research interests in north-west France, which include studies of
-                        Brittany and Maine and the community of the abbey of Mont-Saint-Michel. Interests closer to home
-                        include the medieval borough of <a href="">Wallingford</a>, where she is an active member (on
-                        both wings!) of The Wallingford Historical and Archaeological Society (TWHAS). She is closely
-                        associated with prosopography as a historical method, directing the Unit for Prosopographical
-                        Research at Linacre College, Oxford, since 1993. An online tutorial for those embarking on
-                        prosopography was written for the History Faculty at Oxford and is available at <a
-                            href="">http://prosopography.modhist.ox.ac.uk</a>.
+                        This work built upon her research interests in north-west France, which include studies of Brittany
+                        and Maine and the community of the abbey of Mont-Saint-Michel. Interests closer to home include the
+                        medieval borough of Wallingford, where she is an active member (on both wings!) of The <a href="javascript:void(0)">Wallingford</a> Historical
+                        and Archaeological Society (TWHAS). She is closely associated with prosopography as a historical method,
+                        directing the Unit for Prosopographical Research at Linacre College, Oxford, since 1993. An online tutorial for
+                        those embarking on prosopography was written for the History Faculty at Oxford and is available at <a href="javascript:void(0)">https://prosopography.history.ox.ac.uk/index</a>.
                     </p>
                     <p class="mb-0">
-                        Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established
-                        Prosopographica et Genealogica as an imprint of the Unit. Also a founding member in 2003 of a
-                        joint Oxford-Trier group, Netwerk Interferenzonomastik (NIO) (Network for Research on
-                        Interference and Interculturalization in Onomastics), based at the University of Trier. She
-                        became a Fellow of the Royal Historical Society in 2002. Currently she is working with Dr
-                        Caroline
+                        Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established Prosopographica et Genealogica as an imprint of the Unit. She became a Fellow of the Royal Historical Society in 2002 and of the Society of Antiquaries of London in 2011. She has worked at the universities of Sheffield, Oxford, Leeds and Queen Mary University of London, home of the Who were the Nuns database (see vol. 15, English Catholic Nuns in Exile) https://wwtn.history.qmul.ac.uk. She is currently completing an edition of the necrologies of Mont-Saint-Michel, as well as continuing research into medieval Wallingford.
+                        View list of publications by K.S.B. Keats-Rohan
+
                     </p>
                     <!-- <button class="btn">Shop Now</button> -->
                 </div>
