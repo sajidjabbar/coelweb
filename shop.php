@@ -43,30 +43,96 @@
                     <div class="categoryDv variation-attr">
 
                         <ul class="categories">
-                            <!-- <div class="alltxt">
-                                <span class="dot"></span>
-                                <p class="green_para">All</p>
-                            </div> -->
                             <div class="form-group">
                                 <div class="searchBar">
-                                    <input id="searchQueryInput" type="text" name="searchQueryInput"
-                                        placeholder="Search Products…" value="" />
+                                    <input id="searchQueryInput" type="text" name="searchQueryInput" placeholder="Search Products…" value="" />
                                     <button id="searchQuerySubmit" type="submit" name="searchQuerySubmit">
                                         <svg style="width:24px;height:24px" viewBox="0 0 24 24">
-                                            <path fill="#666666"
-                                                d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                                            <path fill="#666666" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
                                         </svg>
                                     </button>
                                 </div>
                             </div>
-                            <li><a href="#"><span class="property">Category 1 (6)</span> <span class="value"></span></a>
-                            </li>
-                            <li><a href="#"><span class="property">Category 2 (6) </span> <span
-                                        class="value"></span></a>
-                            </li>
-                            <li><a href="#"><span class="property">Category 3 (6) </span> <span
-                                        class="value"></span></a>
-                            </li>
+                            <div id="accordion">
+                                <div class="card category-card">
+                                    <div class="card-header category-header" id="headingTwo">
+                                        <h5 class="mb-0 category-heading">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+
+                                                Methodology
+                                                <i class="fa fa-angle-down"></i>
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body category-info">
+                                            <a href="javascript:void(0)"> vol.7</a>
+                                            <a href="javascript:void(0)"> vol.12</a>
+                                            <a href="javascript:void(0)"> vol.13</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card category-card">
+                                    <div class="card-header category-header" id="headingThree">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                Ancient world
+                                                <i class="fa fa-angle-down"></i>
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body category-info">
+                                            <a href="javascript:void(0)"> vol.8</a>
+                                            <a href="javascript:void(0)"> vol.13</a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card category-card">
+                                    <div class="card-header category-header" id="headingThree">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+                                                Medieval
+                                                <i class="fa fa-angle-down"></i>
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapsefour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body category-info">
+                                            <a href="javascript:void(0)"> vol.1</a>
+                                            <a href="javascript:void(0)"> vol.2</a>
+                                            <a href="javascript:void(0)"> vol.3</a>
+                                            <a href="javascript:void(0)"> vol.4</a>
+                                            <a href="javascript:void(0)"> vol.5</a>
+                                            <a href="javascript:void(0)"> vol.6</a>
+                                            <a href="javascript:void(0)"> vol.9</a>
+                                            <a href="javascript:void(0)"> vol.10</a>
+                                            <a href="javascript:void(0)"> vol.11</a>
+                                            <a href="javascript:void(0)"> vol.12</a>
+                                            <a href="javascript:void(0)"> vol.13</a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card category-card">
+                                    <div class="card-header category-header" id="headingThree">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
+                                                Early Modern
+                                                <i class="fa fa-angle-down"></i>
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapsefive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body category-info">
+                                            <a href="javascript:void(0)"> vol.15</a>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </ul>
 

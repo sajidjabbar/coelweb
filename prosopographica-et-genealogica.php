@@ -90,8 +90,7 @@
                             </div>
                             <div class="for_accordian">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -163,8 +162,7 @@
                             </div>
                             <div class="for_accordian mt-2">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample1"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample1">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false" aria-controls="collapseExample1">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -234,8 +232,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample2"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample2">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample2">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -271,8 +268,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample3"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample3">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample3" role="button" aria-expanded="false" aria-controls="collapseExample3">
                                         View Abstract in French - click to expand
                                     </a>
                                 </div>
@@ -350,8 +346,7 @@
                             </div>
                             <div class="for_accordian">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample4"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample4">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false" aria-controls="collapseExample4">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -444,8 +439,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample5"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample5">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample5" role="button" aria-expanded="false" aria-controls="collapseExample5">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -474,8 +468,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample6"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample6">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample6" role="button" aria-expanded="false" aria-controls="collapseExample6">
                                         View Abstract in French - click to expand
                                     </a>
                                 </div>
@@ -546,8 +539,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample7"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample7">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample7" role="button" aria-expanded="false" aria-controls="collapseExample7">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -689,8 +681,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample8"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample8">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample8" role="button" aria-expanded="false" aria-controls="collapseExample8">
                                         View Extract in English - click to expand
                                     </a>
                                 </div>
@@ -766,8 +757,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample9"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample9">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample9" role="button" aria-expanded="false" aria-controls="collapseExample9">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -952,8 +942,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample10"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample10">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample10" role="button" aria-expanded="false" aria-controls="collapseExample10">
                                         View Extract in English - click to expand
                                     </a>
                                 </div>
@@ -992,8 +981,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample11"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample11">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample11" role="button" aria-expanded="false" aria-controls="collapseExample11">
                                         View Extract in French - click to expand
                                     </a>
                                 </div>
@@ -1078,8 +1066,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample12"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample12">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample12" role="button" aria-expanded="false" aria-controls="collapseExample12">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -1093,8 +1080,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample13"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample13">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample13" role="button" aria-expanded="false" aria-controls="collapseExample13">
                                         View Extract in English - click to expand
                                     </a>
                                 </div>
@@ -1138,12 +1124,11 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample13"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample13">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExamplethrees" role="button" aria-expanded="false" aria-controls="collapseExamplethrees">
                                         View Extract in French - click to expand
                                     </a>
                                 </div>
-                                <div class="collapse" id="collapseExample13">
+                                <div class="collapse" id="collapseExamplethrees">
                                     <div class="card card-body">
                                         <p>Ce livre est la traduction française et l’actualisation d’une thèse soutenue
                                             à Manheim. Pour apprécier son
@@ -1223,8 +1208,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample14"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample14">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample14" role="button" aria-expanded="false" aria-controls="collapseExample14">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -1297,8 +1281,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample15"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample15">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample15" role="button" aria-expanded="false" aria-controls="collapseExample15">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -1367,8 +1350,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample16"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample16">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample16" role="button" aria-expanded="false" aria-controls="collapseExample16">
 
                                         View Table of Contents - click to expand
                                     </a>
@@ -1539,8 +1521,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample17"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample17">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample17" role="button" aria-expanded="false" aria-controls="collapseExample17">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -1566,8 +1547,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample18"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample18">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample18" role="button" aria-expanded="false" aria-controls="collapseExample18">
                                         View Abstract in German - click to expand
                                     </a>
                                 </div>
@@ -1632,8 +1612,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample19"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample19">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample19" role="button" aria-expanded="false" aria-controls="collapseExample19">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -1754,8 +1733,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample20"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample20">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample20" role="button" aria-expanded="false" aria-controls="collapseExample20">
                                         View Abstract in French - click to expand
                                     </a>
                                 </div>
@@ -1853,8 +1831,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample22"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample22">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample22" role="button" aria-expanded="false" aria-controls="collapseExample22">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -1880,8 +1857,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample23"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample23">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample23" role="button" aria-expanded="false" aria-controls="collapseExample23">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -1947,8 +1923,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample24"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample24">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample24" role="button" aria-expanded="false" aria-controls="collapseExample24">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -1973,8 +1948,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample25"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample25">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample25" role="button" aria-expanded="false" aria-controls="collapseExample25">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
@@ -2043,8 +2017,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample27"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample27">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample27" role="button" aria-expanded="false" aria-controls="collapseExample27">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -2272,36 +2245,28 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample1"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample1">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseones" role="button" aria-expanded="false" aria-controls="collapseones">
                                         View Abstract in English - click to expand
                                     </a>
                                 </div>
-                                <div class="collapse" id="collapseExample1">
+                                <div class="collapse" id="collapseones">
                                     <div class="card card-body">
                                         <div class="text-box">
-                                            <p>This collection of twenty-nine essays, ranging from ancient to modern
-                                                history and including Arabic-Islamic prospography, covers all aspects of
-                                                prosopography as currently practised. The book provides an introduction
-                                                for newcomers who have picked up hints that they should be looking at
-                                                prosopography, but have little idea of what it is and how it operates.
-                                                For more experienced practitioners it presents a range of different
-                                                approaches and new applications of the prosopographical method.</p>
+                                            <p>This collection of twenty-nine essays, ranging from ancient to modern history and including
+                                                Arabic-Islamic prospography, covers all aspects of prosopography as currently practised.
+                                                The book provides an introduction for newcomers who have picked up hints that they should be looking
+                                                at prosopography, but have little idea of what it is and how it operates. For more experienced practitioners
+                                                it presents a range of different approaches and new applications of the prosopographical method.</p>
                                             <p>
-                                            <p>The introductory material aims at being helpful to both audiences by
-                                                operating at two different levels. A primary level gives a broad
-                                                introduction to prosopography as a whole and a discussion of how it
-                                                relates to different areas of history and allied disciplines. For the
-                                                complete, or relative, beginner, the Short Manual to the Art of
-                                                Prosopography is the essential starting point. A secondary level
-                                                provides more advanced discussion of certain aspects, such as a survey
-                                                of the evolution of ‘prosopography’ as both word and method, the central
-                                                question of identity, the biographical register and the question of
-                                                names. The latter part of the book (Part II) offers a number of case
-                                                studies as concrete illustrations of aspects of the method, such as
-                                                defining the population to be studied and establishing the criteria on
-                                                which a study will be based, or different analytical approaches, such as
-                                                Social Network Analysis. A substantial Select Bibliography is also
+                                            <p>The introductory material aims at being helpful to both audiences by operating at two different levels.
+                                                A primary level gives a broad introduction to prosopography as a whole and a discussion of how it relates to
+                                                different areas of history and allied disciplines. For the complete, or relative, beginner, the Short Manual
+                                                to the Art of Prosopography is the essential starting point. A secondary level provides more advanced discussion
+                                                of certain aspects, such as a survey of the evolution of ‘prosopography’ as both word and method, the central
+                                                question of identity, the biographical register and the question of names. The latter part of the book (Part II)
+                                                offers a number of case studies as concrete illustrations of aspects of the method,
+                                                such as defining the population to be studied and establishing the criteria on which a study will be based,
+                                                or different analytical approaches, such as Social Network Analysis. A substantial Select Bibliography is also
                                                 included.</p>
                                             </p>
                                         </div>
@@ -2350,8 +2315,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample29"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample29">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample29" role="button" aria-expanded="false" aria-controls="collapseExample29">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -2384,8 +2348,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample30"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample30">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample30" role="button" aria-expanded="false" aria-controls="collapseExample30">
                                         View Abstract in English
                                     </a>
                                 </div>
@@ -2467,7 +2430,7 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="fiqurepros">
-                                <img src="./img/14.png" alt="">
+                                <img src="./img/15.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -2502,8 +2465,7 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample31"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample31">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample31" role="button" aria-expanded="false" aria-controls="collapseExample31">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
@@ -2515,37 +2477,25 @@
                                             <p>Frontispiece:<span style="font-variant: small-caps;"> ii</span></p>
                                             <p>Acknowledgements:<span style="font-variant: small-caps;"> vii</span></p>
                                             <p>English Catholics Nuns in Exile 1600-1800: Foreword and Overview,
-                                                <em>Caroline Bowden:</em> <span
-                                                    style="font-variant: small-caps;">ix</span>
+                                                <em>Caroline Bowden:</em> <span style="font-variant: small-caps;">ix</span>
                                             </p>
                                             <p><em>&nbsp;</em></p>
                                             <p>The English Convents: Historical synopses, followed by Sources cited:
                                                 <span style="font-variant: small-caps;">xiv</span>
                                             </p>
-                                            <p style="margin-left: 11.35pt;">Augustinians: <span
-                                                    style="font-variant: small-caps;">xiv</span></p>
-                                            <p style="margin-left: 11.35pt;">Benedictines: <span
-                                                    style="font-variant: small-caps;">xv</span></p>
-                                            <p style="margin-left: 11.35pt;">Bridgettines: <span
-                                                    style="font-variant: small-caps;">xviii</span></p>
-                                            <p style="margin-left: 11.35pt;">Carmelites: <span
-                                                    style="font-variant: small-caps;">xviii</span></p>
-                                            <p style="margin-left: 11.35pt;">Dominican: <span
-                                                    style="font-variant: small-caps;">xx</span></p>
-                                            <p style="margin-left: 11.35pt;">Franciscans:<span
-                                                    style="font-variant: small-caps;"> xx</span></p>
-                                            <p style="margin-left: 11.35pt;">Conceptionists: <span
-                                                    style="font-variant: small-caps;">xxi</span></p>
-                                            <p style="margin-left: 11.35pt;">Mary Ward Institute: <span
-                                                    style="font-variant: small-caps;">xxi</span></p>
-                                            <p style="margin-left: 11.35pt;">Poor Clares: <span
-                                                    style="font-variant: small-caps;">xxii</span></p>
-                                            <p style="margin-left: 11.35pt;">Sepulchrines:<span
-                                                    style="font-variant: small-caps;"> xxiv</span></p>
+                                            <p style="margin-left: 11.35pt;">Augustinians: <span style="font-variant: small-caps;">xiv</span></p>
+                                            <p style="margin-left: 11.35pt;">Benedictines: <span style="font-variant: small-caps;">xv</span></p>
+                                            <p style="margin-left: 11.35pt;">Bridgettines: <span style="font-variant: small-caps;">xviii</span></p>
+                                            <p style="margin-left: 11.35pt;">Carmelites: <span style="font-variant: small-caps;">xviii</span></p>
+                                            <p style="margin-left: 11.35pt;">Dominican: <span style="font-variant: small-caps;">xx</span></p>
+                                            <p style="margin-left: 11.35pt;">Franciscans:<span style="font-variant: small-caps;"> xx</span></p>
+                                            <p style="margin-left: 11.35pt;">Conceptionists: <span style="font-variant: small-caps;">xxi</span></p>
+                                            <p style="margin-left: 11.35pt;">Mary Ward Institute: <span style="font-variant: small-caps;">xxi</span></p>
+                                            <p style="margin-left: 11.35pt;">Poor Clares: <span style="font-variant: small-caps;">xxii</span></p>
+                                            <p style="margin-left: 11.35pt;">Sepulchrines:<span style="font-variant: small-caps;"> xxiv</span></p>
                                             <p style="margin-left: 11.35pt;">Abbreviations</p>
                                             <p>&nbsp;</p>
-                                            <p>Who Were the English Catholic Nuns in Exile? or Why Family Matters: <span
-                                                    style="font-variant: small-caps;">xxv</span></p>
+                                            <p>Who Were the English Catholic Nuns in Exile? or Why Family Matters: <span style="font-variant: small-caps;">xxv</span></p>
                                             <p style="margin-left: 11.35pt;">The use of Wills in exploring Catholic
                                                 networks:<span style="font-variant: small-caps;"> xxviii</span></p>
                                             <p style="margin-left: 11.35pt;">Family Patterns in Convent Recruitment:
@@ -2555,27 +2505,23 @@
                                                 convents in exile: <span style="font-variant: small-caps;">liii</span>
                                             </p>
                                             <p style="margin-left: 11.35pt;">The Webbs of Odstock and Great Missenden: A
-                                                Case-Study: <span
-                                                    style="font-variant: small-caps;">liii</span>&nbsp;&nbsp;</p>
+                                                Case-Study: <span style="font-variant: small-caps;">liii</span>&nbsp;&nbsp;</p>
                                             <p>&nbsp;</p>
                                             <p>Layout of the Biographical Register &amp; the tables in the Appendix on
                                                 the CD: <span style="font-variant: small-caps;">lx</span></p>
                                             <p>&nbsp;</p>
                                             <p>Variant Names:<span style="font-variant: small-caps;"> lxi</span></p>
                                             <p>&nbsp;</p>
-                                            <p>List of Genealogical Tables in the Appendix on the CD: <span
-                                                    style="font-variant: small-caps;">lxiv</span></p>
+                                            <p>List of Genealogical Tables in the Appendix on the CD: <span style="font-variant: small-caps;">lxiv</span></p>
                                             <p>&nbsp;</p>
-                                            <p>Bibliography of Works Cited: <span
-                                                    style="font-variant: small-caps;">lxxiv</span></p>
+                                            <p>Bibliography of Works Cited: <span style="font-variant: small-caps;">lxxiv</span></p>
                                             <p>&nbsp;</p>
                                             <p>Index</p>
                                             <p>&nbsp;</p>
                                             <p>Table 1 Professions 1600-1800<span style="font-variant: small-caps;">:
                                                     xxv</span></p>
                                             <p>Table 2 Nuns by family, Order and generations:<em> Appendix</em></p>
-                                            <p>Table 3 Family groups with identified Jesuit members: <span
-                                                    style="font-variant: small-caps;">l</span></p>
+                                            <p>Table 3 Family groups with identified Jesuit members: <span style="font-variant: small-caps;">l</span></p>
                                             <p>&nbsp;</p>
                                             <p><span style="font-variant: small-caps;">Part II</span></p>
                                             <p>Biographical Register: 1</p>
@@ -2592,40 +2538,31 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample32"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample32">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample32" role="button" aria-expanded="false" aria-controls="collapseExample32">
                                         View Abstract in English
                                     </a>
                                 </div>
                                 <div class="collapse" id="collapseExample32">
                                     <div class="card card-body">
                                         <div class="text-box">
-                                            <p style="text-align: center;"><strong><em><span
-                                                            style="font-size: 14.0pt;">Prosopographica et
+                                            <p style="text-align: center;"><strong><em><span style="font-size: 14.0pt;">Prosopographica et
                                                             Genealogica</span></em></strong></p>
-                                            <p style="text-align: center;"><span
-                                                    style="font-family: 'boldPS',serif;">&nbsp;</span></p>
-                                            <p style="text-align: center;"><strong><span
-                                                        style="font-family: 'boldPS',serif;">OCCASIONAL PUBLICATIONS OF
+                                            <p style="text-align: center;"><span style="font-family: 'boldPS',serif;">&nbsp;</span></p>
+                                            <p style="text-align: center;"><strong><span style="font-family: 'boldPS',serif;">OCCASIONAL PUBLICATIONS OF
                                                         THE
                                                         UNIT FOR PROSOPOGRAPHICAL RESEARCH</span></strong></p>
-                                            <p style="text-align: center;"><strong><span
-                                                        style="font-family: 'boldPS',serif;">Linacre College, Oxford,
+                                            <p style="text-align: center;"><strong><span style="font-family: 'boldPS',serif;">Linacre College, Oxford,
                                                         OX1 3JA,
                                                         UK</span></strong></p>
                                             <p>&nbsp;</p>
-                                            <p>General Editors:&nbsp; <span
-                                                    style="font-size: 14.0pt; font-family: 'Perpetua',serif;">K.S.B.
+                                            <p>General Editors:&nbsp; <span style="font-size: 14.0pt; font-family: 'Perpetua',serif;">K.S.B.
                                                     Keats-Rohan and
                                                     Christian Settipani</span></p>
-                                            <p><span style="font-size: 14.0pt;">Vol. 15:&nbsp; </span><span
-                                                    style="font-size: 14.0pt; font-family: 'Perpetua',serif;">K.S.B.
+                                            <p><span style="font-size: 14.0pt;">Vol. 15:&nbsp; </span><span style="font-size: 14.0pt; font-family: 'Perpetua',serif;">K.S.B.
                                                     Keats-Rohan ed.,<em> English Catholic Nuns
                                                         in Exile 1600-1800, A Biographical Register</em>, pp. xciv +
                                                     614, Appendix pp. 323 on CD.&nbsp;&nbsp;
-                                                    ISBN </span>978-1-900934-14-5. <span
-                                                    style="font-family: 'Perpetua',serif;">&nbsp;</span><span
-                                                    style="font-size: 14.0pt; font-family: 'Perpetua',serif;">Price £75,
+                                                    ISBN </span>978-1-900934-14-5. <span style="font-family: 'Perpetua',serif;">&nbsp;</span><span style="font-size: 14.0pt; font-family: 'Perpetua',serif;">Price £75,
                                                     plus postage </span></p>
                                             <p>Copies may be purchased online at www.coelweb.co.uk from 6<sup>th</sup>
                                                 November 2017. Anyone interested from
@@ -2636,10 +2573,7 @@
                                                     project, <em>Who Were the Nuns? A Prosopographical study of the
                                                         English Convents in exile 1600-1800</em>,
                                                     hosted online since 2012 at Queen Mary University of London,
-                                                </span><a
-                                                    href="https://owa.nexus.ox.ac.uk/owa/redir.aspx?SURL=NMEM72Hd7wpVCSf8qD-LknEJDSfQWKkqnccaqXgTf7Dbs9__jcrTCGgAdAB0AHAAOgAvAC8AdwB3AHQAbgAuAGgAaQBzAHQAbwByAHkALgBxAG0AdQBsAC4AYQBjAC4AdQBrAC8A&amp;URL=http%3a%2f%2fwwtn.history.qmul.ac.uk%2f"><span
-                                                        style="font-size: 13.0pt; color: #386eff;">wwtn.history.qmul.ac.uk</span></a><span
-                                                    style="font-size: 13.0pt;">. Led by Dr Caroline Bowden, this was the
+                                                </span><a href="https://owa.nexus.ox.ac.uk/owa/redir.aspx?SURL=NMEM72Hd7wpVCSf8qD-LknEJDSfQWKkqnccaqXgTf7Dbs9__jcrTCGgAdAB0AHAAOgAvAC8AdwB3AHQAbgAuAGgAaQBzAHQAbwByAHkALgBxAG0AdQBsAC4AYQBjAC4AdQBrAC8A&amp;URL=http%3a%2f%2fwwtn.history.qmul.ac.uk%2f"><span style="font-size: 13.0pt; color: #386eff;">wwtn.history.qmul.ac.uk</span></a><span style="font-size: 13.0pt;">. Led by Dr Caroline Bowden, this was the
                                                     first systematic inquiry into the
                                                     composition of over twenty convents in exile established mainly in
                                                     Northern France and the Southern
@@ -2680,19 +2614,19 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="fiqurepros">
-                                <img src="./img/15.png" alt="">
+                                <img src="./img/16.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-8">
                             <div class="para-wrapper">
                                 <ul>
-                                    <li>by Christian Settipani
+                                    <li>By Christian Settipani
                                     </li>
-                                    <li>Year Published: 2014
+                                    <li>Year Published 2015
                                     </li>
-                                    <li>Pages: TBC
+                                    <li>Pages: 348
                                     </li>
-                                    <li>ISBN 978-1-900934-15-2
+                                    <li>ISBN: 978-1-900934-16-9
                                     </li>
                                     <li>Price £35
                                     </li>
@@ -2713,231 +2647,235 @@
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample33"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample33">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample33" role="button" aria-expanded="false" aria-controls="collapseExample33">
                                         View Table of Contents - click to expand
                                     </a>
                                 </div>
                                 <div class="collapse" id="collapseExample33">
                                     <div class="card card-body">
                                         <div class="text-box">
-                                            <p><em>Préface de la première édition </em> i <br>
+                                            <p><em>Preface de la premiere edition </em> i <br>
+                                                Avertissement iii <br>
                                                 Remerciements iii <br>
-                                                Première Partie : Introduction 1 <br>
-                                                I] Rechercher les ancêtres de Charlemagne : pourquoi 1 <br>
-                                                A) Le mythe Charlemagne 1 <br>
-                                                B) Charlemagne, ancêtre de l’Europe 3 <br>
-                                                C) Nécessité d’une synthèse 6 <br>
-                                                II] Rechercher les ancêtres de Charlemagne : Comment 13 <br>
-                                                A) Le rôle de l’hypothèse 13 <br>
-                                                III] Rechercher les ancêtres de Charlemagne : à partir de quelles
-                                                sources ? 30 <br>
+                                                PREMIERE PARTIE : INTRODUCTION<br>
+                                                I] Rechercher les ancetres de Charlemagne : pourquoi ? <br>
+                                                A) Le mythe Charlemagne<br>
+                                                B) Charlemagne, ancetre de l’Europe<br>
+                                                C) Necessite d’une synthese 6 <br>
+                                                II] Rechercher les ancetres de Charlemagne : Comment ? 13 <br>
+                                                A) Le role de l’hypothese 13 <br>
+                                                III] Rechercher les ancetres de Charlemagne : a partir de quelles sources ? 30 <br>
                                                 A) Les inscriptions 30 <br>
                                                 B) Les chartes 31 <br>
-                                                C) Les oeuvres littéraires 32 <br>
-                                                IV] Des Mérovingiens aux Carolingiens : mémoire et manipulations 34 <br>
-                                                A) Réécriture de l’histoire au VIIIe siècle 36 <br>
-                                                B) Nécessité d’une généalogie 39 <br>
-                                                C) Affirmation d’une généalogie 39 <br>
+                                                C) Les reuvres litteraires 32 <br>
+                                                IV] Des Merovingiens aux Carolingiens : memoire et manipulations 34 <br>
+                                                A) Reecriture de l’histoire au VIIIe siecle 36 <br>
+                                                B) Necessite d’une genealogie 39 <br>
+                                                C) Affirmation d’une genealogie 39 <br>
                                                 D) Conclusion 50 <br>
                                                 V] Les ascendants de Charlemagne 52 <br>
                                                 A) Certitudes 52 <br>
                                                 B) Quasi-certitudes 54 <br>
-                                                VI] Note de lecture 58 <br>
-                                                La Gaule au VIIe siècle 60 <br>
-                                                Succession des rois mérovingiens 61 <br>
-                                                Deuxième Partie : Les 2048 quartiers de Charlemagne 63 <br>
+                                                VI] Note de lecture 58 <br> </p>
+                                            <p> La Gaule au VIIe siecle 60 <br>
+                                                Succession des rois merovingiens 61 <br>
+                                                DEUXIEME PARTIE : LES 2048 QUARTIERS DE CHARLEMAGNE 63 <br>
                                                 1 Charlemagne, roi des Francs 768, empereur 800-814 65 <br>
-                                                Génération I 69 <br>
-                                                2 Pépin « le Bref », roi des Francs 751-768 69 <br>
+                                                Generation I 2 Pepin « le Bref », roi des Francs 751-768 69 <br>
                                                 3 Bertrade ou Berthe, reine 751-783 71 <br>
-                                                Génération II 73 <br>
-                                                4 Charles Martel, duc des Francs 717-741 73 <br>
-                                                5 Rotrude, (reine ?), † 724 75 <br>
-                                                6 Caribert (Hardrad ?), comte de Laon 743/4-av 762 77 <br>
-                                                7 (Gisèle ?) 77 <br>
-                                                Génération III 81 <br>
-                                                8 Pépin d’Herstal, maire du palais 688/90-714 81 <br>
-                                                9 Alpaide, …690-705… 83 <br>
-                                                10 Lambert, comte (en Lorraine ?) (…706-715…) 86 <br>
-                                                12 N de Laon, père de Caribert († av 721) 91 <br>
-                                                13 Berthe, fondatrice de l’abbaye de Prüm 721 92 <br>
-                                                Génération IV 99 <br>
-                                                16 Ansegisel, domestique …648… († 648/669 [662 ?]) 99 <br>
-                                                17 Begga, abbesse d’Andenne 691 († 693) 101 <br>
-                                                18 Childebrand ??? 101 <br>
-                                                20 Hervé ?, comte de Hesbaye, père de Lambert 102 <br>
-                                                21 (Berthe ??), mère de Lambert 104 <br>
-                                                24 Hugobert, sénéchal 693 105 <br>
-                                                25 Ne, soeur d’Irmine, abbesse d’Oeren 109 <br>
+                                                Generation II 4 Charles Martel, duc des Francs 717-741 73 <br>
+                                                5 Rotrude, (reine ?), f 724 75 <br>
+                                                6 Caribert (Hardrad ?), comte de Laon 743/4-av. 762 77 <br>
+                                                7 (Gisele ?) 77 <br>
+                                                Generation III 8 Pepin d’Herstal, maire du palais 688/90-714 81 <br>
+                                                9 Alpaide, ...690-705 83 <br>
+                                                10 Lambert, comte (en Lorraine ?) (.706-715.) 86 <br>
+                                                12 N de Laon, pere de Caribert (f av. 721) 91 <br>
+                                                13 Berthe, fondatrice de l’abbaye de Prum 721 92 <br>
+                                                Generation IV 16 Ansegisel, domestique .648. (f 648/669 [662 ?]) 99 <br>
+                                                17 Begga, abbesse d’Andenne 691 (f 693) 101 <br>
+                                                18 N (Childebrand ???) 101 <br>
+                                                20 Herve ?, comte de Hesbaye, pere de Lambert 102 <br>
+                                                21 (Berthe ??), mere de Lambert 104 <br>
+                                                24 Hugobert, senechal 693 105 <br>
+                                                25 Ne, sreur d’Irmine, abbesse d’Oeren 109 <br>
                                                 26 Thierry III, roi de Bourgogne (670), des Francs (690) 118 <br>
-                                                27 Dode, reine des Francs (?), épouse de Thierry III 119 <br>
-                                                Génération V 121 <br>
-                                                32 Arnulf, évêque de Metz 614-629 121 <br>
-                                                33 Dode, religieuse (à Trèves), épouse d’Arnulf 128 <br>
-                                                34 Pépin (de Landen), maire du palais d’Austrasie 617 129 <br>
+                                                27 Dode, reine des Francs (?), epouse de Thierry III 119 <br>
+                                                Generation V 32 Arnulf, eveque de Metz 614-629 121 <br>
+                                                33 Dode, religieuse (a Treves), epouse d’Arnulf 128 <br>
+                                                34 Pepin (de Landen), maire du palais d’Austrasie 617 129 <br>
                                                 35 Idoberge (Itte), abbesse de Nivelles (592-652) 131 <br>
-                                                40 Robert [2] ?, comte de Hesbaye ?, père d’Hervé 133 <br>
-                                                41 Théoda, veuve de Robert 678 136</p>
-                                            <p> <br>
-                                                346 LES ANCÊTRES DE CHARLEMAGNE <br>
-                                                48 Waldebert, comte 663 [père du sénéchal Hugobert] 137 <br>
-                                                49 Ragentrude, épouse de Waldebert 138 <br>
-                                                50 Théodard, évêque Tongres, père d’Irmine d’Oeren 139 <br>
+                                                40 Robert [2] ?, comte de Hesbaye ?, pere d’Herve 133 <br>
+                                                41 Theoda, veuve de Robert 678 136 <br>
+                                                48 Waldebert, comte 663 [pere du senechal Hugobert] 137 <br>
+                                                49 Ragentrude, epouse de Waldebert 138 <br>
+                                                50 Theodard, eveque Tongres, pere d’Irmine d’Oeren 139 <br>
                                                 52 Clovis II, roi des Francs de Neustrie, 640-657 141 <br>
-                                                53 Bathilde, reine des Francs (648 ?), régente 657-665 142 <br>
+                                                53 Bathilde, reine des Francs (648 ?), regente 657-665 142 <br>
                                                 54 Ansegisel (= n° 16) 143 <br>
                                                 55 Begga (= n° 17) 143 <br>
-                                                Génération VI 145 <br>
-                                                64 Bodogisel, ambassadeur à Byzance 589 145 <br>
+                                                Generation VI 64 Bodogisel, ambassadeur a Byzance 589 145 <br>
                                                 65 Chrodoara (sainte Ode), fondatrice d’Amay (589/634) 146 <br>
-                                                66 Arnoald, évêque de Metz 601-611 149 <br>
+                                                66 Arnoald, eveque de Metz 601-611 149 <br>
                                                 68 Carloman 151 <br>
-                                                69 (Gertrude), mère de Pépin de Landen 153 <br>
-                                                80 Erlebert, noble de Thérouanne 155 <br>
-                                                96 Wandbert ? [père de Waldebert] 156 <br>
-                                                96 Cuneberge 157 <br>
+                                                69 (Gertrude), mere de Pepin de Landen 153 <br>
+                                                80 Erlebert, noble de Therouanne 155 <br>
+                                                96 Wambert ? [pere de Waldebert] 156 <br>
+                                                97 Cuneberge 157 <br>
                                                 98 N [fils de Hugues] 157 <br>
-                                                102 N [= Théodard, évêque de Liège c 660 ?] 158 <br>
                                                 104 Dagobert Ier, roi des Francs 629-639 160 <br>
                                                 105 Nantilde, reine des Francs 631-642 162 <br>
-                                                108 Arnulf (= n° 32) 163 <br>
-                                                109 Dode (= n° 33) 163 <br>
-                                                110 Pépin (= n° 34) 163 <br>
-                                                111 Idoberge Itte (= n° 35) 163 <br>
-                                                Génération VII 165 <br>
-                                                128 Mummolin, (maire du palais ?) 566 165 <br>
-                                                129 Ne, (fille de Mundéric) 170 <br>
-                                                130 N [père de Chrodoara] 171 <br>
-                                                131 Ne (soeur d’Aunulf, duc ? d’Angoulême) 172 <br>
+                                                108 Arnulf (= n° 32) 162 <br>
+                                                109 Dode (= n° 33) 162 <br>
+                                                110 Pepin (= n° 34) 163 <br>
+                                                111 Idoberge Itte (= n° 35) 163 </p>
+                                            <p>Generation VII 128 Mummolin, (maire du palais ?) 566 165 <br>
+                                                129 Ne, (fille de Munderic) 170 <br>
+                                                130 N [pere de Chrodoara] 171 <br>
+                                                131 Ne (sreur d’Aunulf, duc ? d’Angouleme) 172 <br>
                                                 132 Ansbert 174 <br>
                                                 133 Bilichilde (?) 175 <br>
-                                                138 Garibald Ier, duc de Bavière c 555-590 175 <br>
-                                                139 Waldrade, reine d’Austrasie c 550-5 177 <br>
-                                                193 Ne, soeur de Pépin de Landen 178 <br>
-                                                196 Hugues, maire du palais d’Austrasie …616-617/8 179 <br>
+                                                138 Garibald Ier, duc de Baviere c. 555-590 175 <br>
+                                                139 Waldrade, reine d’Austrasie c. 550-5 177 <br>
+                                                193 Ne, sreur de Pepin de Landen 178 <br>
+                                                196 Hugues, maire du palais d’Austrasie ...616-617/8 179 <br>
                                                 208 Clotaire II, roi des Francs 613-629 180 <br>
-                                                209 Aldétrude 183 <br>
+                                                209 Aldetrude 183 <br>
                                                 216 Bodogisel (= n° 64) 186 <br>
                                                 217 Chrodoara (= n° 65) 186 <br>
                                                 218 Arnoald (= n° 66) 186 <br>
                                                 220 Carloman (= n° 68) 186 <br>
                                                 221 (Gertrude) (= n° 69) 186 <br>
-                                                Génération VIII 187 <br>
-                                                258 Mundéric, prince austrasien c 532 187 <br>
-                                                259 Ne, [soeur de Gondulf, évêque de Metz] 189 <br>
+                                                Generation VIII 258 Munderic, prince austrasien c. 532 187 <br>
+                                                259 Ne, [sreur de Gondulf, eveque de Metz] 189 <br>
+                                                260 Chrodoin 191 <br>
                                                 262 Maurilion 191 <br>
-                                                263 Ne (soeur d’Ingeltrude) 191 <br>
-                                                264 N, père d’Ansbert 192 <br>
-                                                265 Ne (mère d’Ansbert) 194 <br>
-                                                276 (Agilulf ?), noble Franc (Agilolfingien) 196 <br>
-                                                278 Wacchon, roi des lombards c 510/5-540/1 198 <br>
-                                                279 Ostrogotha, princesse Gépide 199 <br>
-                                                324 (Agilulf ?) (= n° 276) 199 <br>
-                                                416 Chilpéric, roi de Soissons 561-584 199 <br>
-                                                417 Frédégonde, reine des Francs de Neustrie 568-597 201 <br>
+                                                263 Ne (sreur d’Ingeltrude) 191 <br>
+                                                264 N (Firminus ?), pere d’Ansbert 192 <br>
+                                                265 Ne (mere d’Ansbert) 194 <br>
+                                                276 (Agivald ?), noble Franc (Agilolfingien) 196 <br>
+                                                278 Wacchon, roi des lombards c. 510/5-540/1 198 <br>
+                                                279 Ostrogotha, princesse Gepide 199 <br>
+                                                386 Carlomon (= n° 68) 199 <br>
+                                                387 (Gertrude) (= n° 69) 199 <br>
+                                                416 Chilperic, roi de soissons 561-584 199 <br>
+                                                417 Fredegonde, reine des Francs de Neustrie 568-597 201 <br>
                                                 418 Richomer, patrice de Provence 607 202 <br>
-                                                419 Gertrude, abbesse d’Hamage († déc 649) 203 <br>
+                                                419 Gertrude, abbesse d’Hamage (f dec. 649) 203 <br>
                                                 432 Mummolin (= n° 128) 203 <br>
-                                                433 Ne… (= n° 129) 203 <br>
-                                                436 Ansbert (= n° 132) 204 <br>
+                                                433 Ne. (= n° 129) 203 <br>
+                                                434 N, fils de Chrodoin (= n° 130) 199 <br>
+                                                435 Ne, fille de Maurilion (= n° 131) 199 <br>
+                                                436 Ansbert (= n° 132) 199 <br>
                                                 437 Bilichilde (?) (= n° 133) 204 <br>
                                                 442 Garibald I (= n° 138) 204 <br>
                                                 443 Waldrade (= n° 139) 204 <br>
-                                            </p>
-                                            <p>INDEX 347 <br>
-                                                Génération IX 205 <br>
-                                                516 Clodéric, roi des Francs de Cologne 508-509 205 <br>
-                                                517 Ne [Agilolfingienne, mère de Mundéric] 206 <br>
-                                                518 Florentin, évêque élu de Genève 513 207 <br>
-                                                519 Artémie, noble gallo-romaine 207 <br>
-                                                526 N, père des reines Ingonde et Arnégonde 208 <br>
-                                                527 Ne…, princesse thuringienne 209 <br>
+                                                Generation IX 516 Cloderic, roi des Francs de Cologne 508-509 205 <br>
+                                                517 Ne [Agilolfingienne, mere de Munderic] 206 <br>
+                                                518 Florentin, eveque elu de Geneve 513 207 <br>
+                                                519 Artemie, noble gallo-romaine 207 <br>
+                                                526 N, pere des reines Ingonde et Arnegonde 208 <br>
+                                                527 Ne..., princesse thuringienne 209 <br>
                                                 528 Fidentius 211 <br>
                                                 529 Sidonia 212 <br>
-                                                530 Clodéric (= n° 512) 213 <br>
-                                                531 Ne… (= 513) 213 <br>
-                                                552 [Agilulf] (beau-frère de Clodéric) 213 <br>
-                                                553 Ne (princesse Burgonde, mère d’Agilulf) 215 <br>
+                                                530 Cloderic (= n° 516) 213 <br>
+                                                531 Ne. (= 517) 213 <br>
+                                                552 [Agilulf] (beau-frere de Cloderic) 213 <br>
+                                                553 Ne (princesse Burgonde, mere d’Agilulf) 215 <br>
                                                 556 Winigis, prince lombard 216 <br>
-                                                558 Gondéric 217 <br>
+                                                558 Gonderic 217 <br>
+                                                559 Ne, princesse Amale 219 <br>
+                                                774 Garibald (= n° 138) 219 <br>
+                                                775 Waldrade (= n° 139) 219 <br>
                                                 832 Clotaire Ier, roi de Soissons 511;des Francs 558-561 219 <br>
-                                                833 Ar(n)égonde 221 <br>
-                                                836 Austrène (?), évêque d’Orléans 222 <br>
-                                                838 Théodebald, duc 227 <br>
-                                                864 Mundéric (= n° 256) 229 <br>
-                                                865 Ne… (= n° 257) 229 <br>
-                                                866 Maurilion (= n° 258) 229 <br>
-                                                867 Ne… (= n° 259) 229 <br>
-                                                872 Ferreolus (= n° 264) 229 <br>
+                                                833 Ar(n)egonde 221 <br>
+                                                836 Austrene (?), eveque d’Orleans 222 <br>
+                                                838 Theodebald, duc 227 <br>
+                                                866 Munderic (= n° 258) 229 <br>
+                                                867 Ne. (= n° 259) 229 <br>
+                                                868 Chrodoin (= n° 260) 229 <br>
+                                                870 Maurilion (= n° 262) 229 <br>
+                                                871 Ne. (= n° 263) 229 <br>
+                                                872 N (Firminus ?) (= n° 264) 229 <br>
                                                 873 Ne de Cologne (= n° 265) 229 <br>
-                                                884 [Agilulf] (= n° 276) 229 <br>
+                                                884 [Agivald] (= n° 276) 229 <br>
                                                 886 Wacchon (= n° 278) 229 <br>
                                                 887 Ostrogotha (= n° 279) 229 <br>
-                                                Génération X 231 <br>
-                                                1024 Sigebert, roi de Cologne …496-508 231 <br>
-                                                1038 Rusticus, évêque de Lyon 494-501, père d’Artémie 231 <br>
-                                                1039 Ne [fille de Ruricius de Limoges], mère d’Artémie 232 <br>
+                                                Generation X 1032 Sigebert, roi de Cologne .496-508 231 <br> </p>
+                                            <p>
+                                                1038 Rusticus, eveque de Lyon 494-501, pere d’Artemie 231 <br>
+                                                1039 Ne [fille de Ruricius de Limoges], mere d’Artemie 232 <br>
                                                 1052 Basin, roi de Thuringe 234 <br>
                                                 1053 Menia 234 <br>
-                                                1056 Tonantius Ferreolus, sénateur Narbonne 479-517 235 <br>
+                                                1056 Tonantius Ferreolus, senateur Narbonne 479-517 235 <br>
                                                 1057 Industria 235 <br>
                                                 1058 Apollinaris 240 <br>
                                                 1059 Placidina 241 <br>
-                                                1060 Sigebert (= 1024) 242 <br>
-                                                1106 Godogisel, roi des Burgondes de Genève (474)-500 242 <br>
-                                                1107 Théodelinde, reine des Burgondes 243 <br>
+                                                1060 Sigebert (= 1032) 242 <br>
+                                                1106 Godogisel, roi des Burgondes de Geneve (474)-500 242 <br>
+                                                1107 Theodelinde, reine des Burgondes 243 <br>
                                                 1112 Claffon, roi des Lombards 244 <br>
-                                                1664 Clovis Ier, roi des Francs 481/2-511 244 <br>
+                                                1116 N, fils d’Ardaric 244 <br>
+                                                1548 (Agivald ?) (= n° 276) 244 <br>
+                                                1550 Wacchon (= n° 278) 244 <br>
+                                                1551 Ostrogotha (= n° 279) 244 <br>
+                                                1664 Clovis T, roi des Francs 481/2-511 244 <br>
                                                 1665 Clotilde, reine des Francs 492/4-545 245 <br>
-                                                1666 N (= n° 518) 246 <br>
-                                                1667 Ne… (= n° 519) 247 <br>
-                                                1672 Pastor, noble d’Orléans 247 <br>
+                                                1666 N, prince thuringien 246 <br>
+                                                1672 Pastor, noble d’Orleans 247 <br>
                                                 1673 Ragnoara, princesse franque 247 <br>
+                                                1676 (Agivald ?) (= n° 276) 247 <br>
+                                                1732 Cloderic (= n° 516) 247 <br>
+                                                1733 Ne, sreur d’Agilulf (= n° 517) 247 <br>
+                                                1734 Florentinus (= n° 518) 247 <br>
+                                                1735 Artemie (= n° 519) 247 <br>
+                                                1742 N (= n° 526) 247 <br>
+                                                1744 Fidentius (= n° 528) 247 <br>
+                                                1745 Sidonia (= n° 529) 247 <br>
+                                                1746 Cloderic (= n° 516) 247 <br>
+                                                1747 Ne, sreur d’Agilulf (= n° 517) 247 <br>
+                                                1768 (Agilulf) (= n° 552) 247 <br>
+                                                1769 Ne, fille de Godogisel (= n° 553) 247 <br>
+                                                1772 Winigis (= n° 556) 247 <br>
+                                                1774 Gonderic (= n° 558) 247 <br>
+                                                1775 Ne, princesse Amale (= n° 559) 247
                                             </p>
-                                            <p>APPENDICE I : Quelques généalogies fantaisistes ou divergentes de
-                                                Charlemagne 249 <br>
-                                                APPENDICE II Les ancêtres d’Hildegarde 265 <br>
-                                                APPENDICE III : Charlemagne et l’Antiquité 279 <br>
-                                                Troisième partie : Bibliographie 297 <br>
-                                                A) Abréviations 299 <br>
+                                            <p> APPENDICE I : Quelques genealogies fantaisistes ou divergentes de Charlemagne 249 <br>
+                                                APPENDICE II Les ancetres d’Hildegarde 265 <br>
+                                                APPENDICE III : Charlemagne et l’Antiquite 279 <br>
+                                                CONCLUSION: 294 <br>
+                                                TROISIEME PARTIE : BIBLIOGRAPHIE 297 <br>
+                                                A) Abreviations 299 <br>
                                                 B) Sources 301 <br>
-                                                C) Littérature 306 <br>
-                                                C) Littérature 306 <br>
+                                                C) Litterature 306 <br>
                                                 D) Bibliographie des appendices 329 <br>
                                                 Index 331 <br>
-                                                Table des matières 345 </p>
+                                                Table des matieres 345 <br> </p>
                                         </div>
+
+
+
                                     </div>
                                 </div>
                             </div>
                             <div class="for_accordian mt-3">
                                 <div>
-                                    <a class="accordian_btn" data-toggle="collapse" href="#collapseExample34"
-                                        role="button" aria-expanded="false" aria-controls="collapseExample34">
+                                    <a class="accordian_btn" data-toggle="collapse" href="#collapse34" role="button" aria-expanded="false" aria-controls="collapse34">
                                         View Abstract in French
                                     </a>
                                 </div>
-                                <div class="collapse" id="collapseExample34">
+                                <div class="collapse" id="collapse34">
                                     <div class="card card-body">
                                         <div class="text-box">
-                                            <p>L’ascendance de Charlemagne n’a cessé depuis le IXe siècle de fasciner
-                                                généalogistes et historiens. L’envergure
-                                                du personnage peut certes expliquer cette fascination. Mais Charlemagne,
-                                                père de l’Europe, est aussi l’ancêtre
-                                                de la plupart des Européens, de sorte que ses ascendants sont aussi les
-                                                nôtres. </p>
-                                            <p>C’est le propos de cet ouvrage, refonte complète d’un livre publié en
-                                                1989, d’apporter des réponses aux
-                                                nombreuses questions restées en suspens depuis des siècles. </p>
-                                            <p>Au terme d’une enquête minutieuse et passionnante, le lecteur découvrira
-                                                les parentés certaines ou probable de
-                                                l’empereur : ses liens avec la dynastie des Mérovingiens en Gaule, les
-                                                dynasties des autres royaumes germaniques
-                                                ou les familles sénatoriales romaines. </p>
-                                            <p>Christian Settipani, docteur en Histoire, est spécialiste de la
-                                                continuité des familles du Haut Moyen Âge et de
-                                                l’Antiquité et a publié de nombreux autres travaux sur ces questions.
+                                            <p>L’ascendance de Charlemagne n’a cessé depuis le IXe siècle de fasciner généalogistes et historiens.
+                                                L’envergure du personnage peut certes expliquer cette fascination. Mais Charlemagne, père de
+                                                l’Europe, est aussi l’ancêtre de la plupart des Européens, de sorte que ses ascendants sont aussi les nôtres.</p>
+                                            <p>C’est le propos de cet ouvrage, refonte complète d’un livre publié en 1989,
+                                                d’apporter des réponses aux nombreuses questions restées en suspens depuis des siècles. </p>
+                                            <p>Au terme d’une enquête minutieuse et passionnante, le lecteur découvrira les parentés certaines ou probable
+                                                de l’empereur : ses liens avec la dynastie des Mérovingiens
+                                                en Gaule, les dynasties des autres royaumes germaniques ou les familles sénatoriales romaines.</p>
+                                            <p>Christian Settipani, docteur en Histoire, est spécialiste de la continuité des familles du Haut Moyen Âge et de l’Antiquité et a publié de nombreux autres travaux sur ces questions.
                                             </p>
                                         </div>
                                     </div>

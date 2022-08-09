@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <div class="its-menu-heading">
                         <h5>Menu</h5>
                     </div>
@@ -49,9 +49,9 @@
                         <a href="publications.php">Publications</a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <div class="its-menu-heading">
-                        <h5>Quick Help</h5>
+                        <h5>Quick Links</h5>
                     </div>
                     <div class="about-this-menu">
                         <a href="download-articles.php" style="line-height: 18px; padding: 6px 0px;">Downloadable Articles</a>
@@ -59,11 +59,6 @@
                         <a href="links.php">Links</a>
                         <a href="contact.php">Contact</a>
                         <a href="blog.php">blog</a>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="its-menu-heading">
-                        <h5>Category</h5>
                     </div>
                 </div>
             </div>
