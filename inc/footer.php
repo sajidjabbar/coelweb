@@ -8,7 +8,7 @@
                             <img src="img/logo.png" alt="" class="img-fluid">
                         </div>
                         <div class="about-this-img">
-                            <p> You have reached the home page of the COEL Database (Continental Origins of
+                            <p>Home page of the COEL Database (Continental Origins of
                                 English Landholders 1066-1166) and the Prosopographica et Genealogica
                                 (Occasional Publications UPR) imprint.</p>
 
