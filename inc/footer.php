@@ -8,8 +8,11 @@
                             <img src="img/logo.png" alt="" class="img-fluid">
                         </div>
                         <div class="about-this-img">
-                            <p>A lectus ac pulvinar tincidunt accumsan. Ulla mcorper dolor at lectus ac
-                                sed facilis isaclect Molestie aliquam ut blandit nibh vulputatctus in sit egestas in dolor dui purus tincidunt.</p>
+                            <p> You have reached the home page of the COEL Database (Continental Origins of
+                                English Landholders 1066-1166) and the Prosopographica et Genealogica
+                                (Occasional Publications UPR) imprint.
+                                Please enter for further information and purchase details about these
+                                publications.</p>
 
                         </div>
                         <div class="footer-icons">
