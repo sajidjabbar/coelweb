@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc3a14b7-22dc-42d5-a596-ba66a45a2c37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prosopographica-et-genealogica.php" beforeDir="false" afterPath="$PROJECT_DIR$/prosopographica-et-genealogica.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dundonnell-hotel" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,7 +59,8 @@
       <workItem from="1658748130242" duration="596000" />
       <workItem from="1658855536104" duration="609000" />
       <workItem from="1659467396608" duration="1424000" />
-      <workItem from="1660050791926" duration="1184000" />
+      <workItem from="1660050791926" duration="1255000" />
+      <workItem from="1660054517366" duration="31000" />
     </task>
     <servers />
   </component>
@@ -67,13 +68,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1659470032100">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1660053058762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1659470032100" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1659468006096">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1660053058762" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1660054520497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1659468006096" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1660054520497" />
   </component>
 </project>
