@@ -10,9 +10,7 @@
                         <div class="about-this-img">
                             <p> You have reached the home page of the COEL Database (Continental Origins of
                                 English Landholders 1066-1166) and the Prosopographica et Genealogica
-                                (Occasional Publications UPR) imprint.
-                                Please enter for further information and purchase details about these
-                                publications.</p>
+                                (Occasional Publications UPR) imprint.</p>
 
                         </div>
                         <div class="footer-icons">
