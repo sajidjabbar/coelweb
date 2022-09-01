@@ -47,7 +47,7 @@
                     </p>
                     <h5>Book proposals</h5>
                     <p>The Editors would be glad to receive proposals from academic authors for future titles. These may
-                        be submitted electronically to <a href=""> prosop@history.ox.ac.uk</a></p>
+                        be submitted electronically to <a href="mailto:books@coelweb.co.uk"> books@coelweb.co.uk</a></p>
                 </div>
                 <div class="text-btn">
                     <button>Current Titles</button>
