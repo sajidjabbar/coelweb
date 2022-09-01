@@ -56,6 +56,7 @@
                         <a href="links.php">Links</a>
                         <a href="contact.php">Contact</a>
                         <a href="blog.php">blog</a>
+                        <a href="https://coel.demos-clients-websites.com/admin/auth/login">login</a>
                     </div>
                 </div>
             </div>
