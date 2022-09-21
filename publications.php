@@ -60,12 +60,12 @@
             </div>
             <div class="info this">
                 <h4>Norman Conquest</h4>
-                <p class="ml-0"><a href="">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book,
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851157221/domesday-people/">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book,
                     compiled by K.S.B. Keats-Rohan
                     and D. Thornton (Woodbridge, 1997).</p>
-                <p class="ml-0"><a href="">Domesday People:</a>A Prosopography of Persons Occurring in English Documents
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851158631/domesday-descendants/">Domesday People:</a>A Prosopography of Persons Occurring in English Documents
                     1066-1166 Volume I, Domesday Book (Woodbridge , 1999).</p>
-                <p class="ml-0"><a href="">Domesday Descendants</a>A Prosopography of Persons Occurring in English
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851156255/family-trees-and-the-roots-of-politics/">Domesday Descendants</a>A Prosopography of Persons Occurring in English
                     Documents 1066- 1166 Volume II Pipe Rolls to Cartae Baronum (Woodbridge, 2002).</p>
             </div>
             <div class="info">
@@ -105,7 +105,7 @@
             </div>
             <div class="info">
                 <h4>Medieval France</h4>
-                <p><a href="">Family Trees and the Roots of Politics:</a>British and French prosopography from the tenth
+                <p><a href="https://boydellandbrewer.com/9780851156255/family-trees-and-the-roots-of-politics/">Family Trees and the Roots of Politics:</a>British and French prosopography from the tenth
                     to the twelfth centuries, editor K.S.B. Keats-Rohan (Woodbridge , 1997).</p>
                 <p>'Le problème de la suzerainété et la lutte pour le pouvoir: la rivalité bretonne et l'état
                     Anglo-normand 1066-1154', Mémoires de la Société d'Histoire et d'Archéologie de Bretagne, lxviii

@@ -161,6 +161,14 @@ a.accordian_btn {
 p{
     font-family: "inter";
 }
+/* new css */
+.text ol {
+    list-style: upper-roman;
+}
+.text strong {
+    text-transform: capitalize;
+}
+/* new css end */
 @media (max-width: 580px) {
     .banner_breadcrumps span {
         color: #0b1a3080;

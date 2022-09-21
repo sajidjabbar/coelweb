@@ -101,7 +101,7 @@
                         <h3 class="value">$45</h3>
                     </div>
                 </div>
-                <a class="btn" href="product-page.php" >Continue Shopping</a>
+                <a class="btn" href="shop.php" >Continue Shopping</a>
             </div>
             <div class="col-lg-3 col-md-2">
 

@@ -59,7 +59,10 @@
             <div class="row mb-5">
                 <div class="col-md-2">
                     <div>
-                        <p>Your Email Here</p>
+                        <a href="mailto:books@coelweb.co.uk">books@coelweb.co.uk</a>
+                       
+                        <a href="mailto:info@coelweb.co">info@coelweb.co.</a>
+                        
                     </div>
                 </div>
                 <!-- <div class="col-md-2">
