@@ -39,14 +39,14 @@
     padding: 10px;
 }
 .Hotbg:hover > .Hotbg-txt {
-    width: 198px;
+    width: 158px;
     padding: 0 6px;
     background: white;
     border-radius: 20px;
     /* margin-bottom: 16px; */
     position: relative;
     border: 2px solid black;
-    left: 30px;
+    left: 16px;
     top: 3px !important;
 }
 
