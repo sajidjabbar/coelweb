@@ -49,7 +49,7 @@
                 <h4>Prosopography</h4>
                 <span><a href="http://www.coelweb.co.uk/NamesIdentity.pdf">'Biography, Names and Identity; </a>
                     Understanding the pursuit of the individual in prosopography', in
-                    <a href="">Prosopography Approaches and Applications</a>(Prosop. et Gen. 13, 2007).</span>
+                    <a href="prosopographica-et-genealogica.php#vol13">Prosopography Approaches and Applications</a>(Prosop. et Gen. 13, 2007).</span>
             </div>
             <div class="info">
                 <p>‘Prosopography and Computers: a marriage made in heaven?', History and Computing 10.1 (2000), ed. M.
@@ -60,12 +60,12 @@
             </div>
             <div class="info this">
                 <h4>Norman Conquest</h4>
-                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851157221/domesday-people/">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book,
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851154299/domesday-names/">Domesday Names: </a>An Index of Personal and Place Names in Domesday Book,
                     compiled by K.S.B. Keats-Rohan
                     and D. Thornton (Woodbridge, 1997).</p>
-                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851158631/domesday-descendants/">Domesday People:</a>A Prosopography of Persons Occurring in English Documents
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851157221/domesday-people/">Domesday People:</a>A Prosopography of Persons Occurring in English Documents
                     1066-1166 Volume I, Domesday Book (Woodbridge , 1999).</p>
-                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851156255/family-trees-and-the-roots-of-politics/">Domesday Descendants</a>A Prosopography of Persons Occurring in English
+                <p class="ml-0"><a href="https://boydellandbrewer.com/9780851158631/domesday-descendants/">Domesday Descendants</a>A Prosopography of Persons Occurring in English
                     Documents 1066- 1166 Volume II Pipe Rolls to Cartae Baronum (Woodbridge, 2002).</p>
             </div>
             <div class="info">
