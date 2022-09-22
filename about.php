@@ -117,7 +117,7 @@
             <div class="col-md-4">
                 <div class="threebtn">
                     <i aria-hidden="true" class="fas fa-check-double"></i>
-                    <p>Refund Guarantee</p>
+                    <p>Tracked  Mail</p>
                 </div>
             </div>
             <div class="col-md-4">

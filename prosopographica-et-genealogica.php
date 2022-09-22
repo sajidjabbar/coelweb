@@ -34,7 +34,7 @@
                     <p>Occasional Publications of the Unit for Prosopographical Research, Linacre College, Oxford</p>
                     <h5>General Editors</h5>
                     <p>K. S. B. Keats-Rohan (Oxford, U.K.), Christian Settipani (Paris, France).</p>
-                    <h3>What is Prosopographica et Genealogica?</h3>
+                    <h3> ‘Our next book will deal with the medieval Hijaz region.’</h3>
                     <p>Prosopographica et Genealogica is a now well-established series of scholarly monographs and
                         collections of papers on aspects of prosopography, including onomastics and genealogy. Titles
                         published to date cover Classical and Medieval subjects. Our next book will deal with the
@@ -110,10 +110,10 @@
                                             <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Historiographical and juristic
                                                 synthesis </p>
                                             <p>VI.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alsatian counts </p>
-                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rivalry over Montbйliard </p>
+                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rivalry over Montbéliard </p>
                                             <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Holy Forest </p>
                                             <p>VII.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notes on the house of Rheinfelden </p>
-                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kuno von Цhningen and the Welfs
+                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karl von Öhningen and the Welfs
                                             </p>
                                             <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identifying the Burgundian antecedents
                                             </p>
@@ -170,7 +170,7 @@
                                     <div class="card card-body">
                                         <div class="text">
                                             <blockquote>
-                                                Essentially the family of Charlemagne’s queen Hildegard, the Konradiner were the first nonCarolingian dynasty to succeed to the East Frankish throne, and at various points during the
+                                                Essentially the family of Charlemagne’s queen Hildegard, the Konradiner were the first non-Carolingian dynasty to succeed to the East Frankish throne, and at various points during the
                                                 tenth century they held ducal office in Franconia, Lotharingia, Swabia and Alsace. The
                                                 genealogical reconstruction of the Konradiner is widely disputed. While the reconstruction
                                                 proposed in this book was first developed in 1990, the base of the inquiry has been broadened
@@ -445,7 +445,7 @@
                                                 medieval Ireland through France and Germany to the Holy Land exploring the relationship
                                                 between families and their name-giving strategies. Most of the papers were presented at two
                                                 round tables held in France at Saint-Jean d’Angely and in the Institut Historique Allemand de
-                                                Paris under the presidence, respectively, of Szabolcs de Vajay and Karl Ferdinand Werner.</p>
+                                                Paris under the presidence, respectively, of Szabolcs de Vajay and Karl Ferdinand Werner</p>
                                         </div>
                                     </div>
                                 </div>
@@ -675,20 +675,18 @@
                                 <div class="collapse" id="collapseExample8">
                                     <div class="card card-body">
                                         <div class="text">
-                                            <p>The book is a study of the First Crusade and the formative period of the Frankish States in
-                                                Outremer, focusing on the reigns of the first two rulers of the Kingdom of Jerusalem , Godfrey
-                                                of Bouillon (1099-1100) and his brother Baldwin I (1100-1118). The main text provides a
-                                                narrative of the means by which the Bouillon-Boulogne dynasty acquired, maintained, and
-                                                finally lost the rulership of the kingdom of Jerusalem, tracing its history fromfrom the brothers’
-                                                ancestry in Lotharingia and Flanders to the dynastic struggles of the reign of Baldwin II. A
-                                                prosopographical catalogue providdes documentation on the some 140 key individuals who
-                                                formed the basis of Bouillon-Boulogne power on crusdae and during the first two decades of
-                                                Franskish rule in Outremer. Appendices deal with the marriages and descendants of Eustache
-                                                II of Boulogne, witnesses to documents of Baldwin I, and the claims ofBaldwin II to the throne
-                                                of Jerusalem</p>
+                                            <p>The book is a study of the First Crusade and the formative period of the Frankish
+                                                States in Outremer, focusing on the reigns of the first two rulers of the Kingdom of Jerusalem,
+                                                Godfrey of Bouillon (1099-1100) and his brother Baldwin I (1100-1118). The main text provides a narrative
+                                                of the means by which the Bouillon-Boulogne dynasty acquired, maintained, and finally lost the rulership of
+                                                the kingdom of Jerusalem, tracing its history from the brothers’ ancestry in Lotharingia and Flanders to the
+                                                dynastic struggles of the reign of Baldwin II. A prosopographical catalogue provides documentation on the some
+                                                140 key individuals who formed the basis of Bouillon-Boulogne power on crusade and during the first two decades
+                                                of Frankish rule in Outremer. Appendices deal with the marriages and descendants of Eustache II of
+                                                Boulogne, witnesses to documents of Baldwin I, and the claims of Baldwin II to the throne of Jerusalem.</p>
                                             <p>This study will appeal to a broad range of readers with interests in the Crusades, the Latin East,
-                                                and the history of western Europe in the eleventh and early twelfth centuries, including
-                                                professional historians, undergraduates, postgraduates and genealogists</p>
+                                                and the history of western Europe in the eleventh and early twelfth
+                                                centuries, including professional historians, undergraduates, postgraduates and genealogists.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1039,17 +1037,26 @@
                                         <div class="text">
                                             <p>AVERTISSEMENT DES EDITEURS.</p>
                                             <p>DEDICACE</p>
-                                            <p>BIBLIOGRAPHIE</p>
+                                            <!-- <p>BIBLIOGRAPHIE</p> -->
                                             <p>Liste des Abréviations utilisées</p>
-                                            <p>Liste des Abréviations utilisées</p>
-                                            <p>Liste des Abréviations utilisées</p>
+                                            <p>Liste des Sources</p>
+                                            <p>Bibliographie </p>
                                             <p><strong>NTRODUCTION</strong></p>
-                                            <p><strong>CHAPITRE 1 : INTRODUCTION HISTORIQUE.</strong></p>
+                                            <p><strong>Chapitre 1 : Introduction Historique
+                                                    L’Aquitaine
+                                                </strong></p>
                                             <p>A. L’Aquitaine</p>
-                                            <p>B. Le Poitou dans la seconde moitié du Xe siècle</p>
-                                            <p><strong>CHAPITRE 2</strong></p>
-                                            <p>Les officiers des comtes de Poitiers et les circonscriptions administratives du
-                                                comté de Poitiers</p>
+                                            <p>B. Le Poitou dans la seconde moitié du X siècle</p>
+                                            <p><strong>Chapitre 2 Les comtes de Poitiers au X et au debut du XIe siècle
+
+                                                </strong></p>
+                                            <p> Ebles Manzer (902 a 934)</p>
+                                            <p>Guillaume III Tête d’Etoupe (934 a 963/965)</p>
+                                            <p>Guillaume IV Fier-a-Bras (963/965 a 995/1000) </p>
+                                            <p>Guillaume V le Grand (995/1000 a 1030)</p>
+                                            <p>Les comtes de Poitiers et le ducatus in regno Aquitaniae</p>
+                                            <!-- <p>Les officiers des comtes de Poitiers et les circonscriptions administratives du
+                                                comté de Poitiers</p> -->
                                             <p>A. Introduction : Les circonscriptions administratives du comté de Poitiers et les
                                                 officiers du comte de Poitiers</p>
                                             <p>1. Le vicomte de Poitiers</p>
@@ -1067,6 +1074,10 @@
                                             <p>D. Résumé</p>
                                             <p>(1) Les vicomtes</p>
                                             <p>(2) Les vicarii</p>
+                                            <p><strong>Chapitre 3 Les officiers des comtes de Poitiers et les circonscriptions administratives du
+                                                    comte de Poitiers
+                                                </strong>
+                                            </p>
                                             <p><strong>CHAPITRE 4</strong></p>
                                             <p>A. Introduction</p>
                                             <p>Les listes de souscripteurs comme fondement d’études prosopographiques</p>
@@ -1077,8 +1088,8 @@
                                             <p>Gerardus</p>
                                             <p>Ramnulfus</p>
                                             <p>2. partisans des Robertiens</p>
-                                            <p>a. Amalricus</p>
-                                            <p>J. H. PRELL, comtes, vicomtes et noblesse d’Aquitaine Xe – XIe s.</p>
+                                            <!-- <p>a. Amalricus</p> -->
+                                            <!-- <p>J. H. PRELL, comtes, vicomtes et noblesse d’Aquitaine Xe – XIe s.</p> -->
                                             <p>3. Les Rorgonides en Poitou</p>
                                             <p>a. Les Rorgonides</p>
                                             <p>b. Des vassaux portant les noms des Rorgonides dans le Poitou du Xe siècle</p>
@@ -1244,7 +1255,7 @@
                                             of a crucial period in the creation of regional identities</p>
                                         <p>Jan Hendrik PRELL (died January 2004), former research assistant at the Bayerische
                                             Staatsbibliothek de Munich, submitted in 1992 a thesis directed by K.F. Werner entitled Graf,
-                                            Vizegrafen und Adel in Nordaquitanien (10. und 11. Jahrhundert). Verfassungs-geschichtlichprosopographische Untersuchungen zu Poitou, Aunis und Saintonge. He also published several
+                                            Vizegrafen und Adel in Nordaquitanien (10. und 11. Jahrhundert). Verfassungs-geschichtlichprosopographische Untersuchungen zu Poitou, Aunis und Saintonge. He also published several
                                             articles, both in edited collections and in prestigious journals such as the Bibliothèque de
                                             l’Ecole des Chartes.</p>
 
@@ -1275,7 +1286,7 @@
                                         </p>
                                         <p>Jan Hendrik PRELL, décédé en janvier 2004, ancien collaborateur scientifique à la Bayerische
                                             Staatsbibliothek de Munich, a soutenu en 1992 sous la direction de K. F. Werner, une thèse
-                                            intitulée Graf, Vizegrafen und Adel in Nordaquitanien (10. und 11. Jahrhundert). Verfassungsgeschichtlich-prosopographische Untersuchungen zu Poitou, Aunis und Saintonge. Il a publié
+                                            intitulée Graf, Vizegrafen und Adel in Nordaquitanien (10. und 11. Jahrhundert). Verfassungsgeschichtlich-prosopographische Untersuchungen zu Poitou, Aunis und Saintonge. Il a publié
                                             également divers articles, dans des ouvrages collectifs ou dans des revues prestigieuses comme
                                             la Bibliothèque de l’Ecole des Chartes.</p>
                                     </div>
@@ -1367,7 +1378,7 @@
                                                 d’histoire des textes (Orléans) et l’entreprise du Répertoire des Cartulaires Français…Paul
                                                 Bertrand (CNRS-IRHT,Orléans)
                                             </p>
-                                            <p>12. La base de données des chartes originales antérieures à 1121 conservées en France…BenoîtMichel Tock (Université de Strasbourg)</p>
+                                            <p>12. La base de données des chartes originales antérieures à 1121 conservées en France…Benoît-Michel Tock (Université de Strasbourg)</p>
                                             <p>13. Identifying Irregularities and Establishing Chronology in Medieval Charters…Michael
                                                 Gervers (University of Toronto)</p>
                                             <p>14. Dating Charters Using Textual Evidence…Amanda Spencer (University of Toronto)</p>
@@ -2079,7 +2090,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="cardpros"  id="vol13">
+                <div class="cardpros" id="vol13">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="heading-prossopro">
@@ -2533,21 +2544,21 @@
                                                 direct descendant of theirs was ever able to assume the supreme rule of the Muslim
                                                 polity after them. What happened to these highly prominent families? This book
                                                 presents the sociopolitical trajectories of these élite families</p>
-                                            <p>TheArabo-Islamic historiographical tradition not only ignoresthe sociopolitical history
+                                            <p>The Arabo-Islamic historiographical tradition not only ignoresthe sociopolitical history
                                                 of the early Islamic Heijāz, but it also confronts the historian with many insurmountable
-                                                technical challenges. The problems of the paucity of the desired narrative historiography and the notoriously unwieldy sources can be overcome if provincial history is made
+                                                technical challenges. The problems of the paucity of the desired narrative historiography and the notoriously unwieldy sources can be overcome if provincial history is made
                                                 to depend on prosopography, i.e. if it is taken to be a history of individuals belonging
-                                                to identifiable groups. Insofar as they belong to increasingly wider categories—family
-                                                branch, family, clan, tribe, etc.—that have a diachronic presence, a detailed and reliable
+                                                to identifiable groups. Insofar as they belong to increasingly wider categories family
+                                                branch, family, clan, tribe, etc.that have a diachronic presence, a detailed and reliable
                                                 sociopolitical history of the Heijāz can be reconstructed. This is what this book aims to
                                                 do in a preliminary way on the basis of the five families
                                             </p>
                                             <p>TheArabo-Islamic historiographical tradition not only ignoresthe sociopolitical history
                                                 of the early Islamic Heijāz, but it also confronts the historian with many insurmountable
-                                                technical challenges. The problems of the paucity of the desired narrative historiography and the notoriously unwieldy sources can be overcome if provincial history is made
+                                                technical challenges. The problems of the paucity of the desired narrative historiography and the notoriously unwieldy sources can be overcome if provincial history is made
                                                 to depend on prosopography, i.e. if it is taken to be a history of individuals belonging
-                                                to identifiable groups. Insofar as they belong to increasingly wider categories—family
-                                                branch, family, clan, tribe, etc.—that have a diachronic presence, a detailed and reliable
+                                                to identifiable groups. Insofar as they belong to increasingly wider categories family
+                                                branch, family, clan, tribe, etc.that have a diachronic presence, a detailed and reliable
                                                 sociopolitical history of the Heijāz can be reconstructed. This is what this book aims to
                                                 do in a preliminary way on the basis of the five families</p>
                                         </div>
@@ -2733,12 +2744,7 @@
                                     </li>
                                     <li>Price £40
                                     </li>
-                                    <li>
-                                        PLEASE NOTE - A second printing of this edition is now on sale, containing the
-                                        following corrections to this volume <a href="">(click here to see these
-                                            corrections)</a>. <br>
-                                        Alternativeley please visit <a href="">www.settipanichristian.com</a>.
-                                    </li>
+
                                 </ul>
                             </div>
                             <div class="visa-wrapper">
@@ -2764,196 +2770,196 @@
                                                 I] Rechercher les ancetres de Charlemagne : pourquoi ? <br>
                                                 A) Le mythe Charlemagne<br>
                                                 B) Charlemagne, ancetre de l’Europe<br>
-                                                C) Necessite d’une synthese  <br>
-                                                II] Rechercher les ancetres de Charlemagne : Comment ?  <br>
-                                                A) Le role de l’hypothese  <br>
-                                                III] Rechercher les ancetres de Charlemagne : a partir de quelles sources ?  <br>
-                                                A) Les inscriptions  <br>
+                                                C) Necessite d’une synthese <br>
+                                                II] Rechercher les ancetres de Charlemagne : Comment ? <br>
+                                                A) Le role de l’hypothese <br>
+                                                III] Rechercher les ancetres de Charlemagne : a partir de quelles sources ? <br>
+                                                A) Les inscriptions <br>
                                                 B) Les chartes 31 <br>
                                                 C) Les reuvres litteraires 32 <br>
-                                                IV] Des Merovingiens aux Carolingiens : memoire et manipulations  <br>
-                                                A) Reecriture de l’histoire au VIIIe siecle  <br>
-                                                B) Necessite d’une genealogie  <br>
-                                                C) Affirmation d’une genealogie  <br>
-                                                D) Conclusion  <br>
-                                                V] Les ascendants de Charlemagne  <br>
-                                                A) Certitudes  <br>
-                                                B) Quasi-certitudes  <br>
-                                                VI] Note de lecture  <br> </p>
-                                            <p> La Gaule au VIIe siecle  <br>
-                                                Succession des rois merovingiens  <br>
-                                                DEUXIEME PARTIE : LES 2048 QUARTIERS DE CHARLEMAGNE  <br>
-                                                1 Charlemagne, roi des Francs 768, empereur 800-814  <br>
-                                                Generation I 2 Pepin « le Bref », roi des Francs 751-768  <br>
+                                                IV] Des Merovingiens aux Carolingiens : memoire et manipulations <br>
+                                                A) Reecriture de l’histoire au VIIIe siecle <br>
+                                                B) Necessite d’une genealogie <br>
+                                                C) Affirmation d’une genealogie <br>
+                                                D) Conclusion <br>
+                                                V] Les ascendants de Charlemagne <br>
+                                                A) Certitudes <br>
+                                                B) Quasi-certitudes <br>
+                                                VI] Note de lecture <br> </p>
+                                            <p> La Gaule au VIIe siecle <br>
+                                                Succession des rois merovingiens <br>
+                                                DEUXIEME PARTIE : LES 2048 QUARTIERS DE CHARLEMAGNE <br>
+                                                1 Charlemagne, roi des Francs 768, empereur 800-814 <br>
+                                                Generation I 2 Pepin « le Bref », roi des Francs 751-768 <br>
                                                 3 Bertrade ou Berthe, reine 751-783 71 <br>
-                                                Generation II 4 Charles Martel, duc des Francs 717-741  <br>
+                                                Generation II 4 Charles Martel, duc des Francs 717-741 <br>
                                                 5 Rotrude, (reine ?), f 724 75 <br>
-                                                6 Caribert (Hardrad ?), comte de Laon 743/4-av. 762  <br>
+                                                6 Caribert (Hardrad ?), comte de Laon 743/4-av. 762 <br>
                                                 7 (Gisele ?) <br>
-                                                Generation III 8 Pepin d’Herstal, maire du palais 688/90-714  <br>
+                                                Generation III 8 Pepin d’Herstal, maire du palais 688/90-714 <br>
                                                 9 Alpaide, ...690-705 83 <br>
-                                                10 Lambert, comte (en Lorraine ?) (.706-715.)  <br>
-                                                12 N de Laon, pere de Caribert (f av. 721)  <br>
-                                                13 Berthe, fondatrice de l’abbaye de Prum 721  <br>
-                                                Generation IV 16 Ansegisel, domestique .648. (f 648/669 [662 ?])  <br>
-                                                17 Begga, abbesse d’Andenne 691 (f 693)  <br>
-                                                18 N (Childebrand ???)  <br>
-                                                20 Herve ?, comte de Hesbaye, pere de Lambert  <br>
-                                                21 (Berthe ??), mere de Lambert  <br>
-                                                24 Hugobert, senechal 693  <br>
+                                                10 Lambert, comte (en Lorraine ?) (.706-715.) <br>
+                                                12 N de Laon, pere de Caribert (f av. 721) <br>
+                                                13 Berthe, fondatrice de l’abbaye de Prum 721 <br>
+                                                Generation IV 16 Ansegisel, domestique .648. (f 648/669 [662 ?]) <br>
+                                                17 Begga, abbesse d’Andenne 691 (f 693) <br>
+                                                18 N (Childebrand ???) <br>
+                                                20 Herve ?, comte de Hesbaye, pere de Lambert <br>
+                                                21 (Berthe ??), mere de Lambert <br>
+                                                24 Hugobert, senechal 693 <br>
                                                 25 Ne, sreur d’Irmine, abbesse d’Oeren <br>
-                                                26 Thierry III, roi de Bourgogne (670), des Francs (690)  <br>
-                                                27 Dode, reine des Francs (?), epouse de Thierry III  <br>
-                                                Generation V 32 Arnulf, eveque de Metz 614-629  <br>
-                                                33 Dode, religieuse (a Treves), epouse d’Arnulf  <br>
-                                                34 Pepin (de Landen), maire du palais d’Austrasie  <br>
-                                                35 Idoberge (Itte), abbesse de Nivelles (592-652)  <br>
-                                                40 Robert [2] ?, comte de Hesbaye ?, pere d’Herve  <br>
+                                                26 Thierry III, roi de Bourgogne (670), des Francs (690) <br>
+                                                27 Dode, reine des Francs (?), epouse de Thierry III <br>
+                                                Generation V 32 Arnulf, eveque de Metz 614-629 <br>
+                                                33 Dode, religieuse (a Treves), epouse d’Arnulf <br>
+                                                34 Pepin (de Landen), maire du palais d’Austrasie <br>
+                                                35 Idoberge (Itte), abbesse de Nivelles (592-652) <br>
+                                                40 Robert [2] ?, comte de Hesbaye ?, pere d’Herve <br>
                                                 41 Theoda, veuve de Robert 678 136 <br>
-                                                48 Waldebert, comte 663 [pere du senechal Hugobert]  <br>
+                                                48 Waldebert, comte 663 [pere du senechal Hugobert] <br>
                                                 49 Ragentrude, epouse de Waldebert 138 <br>
-                                                50 Theodard, eveque Tongres, pere d’Irmine d’Oeren  <br>
-                                                52 Clovis II, roi des Francs de Neustrie, 640-657  <br>
-                                                53 Bathilde, reine des Francs (648 ?), regente 657-665  <br>
-                                                54 Ansegisel (= n° 16)  <br>
+                                                50 Theodard, eveque Tongres, pere d’Irmine d’Oeren <br>
+                                                52 Clovis II, roi des Francs de Neustrie, 640-657 <br>
+                                                53 Bathilde, reine des Francs (648 ?), regente 657-665 <br>
+                                                54 Ansegisel (= n° 16) <br>
                                                 55 Begga (= n° 17) <br>
-                                                Generation VI 64 Bodogisel, ambassadeur a Byzance 589  <br>
-                                                65 Chrodoara (sainte Ode), fondatrice d’Amay (589/634)  <br>
+                                                Generation VI 64 Bodogisel, ambassadeur a Byzance 589 <br>
+                                                65 Chrodoara (sainte Ode), fondatrice d’Amay (589/634) <br>
                                                 66 Arnoald, eveque de Metz 601-611 149 <br>
-                                                68 Carloman  <br>
-                                                69 (Gertrude), mere de Pepin de Landen  <br>
-                                                80 Erlebert, noble de Therouanne  <br>
-                                                96 Wambert ? [pere de Waldebert]  <br>
-                                                97 Cuneberge  <br>
-                                                98 N [fils de Hugues]  <br>
-                                                104 Dagobert Ier, roi des Francs 629-639  <br>
-                                                105 Nantilde, reine des Francs 631-642  <br>
-                                                108 Arnulf (= n° 32)  <br>
-                                                109 Dode (= n° 33)  <br>
-                                                110 Pepin (= n° 34)  <br>
-                                                111 Idoberge Itte (= n° 35)  </p>
-                                            <p>Generation VII 128 Mummolin, (maire du palais ?) 566  <br>
-                                                129 Ne, (fille de Munderic)  <br>
-                                                130 N [pere de Chrodoara]  <br>
-                                                131 Ne (sreur d’Aunulf, duc ? d’Angouleme)  <br>
-                                                132 Ansbert  <br>
-                                                133 Bilichilde (?)  <br>
-                                                138 Garibald Ier, duc de Baviere c. 555-590  <br>
-                                                139 Waldrade, reine d’Austrasie c. 550-5  <br>
-                                                193 Ne, sreur de Pepin de Landen  <br>
-                                                196 Hugues, maire du palais d’Austrasie ...616-617/8  <br>
+                                                68 Carloman <br>
+                                                69 (Gertrude), mere de Pepin de Landen <br>
+                                                80 Erlebert, noble de Therouanne <br>
+                                                96 Wambert ? [pere de Waldebert] <br>
+                                                97 Cuneberge <br>
+                                                98 N [fils de Hugues] <br>
+                                                104 Dagobert Ier, roi des Francs 629-639 <br>
+                                                105 Nantilde, reine des Francs 631-642 <br>
+                                                108 Arnulf (= n° 32) <br>
+                                                109 Dode (= n° 33) <br>
+                                                110 Pepin (= n° 34) <br>
+                                                111 Idoberge Itte (= n° 35) </p>
+                                            <p>Generation VII 128 Mummolin, (maire du palais ?) 566 <br>
+                                                129 Ne, (fille de Munderic) <br>
+                                                130 N [pere de Chrodoara] <br>
+                                                131 Ne (sreur d’Aunulf, duc ? d’Angouleme) <br>
+                                                132 Ansbert <br>
+                                                133 Bilichilde (?) <br>
+                                                138 Garibald Ier, duc de Baviere c. 555-590 <br>
+                                                139 Waldrade, reine d’Austrasie c. 550-5 <br>
+                                                193 Ne, sreur de Pepin de Landen <br>
+                                                196 Hugues, maire du palais d’Austrasie ...616-617/8 <br>
                                                 208 Clotaire II, roi des Francs 613-629 <br>
-                                                209 Aldetrude  <br>
-                                                216 Bodogisel (= n° 64)  <br>
-                                                217 Chrodoara (= n° 65)  <br>
+                                                209 Aldetrude <br>
+                                                216 Bodogisel (= n° 64) <br>
+                                                217 Chrodoara (= n° 65) <br>
                                                 218 Arnoald (= n° 66) <br>
-                                                220 Carloman (= n° 68)  <br>
-                                                221 (Gertrude) (= n° 69)  <br>
-                                                Generation VIII 258 Munderic, prince austrasien c. 532  <br>
-                                                259 Ne, [sreur de Gondulf, eveque de Metz]  <br>
-                                                260 Chrodoin  <br>
-                                                262 Maurilion  <br>
-                                                263 Ne (sreur d’Ingeltrude)  <br>
-                                                264 N (Firminus ?), pere d’Ansbert  <br>
-                                                265 Ne (mere d’Ansbert)  <br>
-                                                276 (Agivald ?), noble Franc (Agilolfingien)  <br>
-                                                278 Wacchon, roi des lombards c. 510/5-540/1  <br>
-                                                279 Ostrogotha, princesse Gepide  <br>
-                                                386 Carlomon (= n° 68)  <br>
-                                                387 (Gertrude) (= n° 69)  <br>
-                                                416 Chilperic, roi de soissons 561-584  <br>
-                                                417 Fredegonde, reine des Francs de Neustrie 568-597  <br>
-                                                418 Richomer, patrice de Provence 607  <br>
-                                                419 Gertrude, abbesse d’Hamage (f dec. 649)  <br>
-                                                432 Mummolin (= n° 128)  <br>
+                                                220 Carloman (= n° 68) <br>
+                                                221 (Gertrude) (= n° 69) <br>
+                                                Generation VIII 258 Munderic, prince austrasien c. 532 <br>
+                                                259 Ne, [sreur de Gondulf, eveque de Metz] <br>
+                                                260 Chrodoin <br>
+                                                262 Maurilion <br>
+                                                263 Ne (sreur d’Ingeltrude) <br>
+                                                264 N (Firminus ?), pere d’Ansbert <br>
+                                                265 Ne (mere d’Ansbert) <br>
+                                                276 (Agivald ?), noble Franc (Agilolfingien) <br>
+                                                278 Wacchon, roi des lombards c. 510/5-540/1 <br>
+                                                279 Ostrogotha, princesse Gepide <br>
+                                                386 Carlomon (= n° 68) <br>
+                                                387 (Gertrude) (= n° 69) <br>
+                                                416 Chilperic, roi de soissons 561-584 <br>
+                                                417 Fredegonde, reine des Francs de Neustrie 568-597 <br>
+                                                418 Richomer, patrice de Provence 607 <br>
+                                                419 Gertrude, abbesse d’Hamage (f dec. 649) <br>
+                                                432 Mummolin (= n° 128) <br>
                                                 433 Ne. (= n° 129) <br>
-                                                434 N, fils de Chrodoin (= n° 130)  <br>
-                                                435 Ne, fille de Maurilion (= n° 131)  <br>
+                                                434 N, fils de Chrodoin (= n° 130) <br>
+                                                435 Ne, fille de Maurilion (= n° 131) <br>
                                                 436 Ansbert (= n° 132) 199 <br>
-                                                437 Bilichilde (?) (= n° 133)  <br>
-                                                442 Garibald I (= n° 138)  <br>
-                                                443 Waldrade (= n° 139)  <br>
-                                                Generation IX 516 Cloderic, roi des Francs de Cologne 508-509  <br>
-                                                517 Ne [Agilolfingienne, mere de Munderic]  <br>
-                                                518 Florentin, eveque elu de Geneve 513  <br>
-                                                519 Artemie, noble gallo-romaine  <br>
-                                                526 N, pere des reines Ingonde et Arnegonde  <br>
-                                                527 Ne..., princesse thuringienne  <br>
-                                                528 Fidentius  <br>
-                                                529 Sidonia  <br>
-                                                530 Cloderic (= n° 516)  <br>
-                                                531 Ne. (= 517)  <br>
-                                                552 [Agilulf] (beau-frere de Cloderic)  <br>
-                                                553 Ne (princesse Burgonde, mere d’Agilulf)  <br>
-                                                556 Winigis, prince lombard  <br>
-                                                558 Gonderic  <br>
-                                                559 Ne, princesse Amale  <br>
-                                                774 Garibald (= n° 138)  <br>
+                                                437 Bilichilde (?) (= n° 133) <br>
+                                                442 Garibald I (= n° 138) <br>
+                                                443 Waldrade (= n° 139) <br>
+                                                Generation IX 516 Cloderic, roi des Francs de Cologne 508-509 <br>
+                                                517 Ne [Agilolfingienne, mere de Munderic] <br>
+                                                518 Florentin, eveque elu de Geneve 513 <br>
+                                                519 Artemie, noble gallo-romaine <br>
+                                                526 N, pere des reines Ingonde et Arnegonde <br>
+                                                527 Ne..., princesse thuringienne <br>
+                                                528 Fidentius <br>
+                                                529 Sidonia <br>
+                                                530 Cloderic (= n° 516) <br>
+                                                531 Ne. (= 517) <br>
+                                                552 [Agilulf] (beau-frere de Cloderic) <br>
+                                                553 Ne (princesse Burgonde, mere d’Agilulf) <br>
+                                                556 Winigis, prince lombard <br>
+                                                558 Gonderic <br>
+                                                559 Ne, princesse Amale <br>
+                                                774 Garibald (= n° 138) <br>
                                                 775 Waldrade (= n° 139) <br>
                                                 832 Clotaire Ier, roi de Soissons 511;des Francs 558-561 219 <br>
-                                                833 Ar(n)egonde  <br>
-                                                836 Austrene (?), eveque d’Orleans  <br>
+                                                833 Ar(n)egonde <br>
+                                                836 Austrene (?), eveque d’Orleans <br>
                                                 838 Theodebald, duc 227 <br>
-                                                866 Munderic (= n° 258)  <br>
-                                                867 Ne. (= n° 259)  <br>
-                                                868 Chrodoin (= n° 260)  <br>
-                                                870 Maurilion (= n° 262)  <br>
-                                                871 Ne. (= n° 263)  <br>
-                                                872 N (Firminus ?) (= n° 264)  <br>
-                                                873 Ne de Cologne (= n° 265)  <br>
-                                                884 [Agivald] (= n° 276)  <br>
-                                                886 Wacchon (= n° 278)  <br>
-                                                887 Ostrogotha (= n° 279)  <br>
-                                                Generation X 1032 Sigebert, roi de Cologne .496-508  <br> </p>
+                                                866 Munderic (= n° 258) <br>
+                                                867 Ne. (= n° 259) <br>
+                                                868 Chrodoin (= n° 260) <br>
+                                                870 Maurilion (= n° 262) <br>
+                                                871 Ne. (= n° 263) <br>
+                                                872 N (Firminus ?) (= n° 264) <br>
+                                                873 Ne de Cologne (= n° 265) <br>
+                                                884 [Agivald] (= n° 276) <br>
+                                                886 Wacchon (= n° 278) <br>
+                                                887 Ostrogotha (= n° 279) <br>
+                                                Generation X 1032 Sigebert, roi de Cologne .496-508 <br> </p>
                                             <p>
-                                                1038 Rusticus, eveque de Lyon 494-501, pere d’Artemie  <br>
-                                                1039 Ne [fille de Ruricius de Limoges], mere d’Artemie  <br>
+                                                1038 Rusticus, eveque de Lyon 494-501, pere d’Artemie <br>
+                                                1039 Ne [fille de Ruricius de Limoges], mere d’Artemie <br>
                                                 1052 Basin, roi de Thuringe 234 <br>
                                                 1053 Menia 234 <br>
-                                                1056 Tonantius Ferreolus, senateur Narbonne 479-517  <br>
-                                                1057 Industria  <br>
-                                                1058 Apollinaris  <br>
-                                                1059 Placidina  <br>
-                                                1060 Sigebert (= 1032)  <br>
+                                                1056 Tonantius Ferreolus, senateur Narbonne 479-517 <br>
+                                                1057 Industria <br>
+                                                1058 Apollinaris <br>
+                                                1059 Placidina <br>
+                                                1060 Sigebert (= 1032) <br>
                                                 1106 Godogisel, roi des Burgondes de Geneve (474)-500 <br>
-                                                1107 Theodelinde, reine des Burgondes  <br>
-                                                1112 Claffon, roi des Lombards  <br>
-                                                1116 N, fils d’Ardaric  <br>
-                                                1548 (Agivald ?) (= n° 276)  <br>
-                                                1550 Wacchon (= n° 278)  <br>
-                                                1551 Ostrogotha (= n° 279)  <br>
-                                                1664 Clovis T, roi des Francs 481/2-511  <br>
-                                                1665 Clotilde, reine des Francs 492/4-545  <br>
-                                                1666 N, prince thuringien  <br>
-                                                1672 Pastor, noble d’Orleans  <br>
-                                                1673 Ragnoara, princesse franque  <br>
-                                                1676 (Agivald ?) (= n° 276)  <br>
-                                                1732 Cloderic (= n° 516)  <br>
-                                                1733 Ne, sreur d’Agilulf (= n° 517)  <br>
-                                                1734 Florentinus (= n° 518)  <br>
-                                                1735 Artemie (= n° 519)  <br>
-                                                1742 N (= n° 526)  <br>
-                                                1744 Fidentius (= n° 528)  <br>
-                                                1745 Sidonia (= n° 529)  <br>
-                                                1746 Cloderic (= n° 516)  <br>
-                                                1747 Ne, sreur d’Agilulf (= n° 517)  <br>
-                                                1768 (Agilulf) (= n° 552)  <br>
-                                                1769 Ne, fille de Godogisel (= n° 553)  <br>
+                                                1107 Theodelinde, reine des Burgondes <br>
+                                                1112 Claffon, roi des Lombards <br>
+                                                1116 N, fils d’Ardaric <br>
+                                                1548 (Agivald ?) (= n° 276) <br>
+                                                1550 Wacchon (= n° 278) <br>
+                                                1551 Ostrogotha (= n° 279) <br>
+                                                1664 Clovis T, roi des Francs 481/2-511 <br>
+                                                1665 Clotilde, reine des Francs 492/4-545 <br>
+                                                1666 N, prince thuringien <br>
+                                                1672 Pastor, noble d’Orleans <br>
+                                                1673 Ragnoara, princesse franque <br>
+                                                1676 (Agivald ?) (= n° 276) <br>
+                                                1732 Cloderic (= n° 516) <br>
+                                                1733 Ne, sreur d’Agilulf (= n° 517) <br>
+                                                1734 Florentinus (= n° 518) <br>
+                                                1735 Artemie (= n° 519) <br>
+                                                1742 N (= n° 526) <br>
+                                                1744 Fidentius (= n° 528) <br>
+                                                1745 Sidonia (= n° 529) <br>
+                                                1746 Cloderic (= n° 516) <br>
+                                                1747 Ne, sreur d’Agilulf (= n° 517) <br>
+                                                1768 (Agilulf) (= n° 552) <br>
+                                                1769 Ne, fille de Godogisel (= n° 553) <br>
                                                 1772 Winigis (= n° 556) <br>
-                                                1774 Gonderic (= n° 558)  <br>
-                                                1775 Ne, princesse Amale (= n° 559) 
+                                                1774 Gonderic (= n° 558) <br>
+                                                1775 Ne, princesse Amale (= n° 559)
                                             </p>
-                                            <p> APPENDICE I : Quelques genealogies fantaisistes ou divergentes de Charlemagne  <br>
-                                                APPENDICE II Les ancetres d’Hildegarde  <br>
-                                                APPENDICE III : Charlemagne et l’Antiquite  <br>
-                                                CONCLUSION:  <br>
-                                                TROISIEME PARTIE : BIBLIOGRAPHIE  <br>
+                                            <p> APPENDICE I : Quelques genealogies fantaisistes ou divergentes de Charlemagne <br>
+                                                APPENDICE II Les ancetres d’Hildegarde <br>
+                                                APPENDICE III : Charlemagne et l’Antiquite <br>
+                                                CONCLUSION: <br>
+                                                TROISIEME PARTIE : BIBLIOGRAPHIE <br>
                                                 A) Abreviations 299 <br>
-                                                B) Sources  <br>
-                                                C) Litterature  <br>
-                                                D) Bibliographie des appendices  <br>
+                                                B) Sources <br>
+                                                C) Litterature <br>
+                                                D) Bibliographie des appendices <br>
                                                 Index <br>
-                                                Table des matieres  <br> </p>
+                                                Table des matieres <br> </p>
                                         </div>
 
 
