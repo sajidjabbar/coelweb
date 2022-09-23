@@ -1033,13 +1033,13 @@
                                 <div class="collapse" id="collapseExample12">
                                     <div class="card card-body">
                                         <div class="text">
-                                            <p>AVERTISSEMENT DES EDITEURS.</p>
-                                            <p>DEDICACE</p>
+                                            <!-- <p>AVERTISSEMENT DES EDITEURS.</p>
+                                            <p>DEDICACE</p> -->
                                             <!-- <p>BIBLIOGRAPHIE</p> -->
                                             <p>Liste des Abréviations utilisées</p>
                                             <p>Liste des Sources</p>
                                             <p>Bibliographie </p>
-                                            <p><strong>NTRODUCTION</strong></p>
+                                            <p><strong>INTRODUCTION</strong></p>
                                             <p><strong>Chapitre 1 : Introduction Historique
                                                     L’Aquitaine
                                                 </strong></p>
