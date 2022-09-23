@@ -1088,7 +1088,7 @@
                                             <p>Gerardus</p>
                                             <p>Ramnulfus</p>
                                             <p>2. partisans des Robertiens</p>
-                                            <!-- <p>a. Amalricus</p> -->
+                                            <p>a. Amalricus</p>
                                             <!-- <p>J. H. PRELL, comtes, vicomtes et noblesse d’Aquitaine Xe – XIe s.</p> -->
                                             <p>3. Les Rorgonides en Poitou</p>
                                             <p>a. Les Rorgonides</p>
@@ -1200,7 +1200,7 @@
                                             <p>Petronus (III)</p>
                                             <p>Petronus (IV) : Petronus legis doctor</p>
                                             <p>Petronus (V) : Petronus archidiaconus</p>
-                                            <p>J. H. PRELL, comtes, vicomtes et noblesse d’Aquitaine Xe – XIe s</p>
+                                            <!-- <p>J. H. PRELL, comtes, vicomtes et noblesse d’Aquitaine Xe – XIe s</p> -->
                                             <p>Rorgo</p>
                                             <p>Rorgo (I)</p>
                                             <p>Rorgo (II) </p>
@@ -2986,7 +2986,7 @@
                                                 certaines ou probable de l’empereur : ses liens avec la dynastie des Mérovingiens en Gaule,
                                                 les dynasties des autres royaumes germaniques ou les familles sénatoriales romaines.
                                                 Christian Settipani, docteur en Histoire, est spécialiste de la continuité des familles du Haut
-                                                Moyen Âge et de l’Antiquité et a publié de nombreux autres travaux sur ces questions
+                                                Moyen Âge et de l’Antiquité et a publié de nombreux autres travaux sur ces questions.
                                             </p>
                                         </div>
                                     </div>
