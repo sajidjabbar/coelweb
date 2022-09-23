@@ -1047,9 +1047,8 @@
                                                 </strong></p>
                                             <p>A. L’Aquitaine</p>
                                             <p>B. Le Poitou dans la seconde moitié du X siècle</p>
-                                            <p><strong>Chapitre 2 Les comtes de Poitiers au X et au debut du XIe siècle
 
-                                                </strong></p>
+                                            <p><strong>Chapitre 2 Les comtes de Poitiers au X et au debut du XIe siècle </strong></p>
                                             <p> Ebles Manzer (902 a 934)</p>
                                             <p>Guillaume III Tête d’Etoupe (934 a 963/965)</p>
                                             <p>Guillaume IV Fier-a-Bras (963/965 a 995/1000) </p>
