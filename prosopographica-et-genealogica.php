@@ -684,8 +684,7 @@
                                                 of Frankish rule in Outremer. Appendices deal with the marriages and descendants of Eustache II of
                                                 Boulogne, witnesses to documents of Baldwin I, and the claims of Baldwin II to the throne of Jerusalem.</p>
                                             <p>This study will appeal to a broad range of readers with interests in the Crusades, the Latin East,
-                                                and the history of western Europe in the eleventh and early twelfth
-                                                centuries, including professional historians, undergraduates, postgraduates and genealogists.</p>
+                                                and the history of western Europe in the eleventh and early twelfth centuries, including professional historians, undergraduates, postgraduates and genealogists.</p>
                                         </div>
                                     </div>
                                 </div>
