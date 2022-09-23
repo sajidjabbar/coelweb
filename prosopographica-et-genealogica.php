@@ -170,7 +170,7 @@
                                     <div class="card card-body">
                                         <div class="text">
                                             <blockquote>
-                                                Essentially the family of Charlemagne’s queen Hildegard, the Konradiner were the first non-Carolingian dynasty to succeed to the East Frankish throne, and at various points during the
+                                                Essentially the family of Charlemagne’s queen Hildegard, the Konradiner were the first non-carolingian dynasty to succeed to the East Frankish throne, and at various points during the
                                                 tenth century they held ducal office in Franconia, Lotharingia, Swabia and Alsace. The
                                                 genealogical reconstruction of the Konradiner is widely disputed. While the reconstruction
                                                 proposed in this book was first developed in 1990, the base of the inquiry has been broadened
