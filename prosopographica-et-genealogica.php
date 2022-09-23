@@ -2075,7 +2075,7 @@
                                                 The study approaches this question by employing an analysis of the personal names of the
                                                 inhabitants in the Kingdom of Jerusalem in 1099-1291. The anthroponymic analysis offers a
                                                 novel way to explore the nature of the Frankish society both in comparison with contemporary
-                                                European societies, and in relation to the immigrants’s new surroundings. It reveals trends
+                                                European societies, and in relation to the immigrants’ new surroundings. It reveals trends
                                                 unknown so far and compares them with the dominant ones in contemporary Catholic Europe.
                                                 This book makes an important contribution to the socio-cultural study of the Frankish Kingdom
                                                 of Jerusalem, as well as to the comparative study of personal names in general</p>
