@@ -110,11 +110,10 @@
                                             <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Historiographical and juristic
                                                 synthesis </p>
                                             <p>VI.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alsatian counts </p>
-                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rivalry over Montbéliard </p>
+                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rivalry over Montbéliard</p>
                                             <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Holy Forest </p>
                                             <p>VII.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notes on the house of Rheinfelden </p>
-                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karl von Öhningen and the Welfs
-                                            </p>
+                                            <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karl von Öhningen and the Welfs</p>
                                             <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identifying the Burgundian antecedents
                                             </p>
                                             <p>VIII.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The repudiation of Ansgard </p>
