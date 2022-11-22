@@ -34,7 +34,7 @@
                     <p>Occasional Publications of the Unit for Prosopographical Research, Linacre College, Oxford</p>
                     <h5>General Editors</h5>
                     <p>K. S. B. Keats-Rohan (Oxford, U.K.), Christian Settipani (Paris, France).</p>
-                    <h3> ‘Our next book will deal with the medieval Hijaz region.’</h3>
+                    <!-- <h3> ‘Our next book will deal with the medieval Hijaz region.’</h3> -->
                     <p>Prosopographica et Genealogica is a now well-established series of scholarly monographs and
                         collections of papers on aspects of prosopography, including onomastics and genealogy. Titles
                         published to date cover Classical and Medieval subjects. Our next book will deal with the

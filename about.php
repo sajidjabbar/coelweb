@@ -71,9 +71,15 @@
                         those embarking on prosopography was written for the History Faculty at Oxford and is available at <a href="javascript:void(0)">https://prosopography.history.ox.ac.uk/index</a>.
                     </p>
                     <p class="mb-0">
-                        Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established Prosopographica et Genealogica as an imprint of the Unit. She became a Fellow of the Royal Historical Society in 2002 and of the Society of Antiquaries of London in 2011. She has worked at the universities of Sheffield, Oxford, Leeds and Queen Mary University of London, home of the Who were the Nuns database (see vol. 15, English Catholic Nuns in Exile) https://wwtn.history.qmul.ac.uk. She is currently completing an edition of the necrologies of Mont-Saint-Michel, as well as continuing research into medieval Wallingford.
-                        View list of publications by K.S.B. Keats-Rohan
-
+                    Together with Christian Settipani, of the CNRS group L’Année Epigraphique, she established
+                     Prosopographica et Genealogica as an imprint of the Unit. She became a Fellow of the 
+                     Royal Historical Society in 2002 and of the Society of Antiquaries of London in 2011.
+                      She has worked at the universities of Sheffield, Oxford, Leeds and Queen Mary University
+                       of London, home of the Who were the Nuns database (see vol. 15, English Catholic Nuns
+                        in Exile) <a href="https://wwtn.history.qmul.ac.uk">https://wwtn.history.qmul.ac.uk</a>.
+                         She is currently completing an edition of
+                         the necrologies of Mont-Saint-Michel, as well as continuing research into 
+                         medieval Wallingford. View list of<a href="">publications</a>by K.S.B. Keats-Rohan
                     </p>
                     <!-- <button class="btn">Shop Now</button> -->
                 </div>

@@ -66,9 +66,10 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                         <div class="card-body category-info">
-                                            <a href="javascript:void(0)"> vol.7</a>
-                                            <a href="javascript:void(0)"> vol.12</a>
-                                            <a href="javascript:void(0)"> vol.13</a>
+                                            <a href="javascript:void(0)"> vol.7 Resourcing Sources</a>
+                                            <a href="javascript:void(0)"> vol.12 Naming Patterns</a>
+                                            <a href="javascript:void(0)"> vol.13 Prosopography Approaches</a>
+                                            <a href="javascript:void(0)">  vol.14 Religious Elites</a>
                                         </div>
                                     </div>
                                 </div>
@@ -83,8 +84,8 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body category-info">
-                                            <a href="javascript:void(0)"> vol.8</a>
-                                            <a href="javascript:void(0)"> vol.13</a>
+                                            <a href="javascript:void(0)"> vol.8 Ausonianus</a>
+                                            <a href="javascript:void(0)"> vol.13 Prosopography Approaches</a>
 
                                         </div>
                                     </div>
@@ -100,17 +101,18 @@
                                     </div>
                                     <div id="collapsefour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body category-info">
-                                            <a href="javascript:void(0)"> vol.1</a>
-                                            <a href="javascript:void(0)"> vol.2</a>
-                                            <a href="javascript:void(0)"> vol.3</a>
-                                            <a href="javascript:void(0)"> vol.4</a>
-                                            <a href="javascript:void(0)"> vol.5</a>
-                                            <a href="javascript:void(0)"> vol.6</a>
-                                            <a href="javascript:void(0)"> vol.9</a>
-                                            <a href="javascript:void(0)"> vol.10</a>
-                                            <a href="javascript:void(0)"> vol.11</a>
-                                            <a href="javascript:void(0)"> vol.12</a>
-                                            <a href="javascript:void(0)"> vol.13</a>
+                                            <a href="javascript:void(0)"> vol.1 The Konradiner</a>
+                                            <a href="javascript:void(0)"> vol.2 Continuité gentilice</a>
+                                            <a href="javascript:void(0)"> vol.3 nomastique et parenté</a>
+                                            <a href="javascript:void(0)"> vol.4 Crusader Kingdom</a>
+                                            <a href="javascript:void(0)"> vol.5 La Noblesse du Midi</a>
+                                            <a href="javascript:void(0)"> vol.6 Comtes, vicomtes</a>
+                                            <a href="javascript:void(0)"> vol.9 Oùsont les femmes?</a>
+                                            <a href="javascript:void(0)"> vol.10  Kings,Chronologies</a>
+                                            <a href="javascript:void(0)"> vol.11 Naming Patterns</a>
+                                            <a href="javascript:void(0)"> vol.12 Prosopography Approaches</a>
+                                            <a href="javascript:void(0)"> vol.13 Religious Elite</a>
+                                            <a href="javascript:void(0)"> vol 16 Ancêtres de Charlemagne</a>
 
                                         </div>
                                     </div>
@@ -119,14 +121,33 @@
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
                                             <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
-                                                Early Modern
+                                            Crusades
+                                                <i class="fa fa-angle-down"></i>
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapsesix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body category-info">
+                                            <a href="javascript:void(0)"> vol 4 Crusader Kingdom</a>
+                                            <a href="javascript:void(0)"> vol 12 Naming Patterns</a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card category-card">
+                                    <div class="card-header category-header" id="headingThree">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
+                                                Modern
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
                                     <div id="collapsefive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body category-info">
-                                            <a href="javascript:void(0)"> vol.15</a>
+                                            <a href="javascript:void(0)"> vol 13 Prosopography Approaches</a>
+                                            <a href="javascript:void(0)"> vol 15 Who Were the Nuns?</a>
+
 
 
                                         </div>
