@@ -126,7 +126,7 @@
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapsesix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapsefive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol 4 Crusader Kingdom</a>
                                             <a href="javascript:void(0)"> vol 12 Naming Patterns</a>
@@ -137,13 +137,13 @@
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsesix" aria-expanded="false" aria-controls="collapseThree">
                                                 Modern
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapsefive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapsesix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol 13 Prosopography Approaches</a>
                                             <a href="javascript:void(0)"> vol 15 Who Were the Nuns?</a>
