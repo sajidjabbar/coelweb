@@ -28,6 +28,7 @@
     </div>
 </section>
 <!-- Banner Sec End Here -->
+
 <!-- Shop Sec Start Here -->
 <section class="shop_sec">
     <!-- <section class="section-head">
@@ -45,10 +46,12 @@
                         <ul class="categories">
                             <div class="form-group">
                                 <div class="searchBar">
-                                    <input id="searchQueryInput" type="text" name="searchQueryInput" placeholder="Search Products…" value="" />
+                                    <input id="searchQueryInput" type="text" name="searchQueryInput"
+                                        placeholder="Search Products…" value="" />
                                     <button id="searchQuerySubmit" type="submit" name="searchQuerySubmit">
                                         <svg style="width:24px;height:24px" viewBox="0 0 24 24">
-                                            <path fill="#666666" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                                            <path fill="#666666"
+                                                d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
                                         </svg>
                                     </button>
                                 </div>
@@ -57,32 +60,38 @@
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingTwo">
                                         <h5 class="mb-0 category-heading">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse"
+                                                data-target="#collapseTwo" aria-expanded="false"
+                                                aria-controls="collapseTwo">
 
                                                 Methodology
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol.7 Resourcing Sources</a>
                                             <a href="javascript:void(0)"> vol.12 Naming Patterns</a>
                                             <a href="javascript:void(0)"> vol.13 Prosopography Approaches</a>
-                                            <a href="javascript:void(0)">  vol.14 Religious Elites</a>
+                                            <a href="javascript:void(0)"> vol.14 Religious Elites</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse"
+                                                data-target="#collapseThree" aria-expanded="false"
+                                                aria-controls="collapseThree">
                                                 Ancient world
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol.8 Ausonianus</a>
                                             <a href="javascript:void(0)"> vol.13 Prosopography Approaches</a>
@@ -93,13 +102,16 @@
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse"
+                                                data-target="#collapsefour" aria-expanded="false"
+                                                aria-controls="collapseThree">
                                                 Medieval
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapsefour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapsefour" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol.1 The Konradiner</a>
                                             <a href="javascript:void(0)"> vol.2 Continuité gentilice</a>
@@ -108,7 +120,7 @@
                                             <a href="javascript:void(0)"> vol.5 La Noblesse du Midi</a>
                                             <a href="javascript:void(0)"> vol.6 Comtes, vicomtes</a>
                                             <a href="javascript:void(0)"> vol.9 Oùsont les femmes?</a>
-                                            <a href="javascript:void(0)"> vol.10  Kings,Chronologies</a>
+                                            <a href="javascript:void(0)"> vol.10 Kings,Chronologies</a>
                                             <a href="javascript:void(0)"> vol.11 Naming Patterns</a>
                                             <a href="javascript:void(0)"> vol.12 Prosopography Approaches</a>
                                             <a href="javascript:void(0)"> vol.13 Religious Elite</a>
@@ -120,13 +132,16 @@
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
-                                            Crusades
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse"
+                                                data-target="#collapsefive" aria-expanded="false"
+                                                aria-controls="collapseThree">
+                                                Crusades
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapsefive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapsefive" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol 4 Crusader Kingdom</a>
                                             <a href="javascript:void(0)"> vol 12 Naming Patterns</a>
@@ -137,13 +152,16 @@
                                 <div class="card category-card">
                                     <div class="card-header category-header" id="headingThree">
                                         <h5 class="mb-0">
-                                            <button class="btn btn-link category collapsed" data-toggle="collapse" data-target="#collapsesix" aria-expanded="false" aria-controls="collapseThree">
+                                            <button class="btn btn-link category collapsed" data-toggle="collapse"
+                                                data-target="#collapsesix" aria-expanded="false"
+                                                aria-controls="collapseThree">
                                                 Modern
                                                 <i class="fa fa-angle-down"></i>
                                             </button>
                                         </h5>
                                     </div>
-                                    <div id="collapsesix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                    <div id="collapsesix" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordion">
                                         <div class="card-body category-info">
                                             <a href="javascript:void(0)"> vol 13 Prosopography Approaches</a>
                                             <a href="javascript:void(0)"> vol 15 Who Were the Nuns?</a>

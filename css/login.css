@@ -1,0 +1,274 @@
+/* login-your-account css */
+.about_banner .img_box {
+	background-color: #edf2fa;
+	background-image: radial-gradient(
+			at bottom left,
+			#fec85440 11%,
+			#ffffff00 27%
+		),
+		url(../img/services3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: transparent;
+	/* opacity: 0.5; */
+	padding: 50px 0px 50px 0px;
+	position: relative;
+}
+.background_overlay {
+	background-color: transparent;
+	opacity: 0.5;
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+	height: 100%;
+	width: 100%;
+	background-image: radial-gradient(
+		at bottom center,
+		#fec854 20%,
+		#ffffff00 64%
+	);
+	top: 0px;
+	left: 0;
+	position: absolute;
+}
+
+.background_overlay2 {
+	background-color: transparent;
+	opacity: 0.5;
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+	height: 100%;
+	width: 100%;
+	background-image: radial-gradient(at top right, #1f5ed8 10%, #edf2fa 100%);
+	top: 0;
+	left: 0;
+	position: absolute;
+}
+header#header {
+	position: relative;
+	background: #515151;
+	background-image: url(../img/all-line.webp);
+}
+
+section.main-sec {
+	background-color: #ededef;
+}
+
+.main-top h2 {
+	width: 100%;
+	text-align: center;
+	height: 110px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: "visby-semibold";
+	font-size: 39px;
+	color: #3a3a3a;
+	margin: 0;
+	text-transform: uppercase;
+}
+.post-reviews .form-group label {
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 14px;
+}
+.post-reviews .form-group input {
+	height: 48px;
+	font-family: "Inter";
+}
+
+.post-reviews .form-group input::placeholder {
+	color: #b4b4b4;
+	font-family: "Inter";
+	font-size: 14px;
+}
+
+.post-reviews .form-group textarea#exampleFormControlTextarea1 {
+	height: 120px;
+	resize: none;
+	padding: 10px 10px;
+}
+
+.post-reviews .form-group textarea#exampleFormControlTextarea1::placeholder {
+	color: #b4b4b4;
+	font-family: "visby-med";
+	font-size: 14px;
+}
+
+.post-reviews h3 {
+	color: #0c0200;
+	font-family: '"Lora-Italic"';
+	font-size: 40px;
+	margin-bottom: 21px;
+	font-weight: 600;
+	line-height: 40px;
+}
+
+.post-reviews p {
+	font-size: 16px;
+}
+
+.btn-review {
+	border: 1px solid #fff;
+	padding: 10px 70px;
+	transition: all 0.4s ease-in-out;
+	background-image: linear-gradient(
+		to bottom,
+		#f8b329,
+		#eca923,
+		#e09f1e,
+		#d59617,
+		#c98c11
+	);
+	border-radius: 6px;
+	margin-top: 10px;
+	width: 100%;
+	font-family: "visby";
+	font-size: 15px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.btn-review:hover {
+	border: none !important;
+	background-image: none !important;
+	border: 1px solid #707070 !important;
+	background-color: transparent;
+	cursor: pointer;
+	color: #707070;
+	text-decoration: none;
+}
+
+.post-reviews {
+	height: 100%;
+	margin-left: 25px;
+}
+
+.new h5 a {
+	color: #db9b1b;
+	font-family: "poppins";
+	font-size: 14px;
+	text-decoration: revert;
+	font-weight: 600;
+}
+
+.new form {
+	display: flex;
+	justify-content: space-between;
+}
+
+.new form .form-group {
+	display: flex;
+	align-items: center;
+}
+
+.new form .form-group label {
+	margin: 0;
+	margin-left: 4px;
+	color: #000000;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "poppins";
+}
+
+section.review-sec {
+	margin-top: 130px;
+}
+
+section.review-sec {
+	margin-top: 130px;
+	margin-bottom: 150px;
+}
+
+h4.sign-up {
+	color: #666666;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 20px;
+	font-family: "poppins";
+	text-align: center;
+}
+
+h4.sign-up a {
+	color: #db9b1b;
+	font-family: "poppins";
+	font-size: 14px;
+	/* text-decoration: revert; */
+	font-weight: 700;
+}
+
+.form-group-checkbox {
+	display: block;
+	margin-bottom: 15px;
+}
+
+.form-group-checkbox input {
+	padding: 0;
+	height: initial;
+	width: initial;
+	margin-bottom: 0;
+	display: none;
+	cursor: pointer;
+}
+
+.form-group-checkbox label {
+	position: relative;
+	cursor: pointer;
+}
+
+.form-group-checkbox label:before {
+	content: "";
+	-webkit-appearance: none;
+	background-color: transparent;
+	/* border: 2px solid #0079bf; */
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05),
+		inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+	padding: 10px;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: linear-gradient(
+		to bottom,
+		#f8b329,
+		#eca923,
+		#e09f1e,
+		#d59617,
+		#c98c11
+	);
+	margin-right: 5px;
+}
+
+.form-group-checkbox input:checked + label:after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 5px;
+	left: 7px;
+	width: 7px;
+	height: 14px;
+	border: solid #fff;
+	border-width: 0px 3px 3px 0px;
+	transform: rotate(45deg);
+}
+
+.form-group-checkbox label span {
+	color: #000000;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "poppins";
+	margin-left: 5px;
+}
+@media (max-width: 912px) {
+	.post-reviews {
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+}
+@media (max-width: 575px) {
+	.post-reviews {
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+}
+
+/* login-your-account css */
