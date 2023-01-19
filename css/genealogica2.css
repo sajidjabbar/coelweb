@@ -1,0 +1,186 @@
+.general-info p {
+    margin-bottom: 6px !important;
+    font-size: 14px !important;
+}
+
+section.about-genealogica .Genealogica-text-wrapper {
+    padding: 32px 0;
+}
+/* section.genealogica-books start here */
+section.genealogica-books {
+    padding: 50px 0;
+}
+.heading-prossopro {
+    text-align: start;
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.cardpros {
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+    background-color:  #FFFFFF;
+    padding: 30px 16px;
+    margin-top: 32px;
+    height: 310px;
+}
+.cardpros2 {
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 24%);
+    background-color: #F9F9F9;
+    padding: 30px 16px;
+    margin-top: 32px;
+    height: 310px;
+}
+.cardpros2 .heading-prossopro h4 {
+    font-size: 20px;
+}
+.accordian_btn {
+    display: block;
+    width: 167px !important;
+    height: 40px !important;
+    background-color: #E9E9E9 !important;
+    color: #000000 !important;
+    text-align: center;
+    padding: 8px 0px !important;
+    font-size: 12px !important;
+    border: 0 !important;
+}
+
+a.buy_btn {
+    display: block;
+    width: 152px;
+    height: 40px !important;
+    background-color: #C9B64F;
+    color: #000000 !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    padding: 8px 0px;
+    font-size: 13px;
+}
+
+.fiqurepros {
+    background: #E9E9E9;
+    margin: 10px 0;
+}
+
+.fiqurepros img {
+    width: 100%;
+}
+
+.para-wrapper ul {
+    padding: 6px 0;
+}
+
+
+.bookinfo-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-prossopro h4 {
+    font-size: 21px;
+}
+
+.bookinfo-wrapper li {
+    font-size: 15px;
+}
+
+.para-wrapper p {
+    font-size: 13px;
+}
+
+.all-btns-here {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding: 0 16px;
+}
+
+/* modal css start here */
+.genealogica-books .modal-open .modal {
+    backdrop-filter: brightness(0.7);
+}
+.genealogica-books .modal-dialog {
+    max-width: 735px !important;
+    margin: 30px auto;
+}
+
+.genealogica-books .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.book-topics p {
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+
+.modal-headers {
+    text-align: center;
+    position: relative;
+    padding-top: 46px;
+}
+
+.genealogica-books button.close {
+    position: absolute;
+    right: -21px;
+    top: -15px;
+    background: #DBC341;
+    border-radius: 100%;
+    padding: 6px 13px;
+    color: white;
+    z-index: 999999;
+    opacity: 2;
+}
+
+.genealogica-books .modal-content {
+    border-radius: 0;
+    /* padding: 32px 0; */
+    border: 2px solid #DBC341;
+    background: #FEFBFB !important;
+}
+
+h5#staticBackdropLabel {
+    font-family: 'Lora', serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+.text {
+    text-align: center;
+    padding: 0 40px;
+}
+.abstract-modal{
+    max-width: 800px !important;
+}
+
+/* modal css end here */
+@media (max-width: 768px) {
+    .general-info p {
+        margin-bottom: 6px !important;
+        font-size: 10px !important;
+    }
+    .genealogica-img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .genealogica-img img {
+        width: 100%;
+        height: 100%;
+    }
+    .cardpros {
+        height: unset !important;
+    }
+    .cardpros2 {
+        height: unset !important;
+    }
+    .fiqurepros img {
+        width: unset !important;
+    }
+}
+@media (max-width: 580px) {
+    .all-btns-here {
+        flex-wrap: wrap;
+    }
+}
+/* section.genealogica-books end here */

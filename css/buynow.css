@@ -1,0 +1,92 @@
+/* buysec start here */
+section.buy-sec {
+    padding: 100px 0;
+}
+.trade-box {
+    background: #FEFBFB;
+    text-align: center;
+    border: 1px solid #DDC233;
+    padding: 49px 38px;
+    margin: 16px 0;
+}
+.postage-info {
+    text-align: center;
+    padding: 31px 0;
+}
+.form-group {
+    text-align: left;
+}
+label {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+input.form-control {
+    background: #E9E9E9;
+    color: #707070;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    border-radius: 0;
+    height: 40px;
+    border: 0;
+}
+
+select#exampleFormControlSelect1 {
+    background: #E9E9E9;
+    color: #707070;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    border-radius: 0;
+    border: 0;
+    height: 40px;
+}
+.volume-box {
+    background: #E9E9E9;
+    color: #141414;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 40px;
+    padding: 7px 14px;
+    text-align: left;
+    font-weight: 400;
+}
+.volume {
+    text-align: left;
+}
+.form-row {
+    display: flex;
+    gap: 10px;
+}
+.billing-address .form-row  .form-control {
+    width: 90%;
+}
+@media (max-width: 768px) {
+    p {
+        font-family: "inter";
+        font-size: 11px;
+    }
+    input.form-control {
+        font-size: 10px;
+    }
+    select#exampleFormControlSelect1 {
+        font-size: 10px;
+    }
+    .volume-box {
+        padding: 10px 8px;
+    }
+    label {
+        font-size: 9px;
+    }
+}
+@media (max-width: 580px) {
+    p {
+        font-size: 9px;
+        margin: 0;
+    }
+    .volume {
+        margin: 10px 0;
+        text-align: left;
+    }
+}
+/* buysec end here */
