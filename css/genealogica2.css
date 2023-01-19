@@ -154,6 +154,31 @@ h5#staticBackdropLabel {
 }
 
 /* modal css end here */
+@media (max-width: 1024px) {
+    a.buy_btn {
+        width: 124px !important;
+        font-size: 12px !important;
+    }
+    .accordian_btn {
+        width: 139px !important;
+        font-size: 11px !important;
+    }
+    .cardpros2 {
+        height: unset;
+    }
+    .cardpros {
+        height: unset;
+    }
+    .fiqurepros img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .fiqurepros {
+        height: 81%;
+        width: 100%;
+    }
+}
 @media (max-width: 768px) {
     .general-info p {
         margin-bottom: 6px !important;
