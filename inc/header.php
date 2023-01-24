@@ -91,8 +91,8 @@
                                     <i class="fa fa-user" aria-hidden="true"></i>
                                 </button>
                                 <div class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="login.php">login</a></li>
-                                    <li><a class="dropdown-item" href="signup.php">sign up</a></li>
+                                    <li><a class="dropdown-item" href="login.php">Login</a></li>
+                                    <li><a class="dropdown-item" href="signup.php">Sign up</a></li>
                                 </div>
                             </div>
 
