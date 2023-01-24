@@ -74,12 +74,29 @@
                         </ul>
                     </div>
                     <div class="nav-icons ">
-                    <div class="Hotbg">
-            <input type="text" name="" class="Hotbg-txt" placeholder="Search">
-            <a href="#" class="Hotbg-btn">
-                <i class="fa fa-search"></i>
-            </a>
-        </div>
+                        <div class="search-icon">
+                        <a role="button" onclick="$('.search-box').addClass('show')">
+                            <i class="fa fa-search"></i>
+                        </a>
+                        </div>
+                        <!-- <div class="Hotbg">
+                            <input type="text" name="" class="Hotbg-txt" placeholder="Search">
+                            <a href="#" class="Hotbg-btn">
+                               
+                            </a>
+                        </div> -->
+                        <div class="account-drop-down">
+                            <div class="dropdown">
+                                <button class="btn btn-secondary avatar-dropdown" type="button" data-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa fa-user" aria-hidden="true"></i>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="login.php">login</a></li>
+                                    <li><a class="dropdown-item" href="signup.php">sign up</a></li>
+                                </div>
+                            </div>
+
+                        </div>
                         <div class="cart-icons">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                             <span>1</span>
@@ -89,12 +106,30 @@
                         <div class="canvas-icon ">
                             <i class="fa fa-bars"></i>
                         </div>
+                       
                     </div>
 
                 </div>
             </div>
         </div>
 
+    </div>
+    <div class="search-box">
+        <div class="container">
+            <div class="cancel" onclick="$('.search-box').removeClass('show');">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path>
+                </svg>
+            </div>
+            <form method="get" action="">
+                <div class="form-group">
+                    <input type="text" name="search" class="form-control" placeholder="Search Product..." />
+                    <button type="submit">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
     </div>
 </header>
 <header id="header">
