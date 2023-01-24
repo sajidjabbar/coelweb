@@ -30,7 +30,12 @@ input.form-control {
     height: 40px;
     border: 0;
 }
-
+.form-control:focus {
+    color: #707070;
+    background-color:#E9E9E9 !important;
+    border-color: transparent !important;
+    outline: 0;
+}
 select#exampleFormControlSelect1 {
     background: #E9E9E9;
     color: #707070;

@@ -44,14 +44,14 @@
                                         <div class="form-group">
                                             <label for="formGroupExampleInput">Order Date</label>
                                             <input type="text" class="form-control" placeholder="Enter Date        
-                                        (Trade only)">
+                                               (Trade only)">
                                         </div>
                                     </div>
                                     <div class="col-md-5">
                                         <div class="form-group">
                                             <label for="formGroupExampleInput">Order Number</label>
-                                            <input type="text" class="form-control" placeholder="Enter Date        
-                                        (Trade only)">
+                                            <input type="text" class="form-control" placeholder="Enter Date             
+                                                   (Trade only)">
                                         </div>
                                     </div>
                                     <div class="col-md-2">
@@ -85,7 +85,7 @@
                                     <div class="col-md-5">
                                         <div class="form-group">
                                             <label for="formGroupExampleInput">Email Address</label>
-                                            <input type="text" class="form-control" placeholder="Enter Email">
+                                            <input type="email" class="form-control" placeholder="Enter Email">
                                         </div>
                                     </div>
                                     <div class="col-md-5">
