@@ -107,6 +107,15 @@
                         <h2 class="pros-heading">Your Order Requirements</h2>
                         <div class="books">
                             <div class="row">
+                                <!-- vol-1 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn1">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
                                         <label for="formGroupExampleInput">Volume</label>
@@ -115,7 +124,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
                                         <label for="formGroupExampleInput">Title</label>
                                         <div class="volume-box">
@@ -135,6 +144,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-1 end here -->
+                                <!-- vol-2 start here-->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -143,7 +162,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -161,6 +180,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-2 end here -->
+                                <!-- vol-3 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -171,7 +200,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -189,6 +218,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-3 end here -->
+                                <!-- vol-4 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -199,7 +238,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -217,6 +256,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-4 end here -->
+                                <!-- vol-5 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -227,7 +276,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -245,6 +294,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-5 end here -->
+                                <!-- vol-6 start  here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -255,7 +314,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -273,6 +332,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-6 end here -->
+                                <!-- vol-7 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -283,7 +352,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -301,6 +370,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-7 end here -->
+                                <!-- vol-8 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -311,7 +390,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -329,6 +408,16 @@
                                             <option>4</option>
                                             <option>5</option>
                                         </select>
+                                    </div>
+                                </div>
+                                <!-- vol-8 end here -->
+                                <!-- vol-9 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -339,7 +428,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -359,6 +448,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-9 end here -->
+                                <!-- vol-10 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -367,7 +466,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -387,6 +486,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-10 end here -->
+                                <!-- vol-11 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -395,7 +504,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -415,6 +524,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-11 end here -->
+                                <!-- vol-12 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -423,7 +542,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -443,6 +562,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-12 end here -->
+                                <!-- vol-13 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -451,7 +580,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -471,6 +600,16 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-13 end here -->
+                                <!-- vol-14 start here -->
+                                <div class="col-md-1">
+                                    <div class="check-btnn">
+                                        <label class="containerz">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                </div>
                                 <div class="col-md-2">
                                     <div class="volume">
 
@@ -479,7 +618,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-7">
                                     <div class="volume">
 
                                         <div class="volume-box">
@@ -499,19 +638,108 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- vol-14 end here -->
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <!-- order-summary -->
+            <div class="col-md-12">
+                <div class="trade-box">
+                    <div class="trade-text-wrapper">
+                        <h2 class="pros-heading">Order Summary</h2>
+
+                    </div>
+                    <div class="summary-heading d-flex ">
+                        <!-- <th scope="col">Product Name</th> -->
+                        <div class="col-md-6 p-0 ">
+                            <div class="product-box product-name-box">
+                                <div class="product-heading">
+                                    <h2 class="pros-heading">
+                                        Product Name
+                                    </h2>
+                                </div>
+                                <div class="order-detail d-flex align-items-center">
+                                    <div class="order-img">
+                                        <img src="img/Vol-1.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class="product-name">
+                                        <h3 class="pros-heading">volume 1 Criticism and Critique: Sidelights on the Konradiner</h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 p-0">
+                            <div class="product-box product-price">
+                                <div class="product-heading">
+                                    <h2 class="pros-heading">
+                                        Price
+                                    </h2>
+                                </div>
+                                <div class="order-detail d-flex justify-content-center align-items-center">
+                                    <div class="price">
+                                        <p>$20</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 p-0">
+                            <div class="product-box product-quantity">
+                                <div class="product-heading">
+                                    <h2 class="pros-heading">
+                                        Quantity
+                                    </h2>
+                                </div>
+                                <div class="order-detail d-flex justify-content-center align-items-center">
+                                    <div class="numbers">
+                                        <div class="qty-box">
+                                            <div class="num-add">
+                                                <span class="num"></span>
+                                            </div>
+                                            <div class="addition">
+                                                <div class="minus-box">
+                                                    <span class="minus"><i class="fa fa-angle-up" aria-hidden="true"></i></span>
+                                                </div>
+                                                <div class="plus-box">
+                                                    <span class="plus"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 p-0">
+                            <div class="product-box product-subtotal">
+                                <div class="product-heading">
+                                    <h2 class="pros-heading">
+                                        Sub Total
+                                    </h2>
+                                </div>
+                                <div class="order-detail d-flex justify-content-center align-items-center">
+                                    <div class="price-total">
+                                        <p>$20</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <th scope="col">Price</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Sub Total</th> -->
                     </div>
                 </div>
             </div>
             <!-- address-book one -->
             <div class="col-md-12">
                 <div class="postage-info">
-                <div class="para-heading">
-                    <h2 class="pros-heading">Postage Information </h2>
+                    <div class="para-heading">
+                        <h2 class="pros-heading">Postage Information </h2>
+                    </div>
                 </div>
-                </div>
-                
+
                 <div class="trade-box">
                     <div class="trade-text-wrapper">
                         <h2 class="pros-heading">Billing Address </h2>
@@ -527,30 +755,30 @@
                                     <input type="text" class="form-control" id="inputAddress2" placeholder="Enter Address">
                                 </div>
                                 <div class="form-row">
-                                <div class="col-md-3 p-0 ">
-                                    <div class="form-group ">
-                                        <label for="inputTown">Town</label>
-                                        <input type="text" class="form-control" id="inputTown">
+                                    <div class="col-md-3 p-0 ">
+                                        <div class="form-group ">
+                                            <label for="inputTown">Town</label>
+                                            <input type="text" class="form-control" id="inputTown">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group">
-                                        <label for="inputCity">County</label>
-                                        <input type="text" class="form-control" id="inputCity">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group">
+                                            <label for="inputCity">County</label>
+                                            <input type="text" class="form-control" id="inputCity">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group">
-                                        <label for="inputState">State</label>
-                                        <input type="text" class="form-control" id="inputState">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group">
+                                            <label for="inputState">State</label>
+                                            <input type="text" class="form-control" id="inputState">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group ">
-                                        <label for="inputZip">Zipcode</label>
-                                        <input type="text" class="form-control" id="inputZip">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group ">
+                                            <label for="inputZip">Zipcode</label>
+                                            <input type="text" class="form-control" id="inputZip">
+                                        </div>
                                     </div>
-                                </div>
                                 </div>
                                 <div class="form-group">
                                     <label for="inputCountry">Country</label>
@@ -562,7 +790,7 @@
                     </div>
                 </div>
             </div>
-             <!-- address-book two -->
+            <!-- address-book two -->
             <div class="col-md-12">
                 <div class="trade-box">
                     <div class="trade-text-wrapper">
@@ -580,30 +808,30 @@
                                     <input type="text" class="form-control" id="inputAddress2" placeholder="Enter Address">
                                 </div>
                                 <div class="form-row">
-                                <div class="col-md-3 p-0 ">
-                                    <div class="form-group ">
-                                        <label for="inputTown">Town</label>
-                                        <input type="text" class="form-control" id="inputTown">
+                                    <div class="col-md-3 p-0 ">
+                                        <div class="form-group ">
+                                            <label for="inputTown">Town</label>
+                                            <input type="text" class="form-control" id="inputTown">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group">
-                                        <label for="inputCity">County</label>
-                                        <input type="text" class="form-control" id="inputCity">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group">
+                                            <label for="inputCity">County</label>
+                                            <input type="text" class="form-control" id="inputCity">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group">
-                                        <label for="inputState">State</label>
-                                        <input type="text" class="form-control" id="inputState">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group">
+                                            <label for="inputState">State</label>
+                                            <input type="text" class="form-control" id="inputState">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-3 p-0">
-                                    <div class="form-group ">
-                                        <label for="inputZip">Zipcode</label>
-                                        <input type="text" class="form-control" id="inputZip">
+                                    <div class="col-md-3 p-0">
+                                        <div class="form-group ">
+                                            <label for="inputZip">Zipcode</label>
+                                            <input type="text" class="form-control" id="inputZip">
+                                        </div>
                                     </div>
-                                </div>
                                 </div>
                                 <div class="form-group">
                                     <label for="inputCountry">Country</label>
@@ -613,6 +841,11 @@
                             </form>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="submit-btnn">
+                <button type="submit" class="btn btn-primary" onclick="window.location.href = 'checkout.php';">Submit</button>
                 </div>
             </div>
         </div>
