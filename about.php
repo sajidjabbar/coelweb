@@ -37,7 +37,7 @@
         <div class="row align-items-end">
             <div class="col-md-6">
                 <div class="img_box">
-                    <figure><img src="img/about-sect.jpg" class="img-fluid"></figure>
+                    <figure><img src="img/kkr.jpg" class="img-fluid"></figure>
                 </div>
 
             </div>
@@ -86,7 +86,7 @@
             </div>
             <div class="col-md-6">
                 <div class="img_box">
-                    <figure><img src="img/about-sect2.jpg" class="img-fluid"></figure>
+                    <figure><img src="img/glasses.jpg" class="img-fluid"></figure>
                 </div>
 
             </div>

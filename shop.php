@@ -176,6 +176,9 @@
                         </ul>
 
                     </div>
+                    <div class="book_tree">
+                        <img src="img/treebook.png" alt="" class="img-fluid">
+                    </div>
                     <!-- <div class="range-pricing">
                                     <p class="green_para">Price: € 200</p>
                                 </div> -->

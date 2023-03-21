@@ -57,6 +57,9 @@
                                 <a class="menu" href="shop.php"> shop</a>
                             </li>
                             <li>
+                                <a href="prosopographica-et-genealogica2.php">Prosopographica et Genealogica</a>
+                            </li>
+                            <li>
                                 <a class="menu" href="publications.php">Publications</a>
                             </li>
                             <li>
@@ -65,9 +68,7 @@
                             <li>
                                 <a class="menu" href="database.php"> Database</a>
                             </li>
-                            <li>
-                                <a href="prosopographica-et-genealogica2.php">Prosopographica et Genealogica</a>
-                            </li>
+                           
                             <li>
                                 <a class="menu" href="contact.php"> contact</a>
                             </li>

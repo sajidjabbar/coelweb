@@ -50,7 +50,7 @@
                         </figure>
                         <div class="absolute-heading">
                             <div class="heading-contect">
-                                <a href="#">Economic History</a>
+                                <a href="#">medieval</a>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                         </figure>
                         <div class="absolute-heading">
                             <div class="heading-contect">
-                                <a href="#">Political History</a>
+                                <a href="#">early modern</a>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                         </figure>
                         <div class="absolute-heading">
                             <div class="heading-contect">
-                                <a href="#">E-Book</a>
+                                <a href="#">classical</a>
                             </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                         </figure>
                         <div class="absolute-heading">
                             <div class="heading-contect">
-                                <a href="#">Diplomatic History</a>
+                                <a href="#">methodology</a>
                             </div>
                         </div>
                     </div>
