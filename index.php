@@ -132,7 +132,7 @@
             <div class="col-md-4">
                 <div class="animate__animated animate__fadeInRight animate__delay-9s ">
                     <div class="detail-img">
-                        <img src="img/home-last-sec.jpg" alt="" class="img-fluid">
+                        <img src="img/novelimg.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>

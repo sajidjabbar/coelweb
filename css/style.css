@@ -400,7 +400,10 @@ body {
 	background-color: transparent;
 	transition: 0.3s;
 }
-
+.detail-img img {
+    height: 501px;
+    /* height: 100%; */
+}
 @media (max-width: 1024px) {
 	.web-nav li {
 		display: inline;
@@ -515,6 +518,10 @@ li.nav-link a {
 @media (max-width: 575px) {
 	#header .mobile-header {
 		width: 35%;
+	}
+	.detail-img img {
+		height:auto;
+		/* height: 100%; */
 	}
 }
 
